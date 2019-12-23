@@ -1,0 +1,1167 @@
+#EXTM3U url-tvg="http://10.0.0.12:34400/xmltv/xteve.xml" x-tvg-url="http://10.0.0.12:34400/xmltv/xteve.xml"
+#EXTINF:0 channelID="x-ID.136" tvg-chno="1" tvg-name="TBS" tvg-id="1" tvg-logo="http://10.0.0.12:34400/images/5e0841e87b0a9a3ecdd637e59e068c30.png" group-title="US",TBS
+http://10.0.0.12:34400/stream/4c65b1e05411ce7e0e22481ff2ee8a17
+#EXTINF:0 channelID="x-ID.139" tvg-chno="2" tvg-name="TLC (East)" tvg-id="2" tvg-logo="http://10.0.0.12:34400/images/2285a9b2e5d7b704b91ab44bbfa5b442.png" group-title="US",TLC (East)
+http://10.0.0.12:34400/stream/5b3237e316b743d5c5b2bd8c58f5e617
+#EXTINF:0 channelID="x-ID.565" tvg-chno="3" tvg-name="NBC Sports North West US" tvg-id="3" tvg-logo="http://10.0.0.12:34400/images/5e1165fe575bc931f3103a1073c39513.png" group-title="Sports",NBC Sports North West US
+http://10.0.0.12:34400/stream/90adca2bcf83fbcb2c5b4ddd32391941
+#EXTINF:0 channelID="x-ID.756" tvg-chno="4" tvg-name="HBO (West)" tvg-id="4" tvg-logo="http://10.0.0.12:34400/images/1e5b9c38ef851d294d07276359091006.png" group-title="Entertainment",HBO (West)
+http://10.0.0.12:34400/stream/88c7a1dbf4a2e9310f76f3372812dc60
+#EXTINF:0 channelID="x-ID.769" tvg-chno="5" tvg-name="Showtime (West) US" tvg-id="5" tvg-logo="http://10.0.0.12:34400/images/5d10f58d89f9da273bdb23adf4a5645a.png" group-title="Entertainment",Showtime (West) US
+http://10.0.0.12:34400/stream/7c70987617827ee72219a9bfa3ab8880
+#EXTINF:0 channelID="x-ID.790" tvg-chno="6" tvg-name="Starz Westerns US (East) US" tvg-id="6" tvg-logo="http://10.0.0.12:34400/images/0603923f27cfbf730ea226672e30c715.png" group-title="Entertainment",Starz Westerns US (East) US
+http://10.0.0.12:34400/stream/d602d9b6ab78e8d88f0a0612c297f8f0
+#EXTINF:0 channelID="x-ID.103" tvg-chno="7" tvg-name="PBS Kids US" tvg-id="7" tvg-logo="http://10.0.0.12:34400/images/0510b572d698218f75bef02b505b82a2.png" group-title="US",PBS Kids US
+http://10.0.0.12:34400/stream/f2994b00358d4bde71e9066abac8bc84
+#EXTINF:0 channelID="x-ID.131" tvg-chno="8" tvg-name="Starz Kids Family (East) US" tvg-id="8" tvg-logo="http://10.0.0.12:34400/images/5b2feb4dbace703e1c07f771e4a9f15c.png" group-title="US",Starz Kids Family (East) US
+http://10.0.0.12:34400/stream/0ea37a7043c17d86154e824555916912
+#EXTINF:0 channelID="x-ID.44" tvg-chno="9" tvg-name="Disney Jr (East) US" tvg-id="9" tvg-logo="http://10.0.0.12:34400/images/06ea65b38658287511c8053e6aedac56.png" group-title="US",Disney Jr (East) US
+http://10.0.0.12:34400/stream/9cc7a115dc0c78b0391bb294ba68cbc8
+#EXTINF:0 channelID="x-ID.210" tvg-chno="10" tvg-name="Disney Junior CA" tvg-id="10" tvg-logo="http://10.0.0.12:34400/images/b70aa227476c1cc57b48e7f312ec98f6.png" group-title="Canada",Disney Junior CA
+http://10.0.0.12:34400/stream/68d43aceb56308973531e71bca84ff19
+#EXTINF:0 channelID="x-ID.797" tvg-chno="11" tvg-name="Disney Jr UK" tvg-id="11" tvg-logo="http://10.0.0.12:34400/images/1b4641b63fd5d919df7108ef4ccfa53a.png" group-title="UK",Disney Jr UK
+http://10.0.0.12:34400/stream/69ad2162ac887b09b159d844170a34fb
+#EXTINF:0 channelID="x-ID.9" tvg-chno="12" tvg-name="Baby Tv US" tvg-id="12" tvg-logo="http://10.0.0.12:34400/images/282ad763c3be39ccb55932fb20a30185.png" group-title="US",Baby Tv US
+http://10.0.0.12:34400/stream/d05e5de636221f12755ba38542176cf0
+#EXTINF:0 channelID="x-ID.894" tvg-chno="13" tvg-name="Baby Tv US" tvg-id="13" tvg-logo="http://10.0.0.12:34400/images/282ad763c3be39ccb55932fb20a30185.png" group-title="Kids",Baby Tv US
+http://10.0.0.12:34400/stream/d05e5de636221f12755ba38542176cf0
+#EXTINF:0 channelID="x-ID.94" tvg-chno="14" tvg-name="Nick Jr US" tvg-id="14" tvg-logo="http://10.0.0.12:34400/images/808abfd22a1ef03faa1b9a65919cdc8b.png" group-title="US",Nick Jr US
+http://10.0.0.12:34400/stream/286fd6aa4d4978dde96f3eab7335ca44
+#EXTINF:0 channelID="x-ID.902" tvg-chno="15" tvg-name="Disney Jr UK" tvg-id="15" tvg-logo="http://10.0.0.12:34400/images/1b4641b63fd5d919df7108ef4ccfa53a.png" group-title="Kids",Disney Jr UK
+http://10.0.0.12:34400/stream/69ad2162ac887b09b159d844170a34fb
+#EXTINF:0 channelID="x-ID.95" tvg-chno="16" tvg-name="Nickelodeon (East) US" tvg-id="16" tvg-logo="http://10.0.0.12:34400/images/fcfb4c939be32bc39f240b842cdf2c6a.png" group-title="US",Nickelodeon (East) US
+http://10.0.0.12:34400/stream/84b1cdd61992b626bb34f41bba7fd0e8
+#EXTINF:0 channelID="x-ID.96" tvg-chno="17" tvg-name="Nicktoons US" tvg-id="17" tvg-logo="http://10.0.0.12:34400/images/6c94de783f987bc29b8ddd53bbd3ad25.png" group-title="US",Nicktoons US
+http://10.0.0.12:34400/stream/5aafdcf78cebe4102b5da178c2de29d1
+#EXTINF:0 channelID="x-ID.137" tvg-chno="18" tvg-name="TeenNick (East) US" tvg-id="18" tvg-logo="http://10.0.0.12:34400/images/d1d57e68462131912c38dc98844af8fb.png" group-title="US",TeenNick (East) US
+http://10.0.0.12:34400/stream/0c557464ebec451c9aef6739ff779b23
+#EXTINF:0 channelID="x-ID.911" tvg-chno="19" tvg-name="PBS Kids US" tvg-id="19" tvg-logo="http://10.0.0.12:34400/images/0510b572d698218f75bef02b505b82a2.png" group-title="Kids",PBS Kids US
+http://10.0.0.12:34400/stream/f2994b00358d4bde71e9066abac8bc84
+#EXTINF:0 channelID="x-ID.209" tvg-chno="20" tvg-name="Disney Channel (East) CA" tvg-id="20" tvg-logo="http://10.0.0.12:34400/images/9894dc5b510827be61cc8b06e3b6e332.png" group-title="Canada",Disney Channel (East) CA
+http://10.0.0.12:34400/stream/ad7aa4594cdbfa9525550e6031b1239a
+#EXTINF:0 channelID="x-ID.908" tvg-chno="21" tvg-name="Nick Jr US" tvg-id="21" tvg-logo="http://10.0.0.12:34400/images/808abfd22a1ef03faa1b9a65919cdc8b.png" group-title="Kids",Nick Jr US
+http://10.0.0.12:34400/stream/286fd6aa4d4978dde96f3eab7335ca44
+#EXTINF:0 channelID="x-ID.43" tvg-chno="22" tvg-name="Disney Channel (East) US" tvg-id="22" tvg-logo="http://10.0.0.12:34400/images/77d5d4401105fe60fffcf33279a6d30e.png" group-title="US",Disney Channel (East) US
+http://10.0.0.12:34400/stream/c7c0293b83d7d5e53842af32541f5b5f
+#EXTINF:0 channelID="x-ID.909" tvg-chno="23" tvg-name="Nickelodeon (East) US" tvg-id="23" tvg-logo="http://10.0.0.12:34400/images/fcfb4c939be32bc39f240b842cdf2c6a.png" group-title="Kids",Nickelodeon (East) US
+http://10.0.0.12:34400/stream/84b1cdd61992b626bb34f41bba7fd0e8
+#EXTINF:0 channelID="x-ID.910" tvg-chno="24" tvg-name="Nicktoons US" tvg-id="24" tvg-logo="http://10.0.0.12:34400/images/6c94de783f987bc29b8ddd53bbd3ad25.png" group-title="Kids",Nicktoons US
+http://10.0.0.12:34400/stream/5aafdcf78cebe4102b5da178c2de29d1
+#EXTINF:0 channelID="x-ID.899" tvg-chno="25" tvg-name="Disney Channel (East) CA" tvg-id="25" tvg-logo="http://10.0.0.12:34400/images/9894dc5b510827be61cc8b06e3b6e332.png" group-title="Kids",Disney Channel (East) CA
+http://10.0.0.12:34400/stream/ad7aa4594cdbfa9525550e6031b1239a
+#EXTINF:0 channelID="x-ID.900" tvg-chno="26" tvg-name="Disney Channel (East) US" tvg-id="26" tvg-logo="http://10.0.0.12:34400/images/77d5d4401105fe60fffcf33279a6d30e.png" group-title="Kids",Disney Channel (East) US
+http://10.0.0.12:34400/stream/c7c0293b83d7d5e53842af32541f5b5f
+#EXTINF:0 channelID="x-ID.45" tvg-chno="27" tvg-name="Disney Xd (East) US" tvg-id="27" tvg-logo="http://10.0.0.12:34400/images/a52e5ab32d8a8cd282870739f70d35bf.png" group-title="US",Disney Xd (East) US
+http://10.0.0.12:34400/stream/f7bdfa731a624caf3efcb63f91e3f65e
+#EXTINF:0 channelID="x-ID.211" tvg-chno="28" tvg-name="Disney XD CA" tvg-id="28" tvg-logo="http://10.0.0.12:34400/images/39f7c332a4074f7048d7120b9a232e2f.png" group-title="Canada",Disney XD CA
+http://10.0.0.12:34400/stream/01d574ea15551541ff91512abe5dba5f
+#EXTINF:0 channelID="x-ID.799" tvg-chno="29" tvg-name="Disney Xd UK" tvg-id="29" tvg-logo="http://10.0.0.12:34400/images/93374158e5424488cb701674eb48b70d.png" group-title="UK",Disney Xd UK
+http://10.0.0.12:34400/stream/f2035043b2e2fb7c1bc016ce75c3aa64
+#EXTINF:0 channelID="x-ID.912" tvg-chno="30" tvg-name="TeenNick (East) US" tvg-id="30" tvg-logo="http://10.0.0.12:34400/images/d1d57e68462131912c38dc98844af8fb.png" group-title="Kids",TeenNick (East) US
+http://10.0.0.12:34400/stream/0c557464ebec451c9aef6739ff779b23
+#EXTINF:0 channelID="x-ID.905" tvg-chno="31" tvg-name="Disney Xd (East) US" tvg-id="31" tvg-logo="http://10.0.0.12:34400/images/a52e5ab32d8a8cd282870739f70d35bf.png" group-title="Kids",Disney Xd (East) US
+http://10.0.0.12:34400/stream/f7bdfa731a624caf3efcb63f91e3f65e
+#EXTINF:0 channelID="x-ID.906" tvg-chno="32" tvg-name="Disney XD CA" tvg-id="32" tvg-logo="http://10.0.0.12:34400/images/39f7c332a4074f7048d7120b9a232e2f.png" group-title="Kids",Disney XD CA
+http://10.0.0.12:34400/stream/01d574ea15551541ff91512abe5dba5f
+#EXTINF:0 channelID="x-ID.907" tvg-chno="33" tvg-name="Disney Xd UK" tvg-id="33" tvg-logo="http://10.0.0.12:34400/images/93374158e5424488cb701674eb48b70d.png" group-title="Kids",Disney Xd UK
+http://10.0.0.12:34400/stream/f2035043b2e2fb7c1bc016ce75c3aa64
+#EXTINF:0 channelID="x-ID.20" tvg-chno="34" tvg-name="Cartoon Network (East) US" tvg-id="34" tvg-logo="http://10.0.0.12:34400/images/2e169cabf630ca2baea20dd8d373fd82.png" group-title="US",Cartoon Network (East) US
+http://10.0.0.12:34400/stream/5ec9e9b56752b1338c0d1e2f413d881a
+#EXTINF:0 channelID="x-ID.165" tvg-chno="35" tvg-name="Cartoon Network" tvg-id="35" tvg-logo="http://10.0.0.12:34400/images/32be73b255db2e02f186ea106cbbaec5.png" group-title="Canada",Cartoon Network
+http://10.0.0.12:34400/stream/90a7c30245f7617c11f58bf841527a87
+#EXTINF:0 channelID="x-ID.798" tvg-chno="36" tvg-name="Disney UK" tvg-id="36" tvg-logo="http://10.0.0.12:34400/images/6e7503f8cc324f551700f5ddabc9c1e8.png" group-title="UK",Disney UK
+http://10.0.0.12:34400/stream/d73e8420885ef33ec3841bfdeb06d446
+#EXTINF:0 channelID="x-ID.795" tvg-chno="37" tvg-name="Cartoon Network UK" tvg-id="37" tvg-logo="http://10.0.0.12:34400/images/976e363d7335b2349ed09cfbe679e1e5.png" group-title="UK",Cartoon Network UK
+http://10.0.0.12:34400/stream/3dc81895e1f8b6ef7450ddf3923ca3be
+#EXTINF:0 channelID="x-ID.796" tvg-chno="38" tvg-name="Cartoonito UK" tvg-id="38" tvg-logo="http://10.0.0.12:34400/images/6b6c63c035c4c4f831f06fa37738d263.png" group-title="UK",Cartoonito UK
+http://10.0.0.12:34400/stream/f0d1223b10b2ea7afb24942fe7e27927
+#EXTINF:0 channelID="x-ID.896" tvg-chno="43" tvg-name="Cartoon Network (East) US" tvg-id="43" tvg-logo="http://10.0.0.12:34400/images/2e169cabf630ca2baea20dd8d373fd82.png" group-title="Kids",Cartoon Network (East) US
+http://10.0.0.12:34400/stream/5ec9e9b56752b1338c0d1e2f413d881a
+#EXTINF:0 channelID="x-ID.897" tvg-chno="44" tvg-name="Cartoon Network UK" tvg-id="44" tvg-logo="http://10.0.0.12:34400/images/976e363d7335b2349ed09cfbe679e1e5.png" group-title="Kids",Cartoon Network UK
+http://10.0.0.12:34400/stream/3dc81895e1f8b6ef7450ddf3923ca3be
+#EXTINF:0 channelID="x-ID.898" tvg-chno="45" tvg-name="Cartoonito UK" tvg-id="45" tvg-logo="http://10.0.0.12:34400/images/6b6c63c035c4c4f831f06fa37738d263.png" group-title="Kids",Cartoonito UK
+http://10.0.0.12:34400/stream/f0d1223b10b2ea7afb24942fe7e27927
+#EXTINF:0 channelID="x-ID.155" tvg-chno="47" tvg-name="WPIX New York" tvg-id="47" tvg-logo="http://10.0.0.12:34400/images/9ea3616d9f7aeba9e2e6b22df8be92ea.png" group-title="US",WPIX New York
+http://10.0.0.12:34400/stream/b6884a1ca2071bbff27ca3850e948414
+#EXTINF:0 channelID="x-ID.153" tvg-chno="48" tvg-name="WFNWorld Fishing Network" tvg-id="48" tvg-logo="http://10.0.0.12:34400/images/4c9551eaefa365b64e6a4ff350a2d5c8.png" group-title="US",WFNWorld Fishing Network
+http://10.0.0.12:34400/stream/d25cd76510c6a1c26f52e9b87d2a73e4
+#EXTINF:0 channelID="x-ID.160" tvg-chno="49" tvg-name="Animal Planet" tvg-id="49" tvg-logo="http://10.0.0.12:34400/images/d549318b8402dc0d79fcffaacd2c2f44.png" group-title="Canada",Animal Planet
+http://10.0.0.12:34400/stream/adbf474232a508f59111c8de5b79a78c
+#EXTINF:0 channelID="x-ID.0" tvg-chno="1000" tvg-name="A&E (East) US" tvg-id="1000" tvg-logo="http://10.0.0.12:34400/images/3c4aaa8f4c3ada0a3d5a34e01f46e0d6.png" group-title="US",A&E (East) US
+http://10.0.0.12:34400/stream/73480effb00816d8e4c5686844808186
+#EXTINF:0 channelID="x-ID.1" tvg-chno="1001" tvg-name="Adult Swim (east) US" tvg-id="1001" tvg-logo="http://10.0.0.12:34400/images/5b62ed53208fac6d72421db507f4cf9b.png" group-title="US",Adult Swim (east) US
+http://10.0.0.12:34400/stream/19d18d0fd59a532e010efd9efa6ccf53
+#EXTINF:0 channelID="x-ID.2" tvg-chno="1002" tvg-name="AMC (East) US" tvg-id="1002" tvg-logo="http://10.0.0.12:34400/images/5222dd4b5eb993f3cf17a279dec2737c.png" group-title="US",AMC (East) US
+http://10.0.0.12:34400/stream/4cacc70b58e5073a846f099a6c38de40
+#EXTINF:0 channelID="x-ID.3" tvg-chno="1003" tvg-name="American Heroes Channel" tvg-id="1003" tvg-logo="http://10.0.0.12:34400/images/972a058f24c1c006c245e9ea03b1d45f.png" group-title="US",American Heroes Channel
+http://10.0.0.12:34400/stream/a70d0bc266e524a9164cfc92e99035ba
+#EXTINF:0 channelID="x-ID.4" tvg-chno="1004" tvg-name="Animal Planet (East) US" tvg-id="1004" tvg-logo="http://10.0.0.12:34400/images/0302bf7a337f3c4e5e52f4a0d1872ca5.png" group-title="US",Animal Planet (East) US
+http://10.0.0.12:34400/stream/af17e77ed7bd5007e1abc652be3ffbe6
+#EXTINF:0 channelID="x-ID.5" tvg-chno="1005" tvg-name="Antena 3" tvg-id="1005" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/antena.3.us.png" group-title="US",Antena 3
+http://10.0.0.12:34400/stream/338382a0ccdd509100882d71190fede8
+#EXTINF:0 channelID="x-ID.6" tvg-chno="1006" tvg-name="ASPiRE TV" tvg-id="1006" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/aspire.tv.us.png" group-title="US",ASPiRE TV
+http://10.0.0.12:34400/stream/a9f6d06446042ce5670433890282f808
+#EXTINF:0 channelID="x-ID.7" tvg-chno="1007" tvg-name="AWE TV Network" tvg-id="1007" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/awe.tv.network.us.png" group-title="US",AWE TV Network
+http://10.0.0.12:34400/stream/7653b01d1e43ea9378a8257de3781d7b
+#EXTINF:0 channelID="x-ID.8" tvg-chno="1008" tvg-name="AXS TV" tvg-id="1008" tvg-logo="http://10.0.0.12:34400/images/50e4e73f1db562d99e044db41cc6fadf.png" group-title="US",AXS TV
+http://10.0.0.12:34400/stream/d0d1823c09bfa9d1c133916d85715690
+#EXTINF:0 channelID="x-ID.10" tvg-chno="1010" tvg-name="BBC America" tvg-id="1010" tvg-logo="http://10.0.0.12:34400/images/db5f74eb7c48588d892e7ff1a3fa35cf.png" group-title="US",BBC America
+http://10.0.0.12:34400/stream/c4ee0ca26ceeaad79c9cf6df4b6434d2
+#EXTINF:0 channelID="x-ID.11" tvg-chno="1011" tvg-name="BBC World North America US" tvg-id="1011" tvg-logo="http://10.0.0.12:34400/images/3ac0b2fcfc755917ebd39870501d5904.png" group-title="US",BBC World North America US
+http://10.0.0.12:34400/stream/1134f8e534c2ca11831f06855c6c3ec9
+#EXTINF:0 channelID="x-ID.12" tvg-chno="1012" tvg-name="Bet (East)" tvg-id="1012" tvg-logo="http://10.0.0.12:34400/images/324f74f8fa65f7df4cfe903e1cc0a47c.png" group-title="US",Bet (East)
+http://10.0.0.12:34400/stream/bfb132a5ede9a6b0e9db86d0fae24f96
+#EXTINF:0 channelID="x-ID.13" tvg-chno="1013" tvg-name="Bet Her US" tvg-id="1013" tvg-logo="http://10.0.0.12:34400/images/73f46701a30eb6b40cf974924d9edd6d.png" group-title="US",Bet Her US
+http://10.0.0.12:34400/stream/f72367bdfaecd553ed576a0ec41dad37
+#EXTINF:0 channelID="x-ID.14" tvg-chno="1014" tvg-name="BET Jams" tvg-id="1014" tvg-logo="http://10.0.0.12:34400/images/6ec38548b34f4a072872bd8df5f623c4.png" group-title="US",BET Jams
+http://10.0.0.12:34400/stream/b377aa38fe803473808373eec7a5d161
+#EXTINF:0 channelID="x-ID.15" tvg-chno="1015" tvg-name="BET Soul" tvg-id="1015" tvg-logo="http://10.0.0.12:34400/images/eaca0dc33701cbb79b1d2f097f709911.png" group-title="US",BET Soul
+http://10.0.0.12:34400/stream/53c4b42b7e8f75b76f6807409d904709
+#EXTINF:0 channelID="x-ID.16" tvg-chno="1016" tvg-name="Big Ten Network US" tvg-id="1016" tvg-logo="http://10.0.0.12:34400/images/415d508498c2eaaaed6111891dc899f5.png" group-title="US",Big Ten Network US
+http://10.0.0.12:34400/stream/a1c9bb0fa50151190c5c51cc33c16ba1
+#EXTINF:0 channelID="x-ID.17" tvg-chno="1017" tvg-name="Bloomberg US" tvg-id="1017" tvg-logo="http://10.0.0.12:34400/images/d33aed6692446e4be0ef25cecf962ae3.png" group-title="US",Bloomberg US
+http://10.0.0.12:34400/stream/0a9da10d9a4334da7806cac97874d8e6
+#EXTINF:0 channelID="x-ID.18" tvg-chno="1018" tvg-name="Boomerang" tvg-id="1018" tvg-logo="http://10.0.0.12:34400/images/72b8b005d0e8aecdd92426090d1ef43b.png" group-title="US",Boomerang
+http://10.0.0.12:34400/stream/dbb339fc5feb0f756198bb4ef0e56ef4
+#EXTINF:0 channelID="x-ID.19" tvg-chno="1019" tvg-name="Bravo (East)" tvg-id="1019" tvg-logo="http://10.0.0.12:34400/images/5fd1506c49d816c299a7374615a63cf1.png" group-title="US",Bravo (East)
+http://10.0.0.12:34400/stream/8b29ae2a78072efb76ab10ae4d873dd3
+#EXTINF:0 channelID="x-ID.21" tvg-chno="1021" tvg-name="CBS KCAL Los Angeles" tvg-id="1021" tvg-logo="http://10.0.0.12:34400/images/cbca561a6a2f365ed4a31fd3a1e72a45.png" group-title="US",CBS KCAL Los Angeles
+http://10.0.0.12:34400/stream/bb39cad09f994fee3eadd79cdc933447
+#EXTINF:0 channelID="x-ID.22" tvg-chno="1022" tvg-name="CHCH Hamilton, ON" tvg-id="1022" tvg-logo="http://10.0.0.12:34400/images/55f78f9a195b465598bab2255638a36d.png" group-title="US",CHCH Hamilton, ON
+http://10.0.0.12:34400/stream/aa0c367d829d0dc6bad271ef3f3ab8db
+#EXTINF:0 channelID="x-ID.23" tvg-chno="1023" tvg-name="CheddarU" tvg-id="1023" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/cheddaru.us.png" group-title="US",CheddarU
+http://10.0.0.12:34400/stream/7a3250741d550359a95d38d2e4c05bfa
+#EXTINF:0 channelID="x-ID.24" tvg-chno="1024" tvg-name="Cinemax (East) US" tvg-id="1024" tvg-logo="http://10.0.0.12:34400/images/91fb85d66e979b2ae6a5f0f1ac44b2fa.png" group-title="US",Cinemax (East) US
+http://10.0.0.12:34400/stream/a1900e87523d3aaaf1fa025833519039
+#EXTINF:0 channelID="x-ID.25" tvg-chno="1025" tvg-name="CMT (East)" tvg-id="1025" tvg-logo="http://10.0.0.12:34400/images/a67ad6d9f9e34d41767783ec33cfe0ad.png" group-title="US",CMT (East)
+http://10.0.0.12:34400/stream/3b0d766c1e3a18d5433e757c7b591345
+#EXTINF:0 channelID="x-ID.26" tvg-chno="1026" tvg-name="CNBC US" tvg-id="1026" tvg-logo="http://10.0.0.12:34400/images/ce21b7d05817b17b43fdb6e88893be81.png" group-title="US",CNBC US
+http://10.0.0.12:34400/stream/29f2a5b6f8f706c502c41e83948430fe
+#EXTINF:0 channelID="x-ID.27" tvg-chno="1027" tvg-name="CNBC World US" tvg-id="1027" tvg-logo="http://10.0.0.12:34400/images/9417fe3db3c96ff11111e2430b69f8b4.png" group-title="US",CNBC World US
+http://10.0.0.12:34400/stream/4bd0a1d424f0eba683672193a30d5b8d
+#EXTINF:0 channelID="x-ID.28" tvg-chno="1028" tvg-name="CNN International North America" tvg-id="1028" tvg-logo="http://10.0.0.12:34400/images/6e4f4d2312629ed55c4248fadafdbe9e.png" group-title="US",CNN International North America
+http://10.0.0.12:34400/stream/fe88680f8a43fa8f1e637ac002d7c8a2
+#EXTINF:0 channelID="x-ID.29" tvg-chno="1029" tvg-name="CNN US" tvg-id="1029" tvg-logo="http://10.0.0.12:34400/images/ac7b12243c8f747df171fdeb103ce565.png" group-title="US",CNN US
+http://10.0.0.12:34400/stream/ca46dc8c1c6c08b08283d61c26100713
+#EXTINF:0 channelID="x-ID.30" tvg-chno="1030" tvg-name="Comedy Central (East)" tvg-id="1030" tvg-logo="http://10.0.0.12:34400/images/8e60fa7605fc047dd9f4f75fd63d2876.png" group-title="US",Comedy Central (East)
+http://10.0.0.12:34400/stream/40a98a20c520fab5620a741e3955fa7a
+#EXTINF:0 channelID="x-ID.31" tvg-chno="1031" tvg-name="Comet TV" tvg-id="1031" tvg-logo="http://10.0.0.12:34400/images/066b010302f1257d5ff62f356e2cc725.png" group-title="US",Comet TV
+http://10.0.0.12:34400/stream/c5aedebb7d80232b189899ac53d483e3
+#EXTINF:0 channelID="x-ID.32" tvg-chno="1032" tvg-name="Cooking Channel US" tvg-id="1032" tvg-logo="http://10.0.0.12:34400/images/49ffb71d20d6c856689e13225b22fb84.png" group-title="US",Cooking Channel US
+http://10.0.0.12:34400/stream/34b82389ecee40710136615bcc15fa0a
+#EXTINF:0 channelID="x-ID.33" tvg-chno="1033" tvg-name="Cowboy Channel" tvg-id="1033" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/the.cowboy.channel.us.png" group-title="US",Cowboy Channel
+http://10.0.0.12:34400/stream/b04550ba2086d81f474a90ae572c2eab
+#EXTINF:0 channelID="x-ID.34" tvg-chno="1034" tvg-name="COZI Network" tvg-id="1034" tvg-logo="http://10.0.0.12:34400/images/03240f4f0b6d036a1be104d502c12210.png" group-title="US",COZI Network
+http://10.0.0.12:34400/stream/779ae9c4f99cdc9f67ab8c00db1637e5
+#EXTINF:0 channelID="x-ID.35" tvg-chno="1035" tvg-name="CSPAN" tvg-id="1035" tvg-logo="http://10.0.0.12:34400/images/4295bbfa2f3f2abf9b085316d5f5095b.png" group-title="US",CSPAN
+http://10.0.0.12:34400/stream/1d7ed1911a498ecdf3a29f76e2c78e25
+#EXTINF:0 channelID="x-ID.36" tvg-chno="1036" tvg-name="CSPAN 2" tvg-id="1036" tvg-logo="http://10.0.0.12:34400/images/5ad2c115cb1ac46163c23ffa87950355.png" group-title="US",CSPAN 2
+http://10.0.0.12:34400/stream/478a6b1c93a996f2fe03a221daf5e906
+#EXTINF:0 channelID="x-ID.37" tvg-chno="1037" tvg-name="Daystar Network" tvg-id="1037" tvg-logo="http://10.0.0.12:34400/images/2e912bf0829f7dcc2290c4fce5154ac5.png" group-title="US",Daystar Network
+http://10.0.0.12:34400/stream/1721524447ac275533cc3c7762729875
+#EXTINF:0 channelID="x-ID.38" tvg-chno="1038" tvg-name="Destination America US" tvg-id="1038" tvg-logo="http://10.0.0.12:34400/images/bf50e1a051ad5f1aabc8a6d4afc4329d.png" group-title="US",Destination America US
+http://10.0.0.12:34400/stream/26f0a607d2fee6b2de202669614747af
+#EXTINF:0 channelID="x-ID.39" tvg-chno="1039" tvg-name="Discovery Channel (East) US" tvg-id="1039" tvg-logo="http://10.0.0.12:34400/images/7bc1f7340b56de660ade7308fd5d8cb7.png" group-title="US",Discovery Channel (East) US
+http://10.0.0.12:34400/stream/56b385b2963366511058403cab17cbcd
+#EXTINF:0 channelID="x-ID.40" tvg-chno="1040" tvg-name="Discovery Family US" tvg-id="1040" tvg-logo="http://10.0.0.12:34400/images/3edf9c77b64c460b136c87b3e14d3d41.png" group-title="US",Discovery Family US
+http://10.0.0.12:34400/stream/f5ab9bbf0861a3890e4a2f8163eca81d
+#EXTINF:0 channelID="x-ID.41" tvg-chno="1041" tvg-name="Discovery Life" tvg-id="1041" tvg-logo="http://10.0.0.12:34400/images/0403ac35a1d3d67afffe2a1a69132c60.png" group-title="US",Discovery Life
+http://10.0.0.12:34400/stream/2a416f5f7c988de1d1d9aef0d31d28e4
+#EXTINF:0 channelID="x-ID.42" tvg-chno="1042" tvg-name="Discovery Velocity" tvg-id="1042" tvg-logo="http://10.0.0.12:34400/images/1534c3aed57895fb1907bb67394643da.png" group-title="US",Discovery Velocity
+http://10.0.0.12:34400/stream/4bbca33b28a254f1c63c94c9921303f6
+#EXTINF:0 channelID="x-ID.46" tvg-chno="1046" tvg-name="Do It Yourself Network (East) US" tvg-id="1046" tvg-logo="http://10.0.0.12:34400/images/15116065f291b8529121c7db5c81fe66.png" group-title="US",Do It Yourself Network (East) US
+http://10.0.0.12:34400/stream/c177b1b72f136e2948bed18e4a3ffa9b
+#EXTINF:0 channelID="x-ID.47" tvg-chno="1047" tvg-name="Dog TV" tvg-id="1047" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/dog.tv.us.png" group-title="US",Dog TV
+http://10.0.0.12:34400/stream/1b9ab07eb188be51ff2b7d36b7ce6707
+#EXTINF:0 channelID="x-ID.48" tvg-chno="1048" tvg-name="E! Entertainment (Eest)" tvg-id="1048" tvg-logo="http://10.0.0.12:34400/images/3d1bc7056434fa09a1197be1b63808be.png" group-title="US",E! Entertainment (Eest)
+http://10.0.0.12:34400/stream/c47eec70336f0ea0df35e05731668f0b
+#EXTINF:0 channelID="x-ID.49" tvg-chno="1049" tvg-name="El Rey Network" tvg-id="1049" tvg-logo="http://10.0.0.12:34400/images/f9f7d724be0759865bdc1eade5c07bdf.png" group-title="US",El Rey Network
+http://10.0.0.12:34400/stream/fd9954e52c57eaac5abd387bb15f9e50
+#EXTINF:0 channelID="x-ID.50" tvg-chno="1050" tvg-name="EPIX (East)" tvg-id="1050" tvg-logo="http://10.0.0.12:34400/images/417513991499183f348ee61e2380e41f.png" group-title="US",EPIX (East)
+http://10.0.0.12:34400/stream/6686b7b6e0d58ccdaa6df61a8153bb20
+#EXTINF:0 channelID="x-ID.51" tvg-chno="1051" tvg-name="Epix 2" tvg-id="1051" tvg-logo="http://10.0.0.12:34400/images/1d8c70979bd5196c62cdcecab8e81f30.png" group-title="US",Epix 2
+http://10.0.0.12:34400/stream/3e032eb91b8229d85aacdf8af7cfa9f7
+#EXTINF:0 channelID="x-ID.52" tvg-chno="1052" tvg-name="EPIX Hits" tvg-id="1052" tvg-logo="http://10.0.0.12:34400/images/8efb73d6b55b354f5c0b0b1b1e489ec2.png" group-title="US",EPIX Hits
+http://10.0.0.12:34400/stream/cd329d0ffea3c4ce9c3e12d2bc82a3dd
+#EXTINF:0 channelID="x-ID.53" tvg-chno="1053" tvg-name="Food Network (East)" tvg-id="1053" tvg-logo="http://10.0.0.12:34400/images/a7aeff7b12535cf5d7fb8bfe748d63c1.png" group-title="US",Food Network (East)
+http://10.0.0.12:34400/stream/3c3dbca2c2c9516d931782d959184fe8
+#EXTINF:0 channelID="x-ID.54" tvg-chno="1054" tvg-name="FOX Business Network" tvg-id="1054" tvg-logo="http://10.0.0.12:34400/images/9f20d171afd280de1f0e4399cb5e9725.png" group-title="US",FOX Business Network
+http://10.0.0.12:34400/stream/e334185790d466abb251e87999831fd5
+#EXTINF:0 channelID="x-ID.55" tvg-chno="1055" tvg-name="FOX Life" tvg-id="1055" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/fox.life.us.png" group-title="US",FOX Life
+http://10.0.0.12:34400/stream/07cfecaae0f149023b25a12b9a5d8439
+#EXTINF:0 channelID="x-ID.56" tvg-chno="1056" tvg-name="FOX News US" tvg-id="1056" tvg-logo="http://10.0.0.12:34400/images/4ae36173375adc497e09fe985e49b557.png" group-title="US",FOX News US
+http://10.0.0.12:34400/stream/0ecb43baf7cb2c994aa1e62bfc060e3b
+#EXTINF:0 channelID="x-ID.57" tvg-chno="1057" tvg-name="Freeform" tvg-id="1057" tvg-logo="http://10.0.0.12:34400/images/e80268db19ec602e3d4e55280eb47578.png" group-title="US",Freeform
+http://10.0.0.12:34400/stream/53969f28dcd2d427643a807fc719f6fb
+#EXTINF:0 channelID="x-ID.58" tvg-chno="1058" tvg-name="FUSE TV (East)" tvg-id="1058" tvg-logo="http://10.0.0.12:34400/images/2f133adaf6a0b53e9d0b2ae94c3d30bd.png" group-title="US",FUSE TV (East)
+http://10.0.0.12:34400/stream/528514e2451c0edff69b3a809bf647f4
+#EXTINF:0 channelID="x-ID.59" tvg-chno="1059" tvg-name="FX Movie Channel" tvg-id="1059" tvg-logo="http://10.0.0.12:34400/images/071cd4ea7b51f97952bad8fa6735a425.png" group-title="US",FX Movie Channel
+http://10.0.0.12:34400/stream/9094d53bb456a760241c1b507201c1d5
+#EXTINF:0 channelID="x-ID.60" tvg-chno="1060" tvg-name="FX Networks (East) US" tvg-id="1060" tvg-logo="http://10.0.0.12:34400/images/4a9ff2270e464722e73318b9d40574c3.png" group-title="US",FX Networks (East) US
+http://10.0.0.12:34400/stream/e8aa5605de0579edcbf8160441081526
+#EXTINF:0 channelID="x-ID.61" tvg-chno="1061" tvg-name="FXX (East)" tvg-id="1061" tvg-logo="http://10.0.0.12:34400/images/587fe91d3ba8b5a4dafe2dbdee137bb4.png" group-title="US",FXX (East)
+http://10.0.0.12:34400/stream/a9d4ec86f789cccc44ddcce5bba640f8
+#EXTINF:0 channelID="x-ID.62" tvg-chno="1062" tvg-name="FYI (East)" tvg-id="1062" tvg-logo="http://10.0.0.12:34400/images/0d57d82b9ffbf534234837a533976129.png" group-title="US",FYI (East)
+http://10.0.0.12:34400/stream/abd9c5d220d65b51d4db5766dc8007d7
+#EXTINF:0 channelID="x-ID.63" tvg-chno="1063" tvg-name="Game Show Network (East)" tvg-id="1063" tvg-logo="http://10.0.0.12:34400/images/bc476e2b141efc1e72ccdd78d90126a4.png" group-title="US",Game Show Network (East)
+http://10.0.0.12:34400/stream/f166a3f03f6e2cc590c46e91c83fa3e3
+#EXTINF:0 channelID="x-ID.64" tvg-chno="1064" tvg-name="Game Show Network (East)" tvg-id="1064" tvg-logo="http://10.0.0.12:34400/images/6b0e41bea780cbd6c4ff2ecb29452c46.png" group-title="US",Game Show Network (East)
+http://10.0.0.12:34400/stream/f166a3f03f6e2cc590c46e91c83fa3e3
+#EXTINF:0 channelID="x-ID.65" tvg-chno="1065" tvg-name="Gol TV USA" tvg-id="1065" tvg-logo="http://10.0.0.12:34400/images/5463bde3cd2c19ddac7fdd6f5d756790.png" group-title="US",Gol TV USA
+http://10.0.0.12:34400/stream/26a982a03b6e8058efa9d6100ae24e3d
+#EXTINF:0 channelID="x-ID.66" tvg-chno="1066" tvg-name="Hallmark Channel (East) US" tvg-id="1066" tvg-logo="http://10.0.0.12:34400/images/682fbd37e7f2299926a4fa0a6648e692.png" group-title="US",Hallmark Channel (East) US
+http://10.0.0.12:34400/stream/51605341aa9e5c12980b17b2aca40972
+#EXTINF:0 channelID="x-ID.67" tvg-chno="1067" tvg-name="Hallmark Drama US" tvg-id="1067" tvg-logo="http://10.0.0.12:34400/images/e189f8d953bbed329048c9cc99ff5e1c.png" group-title="US",Hallmark Drama US
+http://10.0.0.12:34400/stream/274b9ca17da7d6f5119575e0c103fd6c
+#EXTINF:0 channelID="x-ID.68" tvg-chno="1068" tvg-name="Hallmark Movies Mysteries US" tvg-id="1068" tvg-logo="http://10.0.0.12:34400/images/c53b5cdf891569f46e947c6646973e0f.png" group-title="US",Hallmark Movies Mysteries US
+http://10.0.0.12:34400/stream/eaa3e9ff066919c48379de4ce7b4ec6f
+#EXTINF:0 channelID="x-ID.69" tvg-chno="1069" tvg-name="HBO (East) US" tvg-id="1069" tvg-logo="http://10.0.0.12:34400/images/07c9470e1e4c62b70a9348c267e0eb9f.png" group-title="US",HBO (East) US
+http://10.0.0.12:34400/stream/b7a4eccb524d68eff95a9a39c2d83cd7
+#EXTINF:0 channelID="x-ID.70" tvg-chno="1070" tvg-name="HBO (West)" tvg-id="1070" tvg-logo="http://10.0.0.12:34400/images/1e5b9c38ef851d294d07276359091006.png" group-title="US",HBO (West)
+http://10.0.0.12:34400/stream/88c7a1dbf4a2e9310f76f3372812dc60
+#EXTINF:0 channelID="x-ID.71" tvg-chno="1071" tvg-name="HBO 2 (East) US" tvg-id="1071" tvg-logo="http://10.0.0.12:34400/images/a5ef8e26d621e05342a5d6190fe456cf.png" group-title="US",HBO 2 (East) US
+http://10.0.0.12:34400/stream/de890475bf297e12e23c89f4244aff46
+#EXTINF:0 channelID="x-ID.72" tvg-chno="1072" tvg-name="HBO Family (East) US" tvg-id="1072" tvg-logo="http://10.0.0.12:34400/images/8837efff3f72e6e1c5a5676f0bb166ca.png" group-title="US",HBO Family (East) US
+http://10.0.0.12:34400/stream/7148221ab7372384536853371986b908
+#EXTINF:0 channelID="x-ID.73" tvg-chno="1073" tvg-name="HGTV (East) US" tvg-id="1073" tvg-logo="http://10.0.0.12:34400/images/6800cee580bfbf2cff69de8ea3b981e2.png" group-title="US",HGTV (East) US
+http://10.0.0.12:34400/stream/49960d0dd6e7a190264f368a3656a1de
+#EXTINF:0 channelID="x-ID.74" tvg-chno="1074" tvg-name="History Channel US" tvg-id="1074" tvg-logo="http://10.0.0.12:34400/images/97d04215b77aa71cc765d35a25ce6c52.png" group-title="US",History Channel US
+http://10.0.0.12:34400/stream/6c8b7107a53e7c73acc2b26ae40a7458
+#EXTINF:0 channelID="x-ID.75" tvg-chno="1075" tvg-name="HLN" tvg-id="1075" tvg-logo="http://10.0.0.12:34400/images/32354a7735e8e105be021e3983f1fe0f.png" group-title="US",HLN
+http://10.0.0.12:34400/stream/ab3be586de39d99cb864ed4986b775e8
+#EXTINF:0 channelID="x-ID.76" tvg-chno="1076" tvg-name="IFC" tvg-id="1076" tvg-logo="http://10.0.0.12:34400/images/24a70465a3f4e10d2cbb7d65f66e5776.png" group-title="US",IFC
+http://10.0.0.12:34400/stream/1e25ab516c16ee19a89ab190e7ecbd39
+#EXTINF:0 channelID="x-ID.77" tvg-chno="1077" tvg-name="INSP" tvg-id="1077" tvg-logo="http://10.0.0.12:34400/images/41ca2bda43ccc3e9ebc34ae3a7fe1621.png" group-title="US",INSP
+http://10.0.0.12:34400/stream/7b48b6e68c7790103729765acd01a3e8
+#EXTINF:0 channelID="x-ID.78" tvg-chno="1078" tvg-name="Investigation Discovery US" tvg-id="1078" tvg-logo="http://10.0.0.12:34400/images/6aa5a7ef5378c3af79ef8cbd86ab3c76.png" group-title="US",Investigation Discovery US
+http://10.0.0.12:34400/stream/6b2845bb3b55aa51e1adfc1a060a124c
+#EXTINF:0 channelID="x-ID.79" tvg-chno="1079" tvg-name="ION" tvg-id="1079" tvg-logo="http://10.0.0.12:34400/images/7680a91ed065557a3680c102c253e3d5.png" group-title="US",ION
+http://10.0.0.12:34400/stream/37ad45b4a4d521c7aafbceec01b6be36
+#EXTINF:0 channelID="x-ID.80" tvg-chno="1080" tvg-name="KTLA" tvg-id="1080" tvg-logo="http://10.0.0.12:34400/images/ccfb3b3b6fe0bc281180b0c9325f6084.png" group-title="US",KTLA
+http://10.0.0.12:34400/stream/d339a2309836ab2ae4f5b212ce462af6
+#EXTINF:0 channelID="x-ID.81" tvg-chno="1081" tvg-name="Lifetime Movies (East)" tvg-id="1081" tvg-logo="http://10.0.0.12:34400/images/4422eb0c03bea97fd794f2333eaa8748.png" group-title="US",Lifetime Movies (East)
+http://10.0.0.12:34400/stream/03570b52b068722c62f1407434ec196a
+#EXTINF:0 channelID="x-ID.82" tvg-chno="1082" tvg-name="Lifetime Network (East)" tvg-id="1082" tvg-logo="http://10.0.0.12:34400/images/d754752028bc0244d1c574a6ce04ccbb.png" group-title="US",Lifetime Network (East)
+http://10.0.0.12:34400/stream/fe0ca937e9c244604759cc4be0eb55f8
+#EXTINF:0 channelID="x-ID.83" tvg-chno="1083" tvg-name="LOGO (East)" tvg-id="1083" tvg-logo="http://10.0.0.12:34400/images/519020ff82a640abd275329e0b12c416.png" group-title="US",LOGO (East)
+http://10.0.0.12:34400/stream/e88f99b65d6d5e33975267f1b6de0f7d
+#EXTINF:0 channelID="x-ID.84" tvg-chno="1084" tvg-name="MAVtv" tvg-id="1084" tvg-logo="http://10.0.0.12:34400/images/53f72a82ed528bf178ce0ac6de30ad86.png" group-title="US",MAVtv
+http://10.0.0.12:34400/stream/45907b00c163da9f843173161d617ee1
+#EXTINF:0 channelID="x-ID.85" tvg-chno="1085" tvg-name="MGM US" tvg-id="1085" tvg-logo="http://10.0.0.12:34400/images/4b9cd754fd72f8736dc71cdfde647b60.png" group-title="US",MGM US
+http://10.0.0.12:34400/stream/cc324d5fb4e8b17a7daf1bcd7690c888
+#EXTINF:0 channelID="x-ID.86" tvg-chno="1086" tvg-name="MotorTrend US" tvg-id="1086" tvg-logo="http://10.0.0.12:34400/images/f2d61520de89b6146c061475a8bc1942.png" group-title="US",MotorTrend US
+http://10.0.0.12:34400/stream/a52da9e65fce21493bce38072e0b0d93
+#EXTINF:0 channelID="x-ID.87" tvg-chno="1087" tvg-name="MSNBC US" tvg-id="1087" tvg-logo="http://10.0.0.12:34400/images/e068c3547486c934bbb5a854c349d18f.png" group-title="US",MSNBC US
+http://10.0.0.12:34400/stream/ef9bd9499260b8de56230e560e7ce5cf
+#EXTINF:0 channelID="x-ID.88" tvg-chno="1088" tvg-name="MTV (East) US" tvg-id="1088" tvg-logo="http://10.0.0.12:34400/images/c29d1473aee72a9ccaebc7447cdf475b.png" group-title="US",MTV (East) US
+http://10.0.0.12:34400/stream/ab116528728c73b3984d6102f496ca10
+#EXTINF:0 channelID="x-ID.89" tvg-chno="1089" tvg-name="MTV 2 US" tvg-id="1089" tvg-logo="http://10.0.0.12:34400/images/d6ded35a6c3c09a5e7b4e4256661ebb4.png" group-title="US",MTV 2 US
+http://10.0.0.12:34400/stream/d16a3c6b54027c0d95bd9e77751994af
+#EXTINF:0 channelID="x-ID.90" tvg-chno="1090" tvg-name="MTV Classic US" tvg-id="1090" tvg-logo="http://10.0.0.12:34400/images/3adf08b081c0d62ec495dfbb3e5628fa.png" group-title="US",MTV Classic US
+http://10.0.0.12:34400/stream/cdc1ac25e0873546552d0e670187e9a8
+#EXTINF:0 channelID="x-ID.91" tvg-chno="1091" tvg-name="NASA" tvg-id="1091" tvg-logo="http://10.0.0.12:34400/images/5bf08cd86f10f1a9fb3a82be94e12635.png" group-title="US",NASA
+http://10.0.0.12:34400/stream/0a86ec75257f234ee67885766a87e388
+#EXTINF:0 channelID="x-ID.92" tvg-chno="1092" tvg-name="Nat Geo (East) US" tvg-id="1092" tvg-logo="http://10.0.0.12:34400/images/96ddc5296cbc3848c7205ca5dec6be00.png" group-title="US",Nat Geo (East) US
+http://10.0.0.12:34400/stream/697adf1ed27a20ea33446d04a28782ab
+#EXTINF:0 channelID="x-ID.93" tvg-chno="1093" tvg-name="Nat Geo Wild US" tvg-id="1093" tvg-logo="http://10.0.0.12:34400/images/7186f209d2b037e58994f27339530152.png" group-title="US",Nat Geo Wild US
+http://10.0.0.12:34400/stream/56ea2c8e779a154dbfefb6a3aed7b430
+#EXTINF:0 channelID="x-ID.97" tvg-chno="1097" tvg-name="One America News Network" tvg-id="1097" tvg-logo="http://10.0.0.12:34400/images/f75ef7c77b590b8c648162bcdd28b6bd.png" group-title="US",One America News Network
+http://10.0.0.12:34400/stream/cb1695a80afb6428b2502129b36941a9
+#EXTINF:0 channelID="x-ID.98" tvg-chno="1098" tvg-name="Outdoor Channel" tvg-id="1098" tvg-logo="http://10.0.0.12:34400/images/8094c7488418175932c031ff48ce4903.png" group-title="US",Outdoor Channel
+http://10.0.0.12:34400/stream/304393acb713c3adb282e8116265540f
+#EXTINF:0 channelID="x-ID.99" tvg-chno="1099" tvg-name="Ovation" tvg-id="1099" tvg-logo="http://10.0.0.12:34400/images/aaa5ee5b8b900b0c0eb4bbe67fdf8e24.png" group-title="US",Ovation
+http://10.0.0.12:34400/stream/e4dd4788e24c3976b6ac509f9ecadce7
+#EXTINF:0 channelID="x-ID.100" tvg-chno="1100" tvg-name="OWN (East) US" tvg-id="1100" tvg-logo="http://10.0.0.12:34400/images/6e6539825d71eee7d7b9030eb244da4f.png" group-title="US",OWN (East) US
+http://10.0.0.12:34400/stream/20a373bad333297fbd314448d0ea2a4e
+#EXTINF:0 channelID="x-ID.101" tvg-chno="1101" tvg-name="Oxygen" tvg-id="1101" tvg-logo="http://10.0.0.12:34400/images/ace119ec7cf1971e7aff61d28b33643f.png" group-title="US",Oxygen
+http://10.0.0.12:34400/stream/a0be2b731fc7aeec5db1bcefbcbb585c
+#EXTINF:0 channelID="x-ID.102" tvg-chno="1102" tvg-name="Paramount Network (East) US" tvg-id="1102" tvg-logo="http://10.0.0.12:34400/images/35b33941421ec4cd87018a34ca338c86.png" group-title="US",Paramount Network (East) US
+http://10.0.0.12:34400/stream/913fbad8307fcb77d9533dc3d1eae9ed
+#EXTINF:0 channelID="x-ID.104" tvg-chno="1104" tvg-name="QVC" tvg-id="1104" tvg-logo="http://10.0.0.12:34400/images/24714b3cb3ece271ab974cab5379b421.png" group-title="US",QVC
+http://10.0.0.12:34400/stream/b50e8c3146fa1677025d8815f81d2a04
+#EXTINF:0 channelID="x-ID.105" tvg-chno="1105" tvg-name="ReelzChannel" tvg-id="1105" tvg-logo="http://10.0.0.12:34400/images/15560d3887cfc4ca2e51479e2dc258af.png" group-title="US",ReelzChannel
+http://10.0.0.12:34400/stream/2697468e7e28bf0b82a525312ea84d44
+#EXTINF:0 channelID="x-ID.106" tvg-chno="1106" tvg-name="Revolt" tvg-id="1106" tvg-logo="http://10.0.0.12:34400/images/a1b4c36775f2d9f35c02179b4ae3dfe6.png" group-title="US",Revolt
+http://10.0.0.12:34400/stream/a1e5045f2bf93b057d59d0b86a0b706d
+#EXTINF:0 channelID="x-ID.107" tvg-chno="1107" tvg-name="RFD TV" tvg-id="1107" tvg-logo="http://10.0.0.12:34400/images/2e734b28176916ee81e2e45dfac7ef98.png" group-title="US",RFD TV
+http://10.0.0.12:34400/stream/cddb4e13c7f1616724fb0f9ac680a9cf
+#EXTINF:0 channelID="x-ID.108" tvg-chno="1108" tvg-name="Science US" tvg-id="1108" tvg-logo="http://10.0.0.12:34400/images/d822a1d9afceb3fff242cb15c26d4604.png" group-title="US",Science US
+http://10.0.0.12:34400/stream/54a27466f5f8f42c4a7c9be71f4113aa
+#EXTINF:0 channelID="x-ID.109" tvg-chno="1109" tvg-name="Showtime (East) US" tvg-id="1109" tvg-logo="http://10.0.0.12:34400/images/b19230b132886e37d47ecfad16b16b53.png" group-title="US",Showtime (East) US
+http://10.0.0.12:34400/stream/768b4f0a57c5b0b87aea4da16d293a37
+#EXTINF:0 channelID="x-ID.110" tvg-chno="1110" tvg-name="Showtime (West) US" tvg-id="1110" tvg-logo="http://10.0.0.12:34400/images/5d10f58d89f9da273bdb23adf4a5645a.png" group-title="US",Showtime (West) US
+http://10.0.0.12:34400/stream/7c70987617827ee72219a9bfa3ab8880
+#EXTINF:0 channelID="x-ID.111" tvg-chno="1111" tvg-name="Showtime 2 (East) US" tvg-id="1111" tvg-logo="http://10.0.0.12:34400/images/0c2e9444a8b894ac3b473c207c3fe041.png" group-title="US",Showtime 2 (East) US
+http://10.0.0.12:34400/stream/7e0a429ebe68a6c4cca133619af84300
+#EXTINF:0 channelID="x-ID.112" tvg-chno="1112" tvg-name="Showtime Beyond US" tvg-id="1112" tvg-logo="http://10.0.0.12:34400/images/67aa64a1afb4d534946bb15dbbb180f0.png" group-title="US",Showtime Beyond US
+http://10.0.0.12:34400/stream/41b89b564cf65150841818c432408de5
+#EXTINF:0 channelID="x-ID.113" tvg-chno="1113" tvg-name="Showtime Extreme (East) US" tvg-id="1113" tvg-logo="http://10.0.0.12:34400/images/0fd045cf850eb5496ce6910b30e9e62b.png" group-title="US",Showtime Extreme (East) US
+http://10.0.0.12:34400/stream/dbafb00b3ac551b5b02a3cc9e4760e08
+#EXTINF:0 channelID="x-ID.114" tvg-chno="1114" tvg-name="Showtime Family Zone (East) US" tvg-id="1114" tvg-logo="http://10.0.0.12:34400/images/b3efe6cd6e689c3b08e52b37eb347f6d.png" group-title="US",Showtime Family Zone (East) US
+http://10.0.0.12:34400/stream/5526bf01848640b0588f0c3d76a5746e
+#EXTINF:0 channelID="x-ID.115" tvg-chno="1115" tvg-name="Showtime Next US (East) US" tvg-id="1115" tvg-logo="http://10.0.0.12:34400/images/44b90f7e2073c960be466682affa769f.png" group-title="US",Showtime Next US (East) US
+http://10.0.0.12:34400/stream/9ae4108f3d651b52a2a761c10c4bc716
+#EXTINF:0 channelID="x-ID.116" tvg-chno="1116" tvg-name="Showtime Showcase (East) US" tvg-id="1116" tvg-logo="http://10.0.0.12:34400/images/e25249d7322bc879345ab2836300f21a.png" group-title="US",Showtime Showcase (East) US
+http://10.0.0.12:34400/stream/a6dc775c090fff59de5946bbb4f96191
+#EXTINF:0 channelID="x-ID.117" tvg-chno="1117" tvg-name="Showtime Woman US" tvg-id="1117" tvg-logo="http://10.0.0.12:34400/images/220b56fbb444b7df00fcf74d9bec41da.png" group-title="US",Showtime Woman US
+http://10.0.0.12:34400/stream/004ff452faf2429747c350d37aa1abab
+#EXTINF:0 channelID="x-ID.118" tvg-chno="1118" tvg-name="Smithsonian Channel" tvg-id="1118" tvg-logo="http://10.0.0.12:34400/images/108032b566645a12dfb65805189432e6.png" group-title="US",Smithsonian Channel
+http://10.0.0.12:34400/stream/726ec8b8ff5db97f206249a6c0e94422
+#EXTINF:0 channelID="x-ID.119" tvg-chno="1119" tvg-name="Sony Movie Channel" tvg-id="1119" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/sony.movie.channel.us.png" group-title="US",Sony Movie Channel
+http://10.0.0.12:34400/stream/8367afb54705a750c8092ca24bad93fc
+#EXTINF:0 channelID="x-ID.120" tvg-chno="1120" tvg-name="Start TV" tvg-id="1120" tvg-logo="http://10.0.0.12:34400/images/8de6a6bfdae7a5350cd71c69b971968e.png" group-title="US",Start TV
+http://10.0.0.12:34400/stream/013d728000ebbbfd57947e7dba5af6f2
+#EXTINF:0 channelID="x-ID.121" tvg-chno="1121" tvg-name="Starz (East) US" tvg-id="1121" tvg-logo="http://10.0.0.12:34400/images/b1d8a39fa8a61f6f13ffbac85632cbd2.png" group-title="US",Starz (East) US
+http://10.0.0.12:34400/stream/74dec2de867afc8cc7db915f8047acf0
+#EXTINF:0 channelID="x-ID.122" tvg-chno="1122" tvg-name="Starz Cinema (East) US" tvg-id="1122" tvg-logo="http://10.0.0.12:34400/images/1ca6bf5f46002e57c1379e8145e2b005.png" group-title="US",Starz Cinema (East) US
+http://10.0.0.12:34400/stream/9210577b09e3d07d14401a75457ecf15
+#EXTINF:0 channelID="x-ID.123" tvg-chno="1123" tvg-name="Starz Comedy (East) US" tvg-id="1123" tvg-logo="http://10.0.0.12:34400/images/a6825542a6b3a7e8d7cca187a1329a25.png" group-title="US",Starz Comedy (East) US
+http://10.0.0.12:34400/stream/d468e949322118adcb57ea46187b5979
+#EXTINF:0 channelID="x-ID.124" tvg-chno="1124" tvg-name="Starz Edge (East) US" tvg-id="1124" tvg-logo="http://10.0.0.12:34400/images/98ea8a9ce1a7e0ef1d30c0c63e00137c.png" group-title="US",Starz Edge (East) US
+http://10.0.0.12:34400/stream/2d674d8ede6306e834279a8a301cfded
+#EXTINF:0 channelID="x-ID.125" tvg-chno="1125" tvg-name="Starz Encore (East) US" tvg-id="1125" tvg-logo="http://10.0.0.12:34400/images/2a39311ef83e810e07e6e26361fdb91d.png" group-title="US",Starz Encore (East) US
+http://10.0.0.12:34400/stream/47005f7d64fc82cd99273bb6d4a40970
+#EXTINF:0 channelID="x-ID.126" tvg-chno="1126" tvg-name="Starz Encore Action (East) US" tvg-id="1126" tvg-logo="http://10.0.0.12:34400/images/0a5431fd4f01a69b5d7cf0147eec68ec.png" group-title="US",Starz Encore Action (East) US
+http://10.0.0.12:34400/stream/8bad8a7a0b75a9cfa1146ea67598539f
+#EXTINF:0 channelID="x-ID.127" tvg-chno="1127" tvg-name="Starz Encore Black (East) US" tvg-id="1127" tvg-logo="http://10.0.0.12:34400/images/160d7ac681260ff3751d10561965ec9c.png" group-title="US",Starz Encore Black (East) US
+http://10.0.0.12:34400/stream/682e9a848623e8fdbf80845a6ff3dbea
+#EXTINF:0 channelID="x-ID.128" tvg-chno="1128" tvg-name="Starz Encore Classics (East) US" tvg-id="1128" tvg-logo="http://10.0.0.12:34400/images/ec40189fbdf63bfe0765ece9d5205ed1.png" group-title="US",Starz Encore Classics (East) US
+http://10.0.0.12:34400/stream/6f633c3549aa3384f8d916f8b1194417
+#EXTINF:0 channelID="x-ID.129" tvg-chno="1129" tvg-name="Starz Encore Family (East) US" tvg-id="1129" tvg-logo="http://10.0.0.12:34400/images/336395d0da0a5c2ffd1bee5d50003aca.png" group-title="US",Starz Encore Family (East) US
+http://10.0.0.12:34400/stream/ed9791d22adc69e730b8a053e2ef7312
+#EXTINF:0 channelID="x-ID.130" tvg-chno="1130" tvg-name="Starz In Black (East) US" tvg-id="1130" tvg-logo="http://10.0.0.12:34400/images/dc292ab379874c7c0b8feb54b9869f94.png" group-title="US",Starz In Black (East) US
+http://10.0.0.12:34400/stream/23bc196906fb0dfd068f79e1765d629b
+#EXTINF:0 channelID="x-ID.132" tvg-chno="1132" tvg-name="Starz Suspense (East) US" tvg-id="1132" tvg-logo="http://10.0.0.12:34400/images/c027ad7b95a265f3e76bbf926a7b169b.png" group-title="US",Starz Suspense (East) US
+http://10.0.0.12:34400/stream/482c2d36f8d5699b1fb445788902fecb
+#EXTINF:0 channelID="x-ID.133" tvg-chno="1133" tvg-name="Starz Westerns US (East) US" tvg-id="1133" tvg-logo="http://10.0.0.12:34400/images/0603923f27cfbf730ea226672e30c715.png" group-title="US",Starz Westerns US (East) US
+http://10.0.0.12:34400/stream/d602d9b6ab78e8d88f0a0612c297f8f0
+#EXTINF:0 channelID="x-ID.134" tvg-chno="1134" tvg-name="SundanceTV (East) US" tvg-id="1134" tvg-logo="http://10.0.0.12:34400/images/617afc325de4312a71f608b819b6b23f.png" group-title="US",SundanceTV (East) US
+http://10.0.0.12:34400/stream/e6804efdbd7243dc4cc6e7593e10046b
+#EXTINF:0 channelID="x-ID.135" tvg-chno="1135" tvg-name="Syfy (East) US" tvg-id="1135" tvg-logo="http://10.0.0.12:34400/images/c326ab26b1ddadd8719b6893f4173ff8.png" group-title="US",Syfy (East) US
+http://10.0.0.12:34400/stream/f1e1977a3e940bb7873e6496abd7d0fa
+#EXTINF:0 channelID="x-ID.138" tvg-chno="1138" tvg-name="The Weather Channel US" tvg-id="1138" tvg-logo="http://10.0.0.12:34400/images/0203af51522f4ef6db0b29f612ea5080.png" group-title="US",The Weather Channel US
+http://10.0.0.12:34400/stream/7edbd87492705b06ff9c0a59b363d689
+#EXTINF:0 channelID="x-ID.140" tvg-chno="1140" tvg-name="TNT US" tvg-id="1140" tvg-logo="http://10.0.0.12:34400/images/e7a504798e2d125ea6b23fa9a9be1a42.png" group-title="US",TNT US
+http://10.0.0.12:34400/stream/00bf8f222cf4e92e01c6151a991b9c0c
+#EXTINF:0 channelID="x-ID.141" tvg-chno="1141" tvg-name="Travel Channel US" tvg-id="1141" tvg-logo="http://10.0.0.12:34400/images/b1c42deda175c4f27299af1b8c0ef67f.png" group-title="US",Travel Channel US
+http://10.0.0.12:34400/stream/ef58b683cdf4149ccb689452f6698fed
+#EXTINF:0 channelID="x-ID.142" tvg-chno="1142" tvg-name="truTV US" tvg-id="1142" tvg-logo="http://10.0.0.12:34400/images/a8fe611cfc47c735e670660a7f82f3be.png" group-title="US",truTV US
+http://10.0.0.12:34400/stream/662bace50ef2ed6a6f1546bf59f9164d
+#EXTINF:0 channelID="x-ID.143" tvg-chno="1143" tvg-name="Turner Classic Movies US" tvg-id="1143" tvg-logo="http://10.0.0.12:34400/images/5ad5cfc6659bdcb3185f89a9ea5a8f4c.png" group-title="US",Turner Classic Movies US
+http://10.0.0.12:34400/stream/f907c63b1f9fc84599d54f2f793d0291
+#EXTINF:0 channelID="x-ID.144" tvg-chno="1144" tvg-name="Tv Land US" tvg-id="1144" tvg-logo="http://10.0.0.12:34400/images/979689db9cb073e004a3cc0d74caa9cb.png" group-title="US",Tv Land US
+http://10.0.0.12:34400/stream/57005e5bc7ccef382845aebc282364f4
+#EXTINF:0 channelID="x-ID.145" tvg-chno="1145" tvg-name="TV One" tvg-id="1145" tvg-logo="http://10.0.0.12:34400/images/a98dbc5fab651518e42dac369b70771f.png" group-title="US",TV One
+http://10.0.0.12:34400/stream/ea96723d6cd35108c018edfc31f073d3
+#EXTINF:0 channelID="x-ID.146" tvg-chno="1146" tvg-name="Universal Kids US" tvg-id="1146" tvg-logo="http://10.0.0.12:34400/images/51b5415983c2d1dc5e8d6c5440dede25.png" group-title="US",Universal Kids US
+http://10.0.0.12:34400/stream/461a882f1f064d260fda04d62c54fd7f
+#EXTINF:0 channelID="x-ID.147" tvg-chno="1147" tvg-name="Univision Deportes" tvg-id="1147" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/univision.deportes.us.png" group-title="US",Univision Deportes
+http://10.0.0.12:34400/stream/e4cc8bbf70fbd59bec9eabf2af0608fd
+#EXTINF:0 channelID="x-ID.148" tvg-chno="1148" tvg-name="USA Network (East)" tvg-id="1148" tvg-logo="http://10.0.0.12:34400/images/a00f417f40fd48f9c1184c90e807bfc8.png" group-title="US",USA Network (East)
+http://10.0.0.12:34400/stream/f48fae7ab98c5f3921bbcf0125ccb8dd
+#EXTINF:0 channelID="x-ID.149" tvg-chno="1149" tvg-name="VH1 (East) US" tvg-id="1149" tvg-logo="http://10.0.0.12:34400/images/d3eef145002f165ca3b57325e283952e.png" group-title="US",VH1 (East) US
+http://10.0.0.12:34400/stream/247f3cd19019799dc2423a0458e13be7
+#EXTINF:0 channelID="x-ID.150" tvg-chno="1150" tvg-name="Viceland" tvg-id="1150" tvg-logo="http://10.0.0.12:34400/images/09f1faa4b2dbf608eb9135b43dddc0c8.png" group-title="US",Viceland
+http://10.0.0.12:34400/stream/47246ffd980ff53d3883a00a308f929f
+#EXTINF:0 channelID="x-ID.151" tvg-chno="1151" tvg-name="VSiN US" tvg-id="1151" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/vsin.us.png" group-title="US",VSiN US
+http://10.0.0.12:34400/stream/ed396ed355c215c40db1686835c14871
+#EXTINF:0 channelID="x-ID.152" tvg-chno="1152" tvg-name="WE TV" tvg-id="1152" tvg-logo="http://10.0.0.12:34400/images/18b8813f0c269147c529d420f6e3a555.png" group-title="US",WE TV
+http://10.0.0.12:34400/stream/a26b70e0ea61723510c7a96cad77845d
+#EXTINF:0 channelID="x-ID.154" tvg-chno="1154" tvg-name="WGN America (East)" tvg-id="1154" tvg-logo="http://10.0.0.12:34400/images/d69bc2de654b4c02c0cd43700d8e22ea.png" group-title="US",WGN America (East)
+http://10.0.0.12:34400/stream/b9437a1e51cdf6e8ee9362de6ddde416
+#EXTINF:0 channelID="x-ID.156" tvg-chno="1156" tvg-name="A&E" tvg-id="1156" tvg-logo="http://10.0.0.12:34400/images/5c60893af3113e3d091a17a6f657c15c.png" group-title="Canada",A&E
+http://10.0.0.12:34400/stream/81c8f8c17aadc33ab9e04800207079b1
+#EXTINF:0 channelID="x-ID.157" tvg-chno="1157" tvg-name="ABC Spark" tvg-id="1157" tvg-logo="http://10.0.0.12:34400/images/770547ca7dcbd66d815bca290f2d668f.png" group-title="Canada",ABC Spark
+http://10.0.0.12:34400/stream/a53ba69657a881c5232f0479d52992e5
+#EXTINF:0 channelID="x-ID.158" tvg-chno="1158" tvg-name="Adult Swim East" tvg-id="1158" tvg-logo="http://10.0.0.12:34400/images/5c55a2211d294958689513b867e31cdc.png" group-title="Canada",Adult Swim East
+http://10.0.0.12:34400/stream/1cd85fd90e2c3fe79fb577fde1d8ebf3
+#EXTINF:0 channelID="x-ID.159" tvg-chno="1159" tvg-name="AMC" tvg-id="1159" tvg-logo="http://10.0.0.12:34400/images/b752bb93b33e3d5d98c26345d6f12dda.png" group-title="Canada",AMC
+http://10.0.0.12:34400/stream/1b22554479fe1bb353b191cec4f1fc50
+#EXTINF:0 channelID="x-ID.161" tvg-chno="1161" tvg-name="APTN" tvg-id="1161" tvg-logo="http://10.0.0.12:34400/images/9958305a04926017be4eda8d852e7794.png" group-title="Canada",APTN
+http://10.0.0.12:34400/stream/56dba53b9f8e5c3d4b9f26ee8137987c
+#EXTINF:0 channelID="x-ID.162" tvg-chno="1162" tvg-name="BET" tvg-id="1162" tvg-logo="http://10.0.0.12:34400/images/ad7a9d14ceeaa8afb67cf8540a53c7cb.png" group-title="Canada",BET
+http://10.0.0.12:34400/stream/4e02b52db1927521d98632a2424637a0
+#EXTINF:0 channelID="x-ID.163" tvg-chno="1163" tvg-name="BNN CA" tvg-id="1163" tvg-logo="http://10.0.0.12:34400/images/d051ae21138720e0b5045ffb8ffd803a.png" group-title="Canada",BNN CA
+http://10.0.0.12:34400/stream/0c485917c517220d8405e2ad641a9f82
+#EXTINF:0 channelID="x-ID.164" tvg-chno="1164" tvg-name="Bravo" tvg-id="1164" tvg-logo="http://10.0.0.12:34400/images/ab9470b23ead7edfef87aef657497790.png" group-title="Canada",Bravo
+http://10.0.0.12:34400/stream/54665676b90ea23a5895d5f9a3977e00
+#EXTINF:0 channelID="x-ID.166" tvg-chno="1166" tvg-name="CBC Calgary" tvg-id="1166" tvg-logo="http://10.0.0.12:34400/images/5fc3fdb1755d42c43d61e9027265c6d6.png" group-title="Canada",CBC Calgary
+http://10.0.0.12:34400/stream/e9dc862069e6d00baca99e5734bd0b73
+#EXTINF:0 channelID="x-ID.167" tvg-chno="1167" tvg-name="CBC Charlottetown" tvg-id="1167" tvg-logo="http://10.0.0.12:34400/images/29d7ec3542328326a2bd709269cd5290.png" group-title="Canada",CBC Charlottetown
+http://10.0.0.12:34400/stream/fe03f6c1038d4d87b92978713b127a1f
+#EXTINF:0 channelID="x-ID.168" tvg-chno="1168" tvg-name="CBC Edmonton" tvg-id="1168" tvg-logo="http://10.0.0.12:34400/images/062a9802741585d263770d9d3ce098b0.png" group-title="Canada",CBC Edmonton
+http://10.0.0.12:34400/stream/dfeacc951ac7f45b31bb1bb1519e7ed6
+#EXTINF:0 channelID="x-ID.169" tvg-chno="1169" tvg-name="CBC Fredericton" tvg-id="1169" tvg-logo="http://10.0.0.12:34400/images/e494d9831231a2d647390dd53d7e1215.png" group-title="Canada",CBC Fredericton
+http://10.0.0.12:34400/stream/1655779798a79201a19b42a91d756837
+#EXTINF:0 channelID="x-ID.170" tvg-chno="1170" tvg-name="CBC Halifax" tvg-id="1170" tvg-logo="http://10.0.0.12:34400/images/0c595a1de6655489f23375b1c9ecebf2.png" group-title="Canada",CBC Halifax
+http://10.0.0.12:34400/stream/f78a79abaee14ad6d650e1940ae65abd
+#EXTINF:0 channelID="x-ID.171" tvg-chno="1171" tvg-name="CBC Network" tvg-id="1171" tvg-logo="http://10.0.0.12:34400/images/40f503fc4c286bcd74a0c0a36440dbf3.png" group-title="Canada",CBC Network
+http://10.0.0.12:34400/stream/a644902bfa6b12e5077654597a74bac7
+#EXTINF:0 channelID="x-ID.172" tvg-chno="1172" tvg-name="CBC News Network CA" tvg-id="1172" tvg-logo="http://10.0.0.12:34400/images/d46c7943c2040d86af6d71bcdf171c47.png" group-title="Canada",CBC News Network CA
+http://10.0.0.12:34400/stream/986d157c6660adebc4c8a0a9c55465c4
+#EXTINF:0 channelID="x-ID.173" tvg-chno="1173" tvg-name="CBC Ottawa" tvg-id="1173" tvg-logo="http://10.0.0.12:34400/images/147b91caccf5d922b5eec872ce476d47.png" group-title="Canada",CBC Ottawa
+http://10.0.0.12:34400/stream/708f92fe8409f52ea5b40e9f4ea89355
+#EXTINF:0 channelID="x-ID.174" tvg-chno="1174" tvg-name="CBC Regina" tvg-id="1174" tvg-logo="http://10.0.0.12:34400/images/f7f69fbc8225b033d38dbe34f2350b7c.png" group-title="Canada",CBC Regina
+http://10.0.0.12:34400/stream/7f5501c6de94481844601d80ea3e808a
+#EXTINF:0 channelID="x-ID.175" tvg-chno="1175" tvg-name="CBC St.Johns" tvg-id="1175" tvg-logo="http://10.0.0.12:34400/images/dea1bf7ea9b27b4efc5786ac5064766e.png" group-title="Canada",CBC St.Johns
+http://10.0.0.12:34400/stream/8002bebda6f19756101e61db7a44be9f
+#EXTINF:0 channelID="x-ID.176" tvg-chno="1176" tvg-name="CBC Toronto" tvg-id="1176" tvg-logo="http://10.0.0.12:34400/images/1682f990cae86472e3a00fe54ff30c95.png" group-title="Canada",CBC Toronto
+http://10.0.0.12:34400/stream/c8fc676656c36ba974447f6883d037b2
+#EXTINF:0 channelID="x-ID.177" tvg-chno="1177" tvg-name="CBC Vancouver" tvg-id="1177" tvg-logo="http://10.0.0.12:34400/images/f530ed9effd62726156ed7a4f019537d.png" group-title="Canada",CBC Vancouver
+http://10.0.0.12:34400/stream/8736742189c978addf56288491963bf5
+#EXTINF:0 channelID="x-ID.178" tvg-chno="1178" tvg-name="CBC Windsor" tvg-id="1178" tvg-logo="http://10.0.0.12:34400/images/19258a25bf52258e75d79a6354acff80.png" group-title="Canada",CBC Windsor
+http://10.0.0.12:34400/stream/52bcc4666c4de9f0ca943702b6458e63
+#EXTINF:0 channelID="x-ID.179" tvg-chno="1179" tvg-name="CBC Winnipeg" tvg-id="1179" tvg-logo="http://10.0.0.12:34400/images/43f52c57a11e8f0301e1df0811546687.png" group-title="Canada",CBC Winnipeg
+http://10.0.0.12:34400/stream/38c53eb5d44b3b6c1feff63e94af7bf4
+#EXTINF:0 channelID="x-ID.180" tvg-chno="1180" tvg-name="CBC Yellowknife" tvg-id="1180" tvg-logo="http://10.0.0.12:34400/images/4b84b6e319db37ffe539d1f4a6f16c75.png" group-title="Canada",CBC Yellowknife
+http://10.0.0.12:34400/stream/d11eebfc14b4aced08406ffef9284d0c
+#EXTINF:0 channelID="x-ID.181" tvg-chno="1181" tvg-name="CHCH Hamilton CA" tvg-id="1181" tvg-logo="http://10.0.0.12:34400/images/78e9bccdb32962f7f033e78c61d299e8.png" group-title="Canada",CHCH Hamilton CA
+http://10.0.0.12:34400/stream/74a3552588acd421ca17e1116633686f
+#EXTINF:0 channelID="x-ID.182" tvg-chno="1182" tvg-name="CITY Calgary AB" tvg-id="1182" tvg-logo="http://10.0.0.12:34400/images/bc977b8df18f8fd279fb72b3d212755b.png" group-title="Canada",CITY Calgary AB
+http://10.0.0.12:34400/stream/b5d4e81c239d12d64dc058bdfa56da60
+#EXTINF:0 channelID="x-ID.183" tvg-chno="1183" tvg-name="CITY Montreal QC" tvg-id="1183" tvg-logo="http://10.0.0.12:34400/images/0c48876210fa6ca0dc8669ad1bf91dc5.png" group-title="Canada",CITY Montreal QC
+http://10.0.0.12:34400/stream/b400956cf3202b7ed3ec16e9d9a1d3be
+#EXTINF:0 channelID="x-ID.184" tvg-chno="1184" tvg-name="CITY Toronto CA" tvg-id="1184" tvg-logo="http://10.0.0.12:34400/images/6fafa1c04f27b89797133b79e9177aae.png" group-title="Canada",CITY Toronto CA
+http://10.0.0.12:34400/stream/456340ed637caa5bd55fcdd173068f8c
+#EXTINF:0 channelID="x-ID.185" tvg-chno="1185" tvg-name="CITY Vancouver BC" tvg-id="1185" tvg-logo="http://10.0.0.12:34400/images/098484dc8fd75d98ec5cbbe7694c3434.png" group-title="Canada",CITY Vancouver BC
+http://10.0.0.12:34400/stream/1df1e2ffea6ddf43bbf8338bfadfdcfc
+#EXTINF:0 channelID="x-ID.186" tvg-chno="1186" tvg-name="CMT CA" tvg-id="1186" tvg-logo="http://10.0.0.12:34400/images/520bd2f67ed06ed5cb339795d5afead1.png" group-title="Canada",CMT CA
+http://10.0.0.12:34400/stream/0a78a45aac95d8744728bca79a32215c
+#EXTINF:0 channelID="x-ID.187" tvg-chno="1187" tvg-name="CNN CA" tvg-id="1187" tvg-logo="http://10.0.0.12:34400/images/7c56786c97c7a3886f0562c741137f93.png" group-title="Canada",CNN CA
+http://10.0.0.12:34400/stream/d872b4cea724afa10831d01d230b5525
+#EXTINF:0 channelID="x-ID.188" tvg-chno="1188" tvg-name="CNN International" tvg-id="1188" tvg-logo="http://10.0.0.12:34400/images/dfe1cd0c3ffd3d0ea6a065abd635ea65.png" group-title="Canada",CNN International
+http://10.0.0.12:34400/stream/6ae7353925c2442f9bfed97a186d10d2
+#EXTINF:0 channelID="x-ID.189" tvg-chno="1189" tvg-name="Comedy Network (East) CA" tvg-id="1189" tvg-logo="http://10.0.0.12:34400/images/870bd77ad56afe75405233870d3f84f5.png" group-title="Canada",Comedy Network (East) CA
+http://10.0.0.12:34400/stream/42a473dc1a09f434b1da2f362ae2e8e5
+#EXTINF:0 channelID="x-ID.190" tvg-chno="1190" tvg-name="Cooking Channel CA" tvg-id="1190" tvg-logo="http://10.0.0.12:34400/images/c32ad5dc4b4b3fbb0f502451c4c5b476.png" group-title="Canada",Cooking Channel CA
+http://10.0.0.12:34400/stream/9f5996afdba0aeb99981828488249e7a
+#EXTINF:0 channelID="x-ID.191" tvg-chno="1191" tvg-name="Cottage Life" tvg-id="1191" tvg-logo="http://10.0.0.12:34400/images/265bc8e0ecaf3c1c5d46bbfa6a1b6a18.png" group-title="Canada",Cottage Life
+http://10.0.0.12:34400/stream/b56f949002806de24f9f42d2c08001af
+#EXTINF:0 channelID="x-ID.192" tvg-chno="1192" tvg-name="CP24" tvg-id="1192" tvg-logo="http://10.0.0.12:34400/images/24e60fdc13e12583cf7d81bff20283a2.png" group-title="Canada",CP24
+http://10.0.0.12:34400/stream/328b49103ff87df8c9cd3a21f34e802f
+#EXTINF:0 channelID="x-ID.193" tvg-chno="1193" tvg-name="Crave 1" tvg-id="1193" tvg-logo="http://10.0.0.12:34400/images/bfc85e73e354aa39f5a21b40a0ddcd9c.png" group-title="Canada",Crave 1
+http://10.0.0.12:34400/stream/21ee82d066773407694487a85d3ccad1
+#EXTINF:0 channelID="x-ID.194" tvg-chno="1194" tvg-name="Crave 2" tvg-id="1194" tvg-logo="http://10.0.0.12:34400/images/4a5fed5491ad1e51ed01702b7272241b.png" group-title="Canada",Crave 2
+http://10.0.0.12:34400/stream/f7c1387158a93aab9d8afd3bc35f577e
+#EXTINF:0 channelID="x-ID.195" tvg-chno="1195" tvg-name="Crave 3" tvg-id="1195" tvg-logo="http://10.0.0.12:34400/images/b160fa6956ba2b7f62de3bc8633bfb02.png" group-title="Canada",Crave 3
+http://10.0.0.12:34400/stream/e285ebf1e743e1099a444703e464ce7f
+#EXTINF:0 channelID="x-ID.196" tvg-chno="1196" tvg-name="Crave 4" tvg-id="1196" tvg-logo="http://10.0.0.12:34400/images/ca8952d7be557e0faaede6764f3c97f3.png" group-title="Canada",Crave 4
+http://10.0.0.12:34400/stream/21bcdf5c2b7faa6f13b852411470d8fe
+#EXTINF:0 channelID="x-ID.197" tvg-chno="1197" tvg-name="Crime & Investigation CA" tvg-id="1197" tvg-logo="http://10.0.0.12:34400/images/c6b23f3311160d7458283ffcfda29e71.png" group-title="Canada",Crime & Investigation CA
+http://10.0.0.12:34400/stream/0c9d4ac833f442112c2db4812a3494f3
+#EXTINF:0 channelID="x-ID.198" tvg-chno="1198" tvg-name="CTV Halifax" tvg-id="1198" tvg-logo="http://10.0.0.12:34400/images/4331d7ac3abc08bbfe0a300b969389b0.png" group-title="Canada",CTV Halifax
+http://10.0.0.12:34400/stream/6a588100cf4c90b658e360d6aaba4d10
+#EXTINF:0 channelID="x-ID.199" tvg-chno="1199" tvg-name="CTV Montreal (CFCF), QC" tvg-id="1199" tvg-logo="http://10.0.0.12:34400/images/335c342dcbaa1f2207352d6aacc8ade7.png" group-title="Canada",CTV Montreal (CFCF), QC
+http://10.0.0.12:34400/stream/fc20a4623d285aebcf7c01b00a1e0ece
+#EXTINF:0 channelID="x-ID.200" tvg-chno="1200" tvg-name="CTV News CA" tvg-id="1200" tvg-logo="http://10.0.0.12:34400/images/b56fa556f8c4c99e111671b5b0385bf6.png" group-title="Canada",CTV News CA
+http://10.0.0.12:34400/stream/303b3d76c015336302f56b137fefc97b
+#EXTINF:0 channelID="x-ID.201" tvg-chno="1201" tvg-name="CTV Ottawa ON" tvg-id="1201" tvg-logo="http://10.0.0.12:34400/images/8b396bf84349dd72d2d7e8dcb160e54c.png" group-title="Canada",CTV Ottawa ON
+http://10.0.0.12:34400/stream/6b259259f3f288f4d4ef0460f9069e0c
+#EXTINF:0 channelID="x-ID.202" tvg-chno="1202" tvg-name="CTV Sci-Fi" tvg-id="1202" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/ctv.sci.fi.ca.png" group-title="Canada",CTV Sci-Fi
+http://10.0.0.12:34400/stream/985f3827ffb6935f2325cc88945d238a
+#EXTINF:0 channelID="x-ID.203" tvg-chno="1203" tvg-name="CTV Toronto CA" tvg-id="1203" tvg-logo="http://10.0.0.12:34400/images/24f3f414af2d5792ab06c8236a090ad0.png" group-title="Canada",CTV Toronto CA
+http://10.0.0.12:34400/stream/71dbe782d408ed29b240885e0ecd1951
+#EXTINF:0 channelID="x-ID.204" tvg-chno="1204" tvg-name="CTV Two Ottawa" tvg-id="1204" tvg-logo="http://10.0.0.12:34400/images/0e63e6d0c083abcdd8848ccbd86f38af.png" group-title="Canada",CTV Two Ottawa
+http://10.0.0.12:34400/stream/c14eec354b592a743140e801e0a479c1
+#EXTINF:0 channelID="x-ID.205" tvg-chno="1205" tvg-name="CTV Two Vancouver Island. BC" tvg-id="1205" tvg-logo="http://10.0.0.12:34400/images/21c7ddf4c67e2b6be71c5bfac2029aab.png" group-title="Canada",CTV Two Vancouver Island. BC
+http://10.0.0.12:34400/stream/6311c5de2252be353069ce332c63b767
+#EXTINF:0 channelID="x-ID.206" tvg-chno="1206" tvg-name="CTV Vancouver CA" tvg-id="1206" tvg-logo="http://10.0.0.12:34400/images/61d2d01e6b189516ca0148752ce6ec84.png" group-title="Canada",CTV Vancouver CA
+http://10.0.0.12:34400/stream/28ff9ab3aaa557441bae8232f81f61ac
+#EXTINF:0 channelID="x-ID.207" tvg-chno="1207" tvg-name="Discovery Channel CA" tvg-id="1207" tvg-logo="http://10.0.0.12:34400/images/8ada0db791e673a483cb93e71daab168.png" group-title="Canada",Discovery Channel CA
+http://10.0.0.12:34400/stream/8e698da6467dc361b54807ba50972e93
+#EXTINF:0 channelID="x-ID.208" tvg-chno="1208" tvg-name="Discovery Science CA" tvg-id="1208" tvg-logo="http://10.0.0.12:34400/images/1070ba6a970aadc6fc632cbbdd83f91c.png" group-title="Canada",Discovery Science CA
+http://10.0.0.12:34400/stream/af4c8115bddac470ed759ce4025d49f4
+#EXTINF:0 channelID="x-ID.212" tvg-chno="1212" tvg-name="DIY Network CA" tvg-id="1212" tvg-logo="http://10.0.0.12:34400/images/c8cb0a9542a66dcea23bb40079a45c72.png" group-title="Canada",DIY Network CA
+http://10.0.0.12:34400/stream/a8d0f1e28e24dddd5d35995a4fbc59b2
+#EXTINF:0 channelID="x-ID.213" tvg-chno="1213" tvg-name="Documentary Channel" tvg-id="1213" tvg-logo="http://10.0.0.12:34400/images/2f26816dccc7387317768a747a380499.png" group-title="Canada",Documentary Channel
+http://10.0.0.12:34400/stream/6bd1375153bb84535a16cbebdb0029aa
+#EXTINF:0 channelID="x-ID.214" tvg-chno="1214" tvg-name="E! CA" tvg-id="1214" tvg-logo="http://10.0.0.12:34400/images/3afc8a5f4b6084300749271a5bad3a1d.png" group-title="Canada",E! CA
+http://10.0.0.12:34400/stream/daaebb6ef385ee54a28e4ef18e1eefb6
+#EXTINF:0 channelID="x-ID.215" tvg-chno="1215" tvg-name="Family Channel" tvg-id="1215" tvg-logo="http://10.0.0.12:34400/images/56503f67114ec7bba41f35d377d5ab98.png" group-title="Canada",Family Channel
+http://10.0.0.12:34400/stream/ea7fc8e8f4f2d40e3b01a88fa64b4c3b
+#EXTINF:0 channelID="x-ID.216" tvg-chno="1216" tvg-name="Family Channel (East)" tvg-id="1216" tvg-logo="http://10.0.0.12:34400/images/e649fd0b35bf0ff0d01ecdc8f7a5d1d6.png" group-title="Canada",Family Channel (East)
+http://10.0.0.12:34400/stream/f51d818d0794f30ec748ee2688a18ed4
+#EXTINF:0 channelID="x-ID.217" tvg-chno="1217" tvg-name="Family CHRGD" tvg-id="1217" tvg-logo="http://10.0.0.12:34400/images/f1714e0fff4d5e9dae5f488115833289.png" group-title="Canada",Family CHRGD
+http://10.0.0.12:34400/stream/93b449a331aacc301ff706968bd87679
+#EXTINF:0 channelID="x-ID.218" tvg-chno="1218" tvg-name="Family Jr" tvg-id="1218" tvg-logo="http://10.0.0.12:34400/images/fc876581e00cef0f67adc67d2f123493.png" group-title="Canada",Family Jr
+http://10.0.0.12:34400/stream/f69d08b407804b814dda1957e694a9c4
+#EXTINF:0 channelID="x-ID.219" tvg-chno="1219" tvg-name="Food Network" tvg-id="1219" tvg-logo="http://10.0.0.12:34400/images/727b4d512d9c2f04ec68a78f53c08587.png" group-title="Canada",Food Network
+http://10.0.0.12:34400/stream/d12bf9a9c95952a725ca0c24c5724040
+#EXTINF:0 channelID="x-ID.220" tvg-chno="1220" tvg-name="FOX News" tvg-id="1220" tvg-logo="http://10.0.0.12:34400/images/3ec2505291c2dd17aeeda2a8b53805e7.png" group-title="Canada",FOX News
+http://10.0.0.12:34400/stream/086eb2e90fdc06e1c9b28ddfd834186b
+#EXTINF:0 channelID="x-ID.221" tvg-chno="1221" tvg-name="FYI" tvg-id="1221" tvg-logo="http://10.0.0.12:34400/images/c3f7eeab2691af5e934c660c67a4884d.png" group-title="Canada",FYI
+http://10.0.0.12:34400/stream/280c34b788762244ab1acac9e6f75393
+#EXTINF:0 channelID="x-ID.222" tvg-chno="1222" tvg-name="Game Show Network (East)" tvg-id="1222" tvg-logo="http://10.0.0.12:34400/images/bc476e2b141efc1e72ccdd78d90126a4.png" group-title="Canada",Game Show Network (East)
+http://10.0.0.12:34400/stream/f166a3f03f6e2cc590c46e91c83fa3e3
+#EXTINF:0 channelID="x-ID.223" tvg-chno="1223" tvg-name="Game TV CA" tvg-id="1223" tvg-logo="http://10.0.0.12:34400/images/6fb79e804db5e080e7624f4f825be3fe.png" group-title="Canada",Game TV CA
+http://10.0.0.12:34400/stream/4caa0855ffecad52171ca46bc93526ba
+#EXTINF:0 channelID="x-ID.226" tvg-chno="1226" tvg-name="Global Calgary CA" tvg-id="1226" tvg-logo="http://10.0.0.12:34400/images/1ca730bbafac010f377aeda26d7c9ee7.png" group-title="Canada",Global Calgary CA
+http://10.0.0.12:34400/stream/80ee37ff9cdc68464803255302bc6688
+#EXTINF:0 channelID="x-ID.227" tvg-chno="1227" tvg-name="Global Toronto" tvg-id="1227" tvg-logo="http://10.0.0.12:34400/images/68df1cd44522dcaaa63462791a1da94b.png" group-title="Canada",Global Toronto
+http://10.0.0.12:34400/stream/df4bea2872689e154de86cf50b10a6bf
+#EXTINF:0 channelID="x-ID.228" tvg-chno="1228" tvg-name="Golf Channel CA" tvg-id="1228" tvg-logo="http://10.0.0.12:34400/images/60bf32d1fdbbe1abc3e73c857ae998f9.png" group-title="Canada",Golf Channel CA
+http://10.0.0.12:34400/stream/9ecc78afedce27328623da0501fad505
+#EXTINF:0 channelID="x-ID.229" tvg-chno="1229" tvg-name="Gusto TV" tvg-id="1229" tvg-logo="http://10.0.0.12:34400/images/157985a00516b694dd683e29dbbc952e.png" group-title="Canada",Gusto TV
+http://10.0.0.12:34400/stream/7936154902167678ead35d59f57611e2
+#EXTINF:0 channelID="x-ID.230" tvg-chno="1230" tvg-name="H2 CA" tvg-id="1230" tvg-logo="http://10.0.0.12:34400/images/74c59a5026636f6d4f322759f864126a.png" group-title="Canada",H2 CA
+http://10.0.0.12:34400/stream/1cb99a79bd4a9cafbc53e4a20a939b58
+#EXTINF:0 channelID="x-ID.231" tvg-chno="1231" tvg-name="HBO 1 CA" tvg-id="1231" tvg-logo="http://10.0.0.12:34400/images/baabeb9922785ed11f45567eabc051d6.png" group-title="Canada",HBO 1 CA
+http://10.0.0.12:34400/stream/f23ba7f639e9983f4da17c91b5f3bf81
+#EXTINF:0 channelID="x-ID.232" tvg-chno="1232" tvg-name="HBO 2 (East) CA" tvg-id="1232" tvg-logo="http://10.0.0.12:34400/images/b540f885df1b93d8e44e9b90b7a0f953.png" group-title="Canada",HBO 2 (East) CA
+http://10.0.0.12:34400/stream/b08b5164d119ae4d25eea9ae0db1e3ca
+#EXTINF:0 channelID="x-ID.233" tvg-chno="1233" tvg-name="HGTV" tvg-id="1233" tvg-logo="http://10.0.0.12:34400/images/f35fa31917658a3dc489057632483314.png" group-title="Canada",HGTV
+http://10.0.0.12:34400/stream/4873128dc86e251ff4b880fb8b5f4b2f
+#EXTINF:0 channelID="x-ID.234" tvg-chno="1234" tvg-name="History CA" tvg-id="1234" tvg-logo="http://10.0.0.12:34400/images/904b42410f6ececbacb450cc470f6e33.png" group-title="Canada",History CA
+http://10.0.0.12:34400/stream/3752703cc5a9086c4846471e7c300a1a
+#EXTINF:0 channelID="x-ID.235" tvg-chno="1235" tvg-name="HLN CA" tvg-id="1235" tvg-logo="http://10.0.0.12:34400/images/de1e6993dfaa24aed75f5d1663631e09.png" group-title="Canada",HLN CA
+http://10.0.0.12:34400/stream/d1c02540afa85c9ae94319016899a408
+#EXTINF:0 channelID="x-ID.236" tvg-chno="1236" tvg-name="Investigation Discovery CA" tvg-id="1236" tvg-logo="http://10.0.0.12:34400/images/9da87da9e25735015e296105eaef6367.png" group-title="Canada",Investigation Discovery CA
+http://10.0.0.12:34400/stream/80e5c2de1818e20efd9631070a25bb6a
+#EXTINF:0 channelID="x-ID.237" tvg-chno="1237" tvg-name="Leafs Nation Network" tvg-id="1237" tvg-logo="http://10.0.0.12:34400/images/445d5f51ffbce8b74f5fb411ad26bbed.png" group-title="Canada",Leafs Nation Network
+http://10.0.0.12:34400/stream/b5f6618801e28521b3eb50c959b1b505
+#EXTINF:0 channelID="x-ID.238" tvg-chno="1238" tvg-name="Lifetime TV" tvg-id="1238" tvg-logo="http://10.0.0.12:34400/images/eec96360883c904395258d709701fcd9.png" group-title="Canada",Lifetime TV
+http://10.0.0.12:34400/stream/71e7579828ba73870dca4765c24fbd97
+#EXTINF:0 channelID="x-ID.239" tvg-chno="1239" tvg-name="MTV 2 CA" tvg-id="1239" tvg-logo="http://10.0.0.12:34400/images/18d8cc50a148af6abc66602272f04965.png" group-title="Canada",MTV 2 CA
+http://10.0.0.12:34400/stream/e612e3926f76de7bdd30c318b953da98
+#EXTINF:0 channelID="x-ID.240" tvg-chno="1240" tvg-name="MTV CA" tvg-id="1240" tvg-logo="http://10.0.0.12:34400/images/3c80c24ed09ac78a6ec578a8874d902a.png" group-title="Canada",MTV CA
+http://10.0.0.12:34400/stream/a7337066224188a828bb497e29190512
+#EXTINF:0 channelID="x-ID.241" tvg-chno="1241" tvg-name="Nat Geo Wild CA" tvg-id="1241" tvg-logo="http://10.0.0.12:34400/images/ae77c818137f346e7d827baa13f443bb.png" group-title="Canada",Nat Geo Wild CA
+http://10.0.0.12:34400/stream/082daa7d056e9ea732528f4b32f7be39
+#EXTINF:0 channelID="x-ID.242" tvg-chno="1242" tvg-name="National Geographic CA" tvg-id="1242" tvg-logo="http://10.0.0.12:34400/images/e4407abcb7b0b5e06ec05a0ac4742b3f.png" group-title="Canada",National Geographic CA
+http://10.0.0.12:34400/stream/8962bfebfa022d5de171075a23558ec6
+#EXTINF:0 channelID="x-ID.243" tvg-chno="1243" tvg-name="OMNI 1" tvg-id="1243" tvg-logo="http://10.0.0.12:34400/images/16fab4c184eabbfd2efda055f486b2ac.png" group-title="Canada",OMNI 1
+http://10.0.0.12:34400/stream/21f798cd83c33369a977f33ee9eddb72
+#EXTINF:0 channelID="x-ID.244" tvg-chno="1244" tvg-name="OMNI 2" tvg-id="1244" tvg-logo="http://10.0.0.12:34400/images/9df7b53b19f7ab2534ebce12958d6d54.png" group-title="Canada",OMNI 2
+http://10.0.0.12:34400/stream/1267afac2fb7e5c2a12ac473668e81c6
+#EXTINF:0 channelID="x-ID.245" tvg-chno="1245" tvg-name="One America News Network" tvg-id="1245" tvg-logo="http://10.0.0.12:34400/images/01f09d45aaae7c013c1ce74c426fe574.png" group-title="Canada",One America News Network
+http://10.0.0.12:34400/stream/7d5b54311a7eceebc9e48fb8f02be273
+#EXTINF:0 channelID="x-ID.246" tvg-chno="1246" tvg-name="Oprah Winfrey Network CA" tvg-id="1246" tvg-logo="http://10.0.0.12:34400/images/b2674094b770d09e3edefd99e0fbb0bf.png" group-title="Canada",Oprah Winfrey Network CA
+http://10.0.0.12:34400/stream/890da35c03acfe0909893fd89ccc79a8
+#EXTINF:0 channelID="x-ID.247" tvg-chno="1247" tvg-name="Slice CA" tvg-id="1247" tvg-logo="http://10.0.0.12:34400/images/46b4be958e1f81e16dd0c9bc01c7ea63.png" group-title="Canada",Slice CA
+http://10.0.0.12:34400/stream/f68eb430ce4b571b0f390d51c993fe25
+#EXTINF:0 channelID="x-ID.248" tvg-chno="1248" tvg-name="Treehouse CA" tvg-id="1248" tvg-logo="http://10.0.0.12:34400/images/8e69134100161c4b4b6921a5664a539e.png" group-title="Canada",Treehouse CA
+http://10.0.0.12:34400/stream/b593e75db426043d94ecaaeb27c21541
+#EXTINF:0 channelID="x-ID.249" tvg-chno="1249" tvg-name="TVA (CFTM) Montreal" tvg-id="1249" tvg-logo="http://10.0.0.12:34400/images/fa5bb79f5a7ffa1c4cbf27bdaf81e61e.png" group-title="Canada",TVA (CFTM) Montreal
+http://10.0.0.12:34400/stream/aaa8735bc3d99629e9dc0b3fc09e7393
+#EXTINF:0 channelID="x-ID.251" tvg-chno="1251" tvg-name="TVO CA" tvg-id="1251" tvg-logo="http://10.0.0.12:34400/images/30f5f4c3cf3a4b7f31d94b50ff0b8224.png" group-title="Canada",TVO CA
+http://10.0.0.12:34400/stream/39d22685d92a4d0733b6fb456e19b1bd
+#EXTINF:0 channelID="x-ID.252" tvg-chno="1252" tvg-name="Vision TV" tvg-id="1252" tvg-logo="http://10.0.0.12:34400/images/418d27627d925fa70a413f13337ca97a.png" group-title="Canada",Vision TV
+http://10.0.0.12:34400/stream/9a55de5b4d19fbcbe9943cd90284bb15
+#EXTINF:0 channelID="x-ID.253" tvg-chno="1253" tvg-name="Weather Network CA" tvg-id="1253" tvg-logo="http://10.0.0.12:34400/images/bd2e66164b30aa8be1fb83501b9f41fe.png" group-title="Canada",Weather Network CA
+http://10.0.0.12:34400/stream/26b9801b41bf1261832a0a058e81c8be
+#EXTINF:0 channelID="x-ID.254" tvg-chno="1254" tvg-name="ABC (Atlanta GA)" tvg-id="1254" tvg-logo="http://10.0.0.12:34400/images/d9e27a537f830de7306a3c311006f648.png" group-title="US Local",ABC (Atlanta GA)
+http://10.0.0.12:34400/stream/3cb9c7b59a1bb7a39325c84af8f2dd9b
+#EXTINF:0 channelID="x-ID.255" tvg-chno="1255" tvg-name="ABC (Baltimore MD)" tvg-id="1255" tvg-logo="http://10.0.0.12:34400/images/df573b3c750da7888a949b05c9ccce48.png" group-title="US Local",ABC (Baltimore MD)
+http://10.0.0.12:34400/stream/0c3bf38fe0e668c27d681238ccf5e2ad
+#EXTINF:0 channelID="x-ID.256" tvg-chno="1256" tvg-name="ABC (Chicago IL)" tvg-id="1256" tvg-logo="http://10.0.0.12:34400/images/acd1ae2395242ad82e389e55a693b8fc.png" group-title="US Local",ABC (Chicago IL)
+http://10.0.0.12:34400/stream/679fbe507df71af73beb80a98032827c
+#EXTINF:0 channelID="x-ID.257" tvg-chno="1257" tvg-name="ABC (Columbus OH)" tvg-id="1257" tvg-logo="http://10.0.0.12:34400/images/1abf8f9c73da599edf24f6c2b8e17df0.png" group-title="US Local",ABC (Columbus OH)
+http://10.0.0.12:34400/stream/9634c882db6ec456559f9efd9f833adf
+#EXTINF:0 channelID="x-ID.258" tvg-chno="1258" tvg-name="ABC (Dallas TX)" tvg-id="1258" tvg-logo="http://10.0.0.12:34400/images/050ff6dba8171dadf34dbe03d58b50e9.png" group-title="US Local",ABC (Dallas TX)
+http://10.0.0.12:34400/stream/9a153210ad3d5eecb270e1bb57c0c126
+#EXTINF:0 channelID="x-ID.259" tvg-chno="1259" tvg-name="ABC (Denver CO)" tvg-id="1259" tvg-logo="http://10.0.0.12:34400/images/944435b6aea7074acb3d1e9f45a7cdbe.png" group-title="US Local",ABC (Denver CO)
+http://10.0.0.12:34400/stream/5b99e8ad1a180e5070411211df921aff
+#EXTINF:0 channelID="x-ID.260" tvg-chno="1260" tvg-name="ABC (Detroit MI)" tvg-id="1260" tvg-logo="http://10.0.0.12:34400/images/5722cb8cbf88ec51070fd45e24b53585.png" group-title="US Local",ABC (Detroit MI)
+http://10.0.0.12:34400/stream/9824875994a2347e451039cd2ec47bbc
+#EXTINF:0 channelID="x-ID.261" tvg-chno="1261" tvg-name="ABC (Fresno CA)" tvg-id="1261" tvg-logo="http://10.0.0.12:34400/images/fe39c0fe83a42aadb6de7a5d826ba65f.png" group-title="US Local",ABC (Fresno CA)
+http://10.0.0.12:34400/stream/445dc960be6d1743aca3922a16b6ecf2
+#EXTINF:0 channelID="x-ID.262" tvg-chno="1262" tvg-name="ABC (Houston TX)" tvg-id="1262" tvg-logo="http://10.0.0.12:34400/images/69d49b753a65eb4711e564c7af4cd19e.png" group-title="US Local",ABC (Houston TX)
+http://10.0.0.12:34400/stream/6a8616895410f99047b0c2d0a2cc5d01
+#EXTINF:0 channelID="x-ID.263" tvg-chno="1263" tvg-name="ABC (KGTV) San Diego, CA" tvg-id="1263" tvg-logo="http://10.0.0.12:34400/images/d08520fbca99ec6f521b293dc8b2dacf.png" group-title="US Local",ABC (KGTV) San Diego, CA
+http://10.0.0.12:34400/stream/f24b1393e3be774ce07f3908efd6d23b
+#EXTINF:0 channelID="x-ID.264" tvg-chno="1264" tvg-name="ABC (KIII) Corpus Christi, TX" tvg-id="1264" tvg-logo="http://10.0.0.12:34400/images/08b2ee192b258401b2c700752f67dfe1.png" group-title="US Local",ABC (KIII) Corpus Christi, TX
+http://10.0.0.12:34400/stream/f1e06808e3f77180dc3b9481664e9141
+#EXTINF:0 channelID="x-ID.265" tvg-chno="1265" tvg-name="ABC (KOMO) Seattle, WA" tvg-id="1265" tvg-logo="http://10.0.0.12:34400/images/0867186071a8984f971d58c7a3065d4c.png" group-title="US Local",ABC (KOMO) Seattle, WA
+http://10.0.0.12:34400/stream/9fa1d4b443e001f7378bf3bc054b68fb
+#EXTINF:0 channelID="x-ID.266" tvg-chno="1266" tvg-name="ABC (KRGV) Weslaco, TX" tvg-id="1266" tvg-logo="http://10.0.0.12:34400/images/72f036808c7ebf74a81ed2321b8266be.png" group-title="US Local",ABC (KRGV) Weslaco, TX
+http://10.0.0.12:34400/stream/829b025fcab3782ae63eb39b4111bacc
+#EXTINF:0 channelID="x-ID.267" tvg-chno="1267" tvg-name="ABC (Los Angeles CA)" tvg-id="1267" tvg-logo="http://10.0.0.12:34400/images/0c32da23e2ff51b8787858b315580134.png" group-title="US Local",ABC (Los Angeles CA)
+http://10.0.0.12:34400/stream/c9456eaf60233150869015c9a50d25b7
+#EXTINF:0 channelID="x-ID.268" tvg-chno="1268" tvg-name="ABC (Miami FL)" tvg-id="1268" tvg-logo="http://10.0.0.12:34400/images/7eb1efc934af3fade82628fca6aebbb6.png" group-title="US Local",ABC (Miami FL)
+http://10.0.0.12:34400/stream/76fe24dc69fd37f7259ca74cdd7086e5
+#EXTINF:0 channelID="x-ID.269" tvg-chno="1269" tvg-name="ABC (Milwaukee WI)" tvg-id="1269" tvg-logo="http://10.0.0.12:34400/images/49c2f5abbe542a804236491482cc9538.png" group-title="US Local",ABC (Milwaukee WI)
+http://10.0.0.12:34400/stream/c4b93181ef72677de9ed69cb30595888
+#EXTINF:0 channelID="x-ID.270" tvg-chno="1270" tvg-name="ABC (Nashville TN)" tvg-id="1270" tvg-logo="http://10.0.0.12:34400/images/9ad5d602b140f96339d6262f7afe4693.png" group-title="US Local",ABC (Nashville TN)
+http://10.0.0.12:34400/stream/e596f59731cd9fb90d40bbcbfb941959
+#EXTINF:0 channelID="x-ID.271" tvg-chno="1271" tvg-name="ABC (Orlando FL)" tvg-id="1271" tvg-logo="http://10.0.0.12:34400/images/996b60e510cdd5b7ec26d15bd2caae42.png" group-title="US Local",ABC (Orlando FL)
+http://10.0.0.12:34400/stream/d954bceb08f91ba46695deff092db822
+#EXTINF:0 channelID="x-ID.272" tvg-chno="1272" tvg-name="ABC (Philadelphia PA)" tvg-id="1272" tvg-logo="http://10.0.0.12:34400/images/72abe5b6ac7fcab223696e0a97b723dc.png" group-title="US Local",ABC (Philadelphia PA)
+http://10.0.0.12:34400/stream/4a083354702a85195891844d7d95fe35
+#EXTINF:0 channelID="x-ID.273" tvg-chno="1273" tvg-name="ABC (Phoenix AZ)" tvg-id="1273" tvg-logo="http://10.0.0.12:34400/images/3a1acc14091354b7a29ff7a309c61b73.png" group-title="US Local",ABC (Phoenix AZ)
+http://10.0.0.12:34400/stream/2659a8552ed85b6cfd97340289646a5c
+#EXTINF:0 channelID="x-ID.274" tvg-chno="1274" tvg-name="ABC (Raleigh NC)" tvg-id="1274" tvg-logo="http://10.0.0.12:34400/images/4f0beb1ccf79f1ea494fd78cd9e4cdab.png" group-title="US Local",ABC (Raleigh NC)
+http://10.0.0.12:34400/stream/9fa5c000bf1735e70bd460054561e88b
+#EXTINF:0 channelID="x-ID.275" tvg-chno="1275" tvg-name="ABC (Sacramento CA)" tvg-id="1275" tvg-logo="http://10.0.0.12:34400/images/6fc5639e5bda98d4b4bfe40c190eda56.png" group-title="US Local",ABC (Sacramento CA)
+http://10.0.0.12:34400/stream/c59ebfee39d26020904b13fc2ef311fa
+#EXTINF:0 channelID="x-ID.276" tvg-chno="1276" tvg-name="ABC (Salt Lake City UT)" tvg-id="1276" tvg-logo="http://10.0.0.12:34400/images/97ce319c7fd27e80e246dda28d5bcbae.png" group-title="US Local",ABC (Salt Lake City UT)
+http://10.0.0.12:34400/stream/3c10e3a8c405d961af33f1e0abf1e686
+#EXTINF:0 channelID="x-ID.277" tvg-chno="1277" tvg-name="ABC (San Antonio TX)" tvg-id="1277" tvg-logo="http://10.0.0.12:34400/images/0673994e0ff8cfa044343eea77837fb3.png" group-title="US Local",ABC (San Antonio TX)
+http://10.0.0.12:34400/stream/7d5acb1e45e7dad4f7562648319a9bff
+#EXTINF:0 channelID="x-ID.278" tvg-chno="1278" tvg-name="ABC (San Francisco CA)" tvg-id="1278" tvg-logo="http://10.0.0.12:34400/images/e093085ea8e690ed8edf1f78f49ec89f.png" group-title="US Local",ABC (San Francisco CA)
+http://10.0.0.12:34400/stream/db7a06b80cb387c467df1954881c9a54
+#EXTINF:0 channelID="x-ID.279" tvg-chno="1279" tvg-name="ABC (St. Paul MN)" tvg-id="1279" tvg-logo="http://10.0.0.12:34400/images/b9db010e3ae806e1c499ec1c3dce4c6a.png" group-title="US Local",ABC (St. Paul MN)
+http://10.0.0.12:34400/stream/bef859b5e669926c8da068780e976ddc
+#EXTINF:0 channelID="x-ID.280" tvg-chno="1280" tvg-name="ABC (Tampa Bay FL)" tvg-id="1280" tvg-logo="http://10.0.0.12:34400/images/a98f16e491a1f55c1c6d1be84932b3ab.png" group-title="US Local",ABC (Tampa Bay FL)
+http://10.0.0.12:34400/stream/7fc9e1b11dd42828fb7df1eecc58bc62
+#EXTINF:0 channelID="x-ID.281" tvg-chno="1281" tvg-name="ABC (WABC) New York NY" tvg-id="1281" tvg-logo="http://10.0.0.12:34400/images/e1a6c6cb2c7a36bbf8c3a0f903d41bae.png" group-title="US Local",ABC (WABC) New York NY
+http://10.0.0.12:34400/stream/473ed763c66ffd419a5aa1cf34d6c8c5
+#EXTINF:0 channelID="x-ID.282" tvg-chno="1282" tvg-name="ABC (WCVB) Boston MA" tvg-id="1282" tvg-logo="http://10.0.0.12:34400/images/5e5ce48c4fa6bf789904e2d8c719a202.png" group-title="US Local",ABC (WCVB) Boston MA
+http://10.0.0.12:34400/stream/f38f1d190af2e85d91fb6fe5e308a470
+#EXTINF:0 channelID="x-ID.283" tvg-chno="1283" tvg-name="ABC (WEWS) Cleveland" tvg-id="1283" tvg-logo="http://10.0.0.12:34400/images/c1b19c679fb65362d39684f371803ef8.png" group-title="US Local",ABC (WEWS) Cleveland
+http://10.0.0.12:34400/stream/393c5176ca7a8cc4677d5fde8eb060ff
+#EXTINF:0 channelID="x-ID.284" tvg-chno="1284" tvg-name="ABC (WJLA) District of Columbia" tvg-id="1284" tvg-logo="http://10.0.0.12:34400/images/4f8638799b1777250de147c50e45ebe5.png" group-title="US Local",ABC (WJLA) District of Columbia
+http://10.0.0.12:34400/stream/ceba3a1e8bfe490edef4d5ad323bacbd
+#EXTINF:0 channelID="x-ID.285" tvg-chno="1285" tvg-name="ABC (WSOC) Charlotte NC" tvg-id="1285" tvg-logo="http://10.0.0.12:34400/images/d1a27bf50a79ef1890c64757587a183a.png" group-title="US Local",ABC (WSOC) Charlotte NC
+http://10.0.0.12:34400/stream/242f7fab4ff74367790505fc7d086815
+#EXTINF:0 channelID="x-ID.286" tvg-chno="1286" tvg-name="ABC (WTAE) Pittsburgh, PA" tvg-id="1286" tvg-logo="http://10.0.0.12:34400/images/55725a7b1629dbeb2e9143c61263012a.png" group-title="US Local",ABC (WTAE) Pittsburgh, PA
+http://10.0.0.12:34400/stream/239b6daa419704a15d4c008d6c12b429
+#EXTINF:0 channelID="x-ID.287" tvg-chno="1287" tvg-name="ABC (WTNHDT1) New Haven CT" tvg-id="1287" tvg-logo="http://10.0.0.12:34400/images/a7ea0bb89c44f50d055a47bd990478ab.png" group-title="US Local",ABC (WTNHDT1) New Haven CT
+http://10.0.0.12:34400/stream/5bacb8e5b8c86176aaf147ec4c3ac960
+#EXTINF:0 channelID="x-ID.288" tvg-chno="1288" tvg-name="CBS (Atlanta GA)" tvg-id="1288" tvg-logo="http://10.0.0.12:34400/images/c5f4540b42114ae108dc381d53b13e99.png" group-title="US Local",CBS (Atlanta GA)
+http://10.0.0.12:34400/stream/d7adefb4e497756039c378f1965cbd1e
+#EXTINF:0 channelID="x-ID.289" tvg-chno="1289" tvg-name="CBS (Baltimore MD)" tvg-id="1289" tvg-logo="http://10.0.0.12:34400/images/ad76ec90f27b77ed299237344d7bc5f3.png" group-title="US Local",CBS (Baltimore MD)
+http://10.0.0.12:34400/stream/567ec5911c64b9900b08b992886867fc
+#EXTINF:0 channelID="x-ID.290" tvg-chno="1290" tvg-name="CBS (Chicago IL)" tvg-id="1290" tvg-logo="http://10.0.0.12:34400/images/7ae0e583c1897a60bbccccaa47c274ed.png" group-title="US Local",CBS (Chicago IL)
+http://10.0.0.12:34400/stream/851bd378c1ade75f56e8f468c2a1ee9e
+#EXTINF:0 channelID="x-ID.291" tvg-chno="1291" tvg-name="CBS (Columbus OH)" tvg-id="1291" tvg-logo="http://10.0.0.12:34400/images/519176e9e4b275a54bde983abc59ffaf.png" group-title="US Local",CBS (Columbus OH)
+http://10.0.0.12:34400/stream/75eaeed74abce42225350e449a082958
+#EXTINF:0 channelID="x-ID.292" tvg-chno="1292" tvg-name="CBS (Denver CO)" tvg-id="1292" tvg-logo="http://10.0.0.12:34400/images/ef29bf4013b1c48b8abc25900346b46c.png" group-title="US Local",CBS (Denver CO)
+http://10.0.0.12:34400/stream/1fa51e05214e0466b99bce03a198eb19
+#EXTINF:0 channelID="x-ID.293" tvg-chno="1293" tvg-name="CBS (Detroit MI)" tvg-id="1293" tvg-logo="http://10.0.0.12:34400/images/7a28e2c51ebf47f971c630541bbb4f97.png" group-title="US Local",CBS (Detroit MI)
+http://10.0.0.12:34400/stream/63ef84a2fbdd90bf58820c7b771f2448
+#EXTINF:0 channelID="x-ID.294" tvg-chno="1294" tvg-name="CBS (Fort Worth TX)" tvg-id="1294" tvg-logo="http://10.0.0.12:34400/images/38179bcd3d477a394d98fa1cc6f43f6f.png" group-title="US Local",CBS (Fort Worth TX)
+http://10.0.0.12:34400/stream/991468a11ef89708c3158b270970e83f
+#EXTINF:0 channelID="x-ID.295" tvg-chno="1295" tvg-name="CBS (Fresno CA)" tvg-id="1295" tvg-logo="http://10.0.0.12:34400/images/c749fcccd97aec5918cdbf6ba18f45a8.png" group-title="US Local",CBS (Fresno CA)
+http://10.0.0.12:34400/stream/31abcc516f80e0e8718d17416169631a
+#EXTINF:0 channelID="x-ID.296" tvg-chno="1296" tvg-name="CBS (Hartford ct)" tvg-id="1296" tvg-logo="http://10.0.0.12:34400/images/ebf37065301b0c3a32042658217320f0.png" group-title="US Local",CBS (Hartford ct)
+http://10.0.0.12:34400/stream/fc38167df4f47af3b3df670a1d26422b
+#EXTINF:0 channelID="x-ID.297" tvg-chno="1297" tvg-name="CBS (Honolulu HI)" tvg-id="1297" tvg-logo="http://10.0.0.12:34400/images/f21e115d64fbb5bfc0ebcb71c6d46bad.png" group-title="US Local",CBS (Honolulu HI)
+http://10.0.0.12:34400/stream/ad39b660b2caa5a17b0ec87a8ca07e80
+#EXTINF:0 channelID="x-ID.298" tvg-chno="1298" tvg-name="CBS (Houston TX)" tvg-id="1298" tvg-logo="http://10.0.0.12:34400/images/7c81aeb6a1c5eab733b812ab5e8d0553.png" group-title="US Local",CBS (Houston TX)
+http://10.0.0.12:34400/stream/905c10f3102bd220023e38e96590c57e
+#EXTINF:0 channelID="x-ID.299" tvg-chno="1299" tvg-name="CBS (Kansas City MO)" tvg-id="1299" tvg-logo="http://10.0.0.12:34400/images/3ff6789ecc581805d8e288aa2f666bb4.png" group-title="US Local",CBS (Kansas City MO)
+http://10.0.0.12:34400/stream/b4e9754cba6420b9749a393234caf4c4
+#EXTINF:0 channelID="x-ID.300" tvg-chno="1300" tvg-name="CBS (KBAK) Bakersfield, CA" tvg-id="1300" tvg-logo="http://10.0.0.12:34400/images/a24309965b48fa14c55335255c8fcd69.png" group-title="US Local",CBS (KBAK) Bakersfield, CA
+http://10.0.0.12:34400/stream/d8d1ef91e5ba0ee0fceee77f9180400e
+#EXTINF:0 channelID="x-ID.301" tvg-chno="1301" tvg-name="CBS (KCCI) Des Moines" tvg-id="1301" tvg-logo="http://10.0.0.12:34400/images/37e8ccdbde823ddcfb9fc1d64549280a.png" group-title="US Local",CBS (KCCI) Des Moines
+http://10.0.0.12:34400/stream/b09b6667ff98d09f0c975e61ed44d655
+#EXTINF:0 channelID="x-ID.302" tvg-chno="1302" tvg-name="CBS (KDKA) Pittsburgh PA" tvg-id="1302" tvg-logo="http://10.0.0.12:34400/images/2efabe48a87a291ef9ea5c26099a4ff1.png" group-title="US Local",CBS (KDKA) Pittsburgh PA
+http://10.0.0.12:34400/stream/8b3c627f0716e9b5615ae57b1a583ce2
+#EXTINF:0 channelID="x-ID.303" tvg-chno="1303" tvg-name="CBS (KELO) Sioux Falls SD" tvg-id="1303" tvg-logo="http://10.0.0.12:34400/images/20adbc3aff10a8df5d198b59e2d3457d.png" group-title="US Local",CBS (KELO) Sioux Falls SD
+http://10.0.0.12:34400/stream/c5e25fdbb189e32cecc688033cacbcc6
+#EXTINF:0 channelID="x-ID.304" tvg-chno="1304" tvg-name="CBS (KENS) San Antonio, TX" tvg-id="1304" tvg-logo="http://10.0.0.12:34400/images/331d7cb29ad26d1a95b6b2d0d93a91ca.png" group-title="US Local",CBS (KENS) San Antonio, TX
+http://10.0.0.12:34400/stream/6a53ed5a393fb247a647d30906eef618
+#EXTINF:0 channelID="x-ID.305" tvg-chno="1305" tvg-name="CBS (KFMB) San Diego, CA" tvg-id="1305" tvg-logo="http://10.0.0.12:34400/images/5cb65a5eaee1c4b0a4195d80a7a32db3.png" group-title="US Local",CBS (KFMB) San Diego, CA
+http://10.0.0.12:34400/stream/482c51e86cbe2525560faab500c0a688
+#EXTINF:0 channelID="x-ID.306" tvg-chno="1306" tvg-name="CBS (KGAN) Cedar Rapids, IA" tvg-id="1306" tvg-logo="http://10.0.0.12:34400/images/df02e4fa8f05c2913baee6e153432229.png" group-title="US Local",CBS (KGAN) Cedar Rapids, IA
+http://10.0.0.12:34400/stream/9d2c40a3998c82e0f6400d1d1b301db5
+#EXTINF:0 channelID="x-ID.307" tvg-chno="1307" tvg-name="CBS (KGBT) Harlingen, TX" tvg-id="1307" tvg-logo="http://10.0.0.12:34400/images/13626e87156fd46228095689cb87e615.png" group-title="US Local",CBS (KGBT) Harlingen, TX
+http://10.0.0.12:34400/stream/803ae4d12d92642057312edf8535c057
+#EXTINF:0 channelID="x-ID.308" tvg-chno="1308" tvg-name="CBS (KLAS) Las Vegas NV" tvg-id="1308" tvg-logo="http://10.0.0.12:34400/images/63f82dc6d7b74fb379009760e79880f7.png" group-title="US Local",CBS (KLAS) Las Vegas NV
+http://10.0.0.12:34400/stream/a97a7272b7815b032e696c657a03a051
+#EXTINF:0 channelID="x-ID.309" tvg-chno="1309" tvg-name="CBS (KWTV) Oklahoma City, OK" tvg-id="1309" tvg-logo="http://10.0.0.12:34400/images/5216fa1df99299ecfc7de31b0ec86eac.png" group-title="US Local",CBS (KWTV) Oklahoma City, OK
+http://10.0.0.12:34400/stream/326de107fbaca287dadd2699f972ae82
+#EXTINF:0 channelID="x-ID.310" tvg-chno="1310" tvg-name="CBS (KWTX) Waco, TX" tvg-id="1310" tvg-logo="http://10.0.0.12:34400/images/b4d899eaa864e31fa9fc112aeaa9444f.png" group-title="US Local",CBS (KWTX) Waco, TX
+http://10.0.0.12:34400/stream/ac2381b366e199435604909736c68d10
+#EXTINF:0 channelID="x-ID.311" tvg-chno="1311" tvg-name="CBS (KZTV) Corpus Christi, TX" tvg-id="1311" tvg-logo="http://10.0.0.12:34400/images/c320aa8aa71610464a7ef8f6b8b6be1d.png" group-title="US Local",CBS (KZTV) Corpus Christi, TX
+http://10.0.0.12:34400/stream/c55f7eaf229fe2047bb527ee88b88156
+#EXTINF:0 channelID="x-ID.312" tvg-chno="1312" tvg-name="CBS (Los Angeles CA)" tvg-id="1312" tvg-logo="http://10.0.0.12:34400/images/5140939bc30015af9aff767a2a96233f.png" group-title="US Local",CBS (Los Angeles CA)
+http://10.0.0.12:34400/stream/9c038fe8a26846772de194609a00dcac
+#EXTINF:0 channelID="x-ID.313" tvg-chno="1313" tvg-name="CBS (Miami FL)" tvg-id="1313" tvg-logo="http://10.0.0.12:34400/images/72f2d2510048134b2b767abedb5ce8d6.png" group-title="US Local",CBS (Miami FL)
+http://10.0.0.12:34400/stream/998e5d537ff7dcb65f6fcd109550d040
+#EXTINF:0 channelID="x-ID.314" tvg-chno="1314" tvg-name="CBS (Milwaukee WI)" tvg-id="1314" tvg-logo="http://10.0.0.12:34400/images/c5f1f4e0e4343837a8c2b3bba2bbbf13.png" group-title="US Local",CBS (Milwaukee WI)
+http://10.0.0.12:34400/stream/6adb4a7a83b9607ff57399560e401113
+#EXTINF:0 channelID="x-ID.315" tvg-chno="1315" tvg-name="CBS (Minneapolis MN)" tvg-id="1315" tvg-logo="http://10.0.0.12:34400/images/1962370ca3b9098cbc328c83b84c4813.png" group-title="US Local",CBS (Minneapolis MN)
+http://10.0.0.12:34400/stream/b4107c4c61d389f65e338b3e764e8baa
+#EXTINF:0 channelID="x-ID.316" tvg-chno="1316" tvg-name="CBS (Nashville TN)" tvg-id="1316" tvg-logo="http://10.0.0.12:34400/images/de96dc1bc4a83a0ca787f949a1a1d174.png" group-title="US Local",CBS (Nashville TN)
+http://10.0.0.12:34400/stream/63d2d0790a96ed38484a90edc581a2b4
+#EXTINF:0 channelID="x-ID.317" tvg-chno="1317" tvg-name="CBS (Orlando FL)" tvg-id="1317" tvg-logo="http://10.0.0.12:34400/images/7fc93042f2875f25e0406bccc0f8ea66.png" group-title="US Local",CBS (Orlando FL)
+http://10.0.0.12:34400/stream/ad06f3551a3220e5b84243c0964f0e30
+#EXTINF:0 channelID="x-ID.318" tvg-chno="1318" tvg-name="CBS (Philadelphia PA)" tvg-id="1318" tvg-logo="http://10.0.0.12:34400/images/36a4775b66f1f25071d980806e2bd638.png" group-title="US Local",CBS (Philadelphia PA)
+http://10.0.0.12:34400/stream/c5f0539a0c878da9f928ab5ca0cb739d
+#EXTINF:0 channelID="x-ID.319" tvg-chno="1319" tvg-name="CBS (Phoenix AZ)" tvg-id="1319" tvg-logo="http://10.0.0.12:34400/images/1a555822a4a7ab8f67acc52c38225d69.png" group-title="US Local",CBS (Phoenix AZ)
+http://10.0.0.12:34400/stream/f3303bbcee2eed1962a248f1576af77c
+#EXTINF:0 channelID="x-ID.320" tvg-chno="1320" tvg-name="CBS (RaleighDurham NC)" tvg-id="1320" tvg-logo="http://10.0.0.12:34400/images/aab899fa0184bcc2d61901b5ac8b3baf.png" group-title="US Local",CBS (RaleighDurham NC)
+http://10.0.0.12:34400/stream/0bfe0ba7439b314556c6575c76db3a11
+#EXTINF:0 channelID="x-ID.321" tvg-chno="1321" tvg-name="CBS (Sacramento CA)" tvg-id="1321" tvg-logo="http://10.0.0.12:34400/images/12c61aeabe40735af2ca56a249813783.png" group-title="US Local",CBS (Sacramento CA)
+http://10.0.0.12:34400/stream/ad4e54ca8b7c3055f5575819e7824ab0
+#EXTINF:0 channelID="x-ID.322" tvg-chno="1322" tvg-name="CBS (Salt Lake City UT)" tvg-id="1322" tvg-logo="http://10.0.0.12:34400/images/a174ad17d850c26266f1e1bc70b9ffe7.png" group-title="US Local",CBS (Salt Lake City UT)
+http://10.0.0.12:34400/stream/0f4e6a5310fbba19a15087473c651b8f
+#EXTINF:0 channelID="x-ID.323" tvg-chno="1323" tvg-name="CBS (San Francisco CA)" tvg-id="1323" tvg-logo="http://10.0.0.12:34400/images/356a07f9ac353e7e18736479dbdb03fd.png" group-title="US Local",CBS (San Francisco CA)
+http://10.0.0.12:34400/stream/52610f7e2302d0da3aed512411096044
+#EXTINF:0 channelID="x-ID.324" tvg-chno="1324" tvg-name="CBS (Santa Maria CA)" tvg-id="1324" tvg-logo="http://10.0.0.12:34400/images/447e4cbbfeac441ea9469ee6fcd81f51.png" group-title="US Local",CBS (Santa Maria CA)
+http://10.0.0.12:34400/stream/99aec36fafb1ea525ffbd9862bec937f
+#EXTINF:0 channelID="x-ID.325" tvg-chno="1325" tvg-name="CBS (Seattle WA)" tvg-id="1325" tvg-logo="http://10.0.0.12:34400/images/878447669d99533acb6828af91217ec3.png" group-title="US Local",CBS (Seattle WA)
+http://10.0.0.12:34400/stream/8964da47f6e8b8800d3337f7bc2fad00
+#EXTINF:0 channelID="x-ID.326" tvg-chno="1326" tvg-name="CBS (Tampa Bay FL)" tvg-id="1326" tvg-logo="http://10.0.0.12:34400/images/b18aac2fa19badfc69589978b1f18b82.png" group-title="US Local",CBS (Tampa Bay FL)
+http://10.0.0.12:34400/stream/52574fa85d38e81e173c3f322240c3d3
+#EXTINF:0 channelID="x-ID.327" tvg-chno="1327" tvg-name="CBS (WAKA) Montgomery AL" tvg-id="1327" tvg-logo="http://10.0.0.12:34400/images/6356bf9d67ad5519c8dbe2eb98c614a4.png" group-title="US Local",CBS (WAKA) Montgomery AL
+http://10.0.0.12:34400/stream/c4415d027915ee925144894bd8ae5006
+#EXTINF:0 channelID="x-ID.328" tvg-chno="1328" tvg-name="CBS (WBTV) Charlotte NC" tvg-id="1328" tvg-logo="http://10.0.0.12:34400/images/43c2f65a550f696adf9e1675bc3b8402.png" group-title="US Local",CBS (WBTV) Charlotte NC
+http://10.0.0.12:34400/stream/adbb7abc9d0e8cfc86680e6f25be1a5a
+#EXTINF:0 channelID="x-ID.329" tvg-chno="1329" tvg-name="CBS (WBTW) Myrtle Beach SC" tvg-id="1329" tvg-logo="http://10.0.0.12:34400/images/0a80cb85eccf7e7cc8c0694e5771b3ef.png" group-title="US Local",CBS (WBTW) Myrtle Beach SC
+http://10.0.0.12:34400/stream/32e6a118629618ebf96ea51d0a45855a
+#EXTINF:0 channelID="x-ID.330" tvg-chno="1330" tvg-name="CBS (WBZ) Boston MA" tvg-id="1330" tvg-logo="http://10.0.0.12:34400/images/0d35551b6d9c68447dace2fea423d9b6.png" group-title="US Local",CBS (WBZ) Boston MA
+http://10.0.0.12:34400/stream/8c042cae806f8eed1a558929b33ce9ac
+#EXTINF:0 channelID="x-ID.331" tvg-chno="1331" tvg-name="CBS (WCBS) New York NY" tvg-id="1331" tvg-logo="http://10.0.0.12:34400/images/28a1d4574a5ec141bf4548e81626f97f.png" group-title="US Local",CBS (WCBS) New York NY
+http://10.0.0.12:34400/stream/9128994eacc7d523835c5fe25aa90689
+#EXTINF:0 channelID="x-ID.332" tvg-chno="1332" tvg-name="CBS (WCSC) Charleston SC" tvg-id="1332" tvg-logo="http://10.0.0.12:34400/images/288d872a29dc49f15920165abf8a5ccf.png" group-title="US Local",CBS (WCSC) Charleston SC
+http://10.0.0.12:34400/stream/c9368b81751cc518c9acf111f7483495
+#EXTINF:0 channelID="x-ID.333" tvg-chno="1333" tvg-name="CBS (WDEF) Chattanooga TN" tvg-id="1333" tvg-logo="http://10.0.0.12:34400/images/386f705a60513a6687c5843afc38ec15.png" group-title="US Local",CBS (WDEF) Chattanooga TN
+http://10.0.0.12:34400/stream/24dc133dd1915452030d79f641be9409
+#EXTINF:0 channelID="x-ID.334" tvg-chno="1334" tvg-name="CBS (WFMY) Greensboro NC" tvg-id="1334" tvg-logo="http://10.0.0.12:34400/images/b36581100b566f235ea34d2f21212e31.png" group-title="US Local",CBS (WFMY) Greensboro NC
+http://10.0.0.12:34400/stream/0cd26ef70c1ab16e34d34652c02f9523
+#EXTINF:0 channelID="x-ID.335" tvg-chno="1335" tvg-name="CBS (WHBF) Rock Island, Il" tvg-id="1335" tvg-logo="http://10.0.0.12:34400/images/0b89ef4582b46d83cd4dac47aafbd3db.png" group-title="US Local",CBS (WHBF) Rock Island, Il
+http://10.0.0.12:34400/stream/463f5a059b2c906a9194cb2aef1a4fc3
+#EXTINF:0 channelID="x-ID.336" tvg-chno="1336" tvg-name="CBS (WHP) Harrisburg PA" tvg-id="1336" tvg-logo="http://10.0.0.12:34400/images/69119015228cebcc4ff0e33360b4769b.png" group-title="US Local",CBS (WHP) Harrisburg PA
+http://10.0.0.12:34400/stream/1d22bed815799ad56b95c21460f59f58
+#EXTINF:0 channelID="x-ID.337" tvg-chno="1337" tvg-name="CBS (WINK) Fort Myers, FL" tvg-id="1337" tvg-logo="http://10.0.0.12:34400/images/7f4d0c216fcd9280ad0962dae8eeb2d5.png" group-title="US Local",CBS (WINK) Fort Myers, FL
+http://10.0.0.12:34400/stream/814e9d62b5ab67e3f9c6f8e6a4958e70
+#EXTINF:0 channelID="x-ID.338" tvg-chno="1338" tvg-name="CBS (WJAX) Jacksonville FL" tvg-id="1338" tvg-logo="http://10.0.0.12:34400/images/5814b1aa7c6feb032bf48bbc57b9c416.png" group-title="US Local",CBS (WJAX) Jacksonville FL
+http://10.0.0.12:34400/stream/3d620da8c30b1bde055a7ff58cec6f56
+#EXTINF:0 channelID="x-ID.339" tvg-chno="1339" tvg-name="CBS (WJTV) Jackson MS" tvg-id="1339" tvg-logo="http://10.0.0.12:34400/images/edeaa458eb225e2f319cd94bd0981c01.png" group-title="US Local",CBS (WJTV) Jackson MS
+http://10.0.0.12:34400/stream/f14b6f6bd88dfef3f7b1b95b1829da0d
+#EXTINF:0 channelID="x-ID.340" tvg-chno="1340" tvg-name="CBS (WKYT) Lexington, KY" tvg-id="1340" tvg-logo="http://10.0.0.12:34400/images/e04ac6bee4e9a13916c0bc563cd801cc.png" group-title="US Local",CBS (WKYT) Lexington, KY
+http://10.0.0.12:34400/stream/4daaac36c64b6149cbd37a4a8da3ec57
+#EXTINF:0 channelID="x-ID.341" tvg-chno="1341" tvg-name="CBS (WLTX) Columbia SC" tvg-id="1341" tvg-logo="http://10.0.0.12:34400/images/98ef3ed493659a79f1ca47ec7fe37c27.png" group-title="US Local",CBS (WLTX) Columbia SC
+http://10.0.0.12:34400/stream/89fefb6de9636af02f8ef88c59f8ddf3
+#EXTINF:0 channelID="x-ID.342" tvg-chno="1342" tvg-name="CBS (WPEC) West Palm Beach, FL" tvg-id="1342" tvg-logo="http://10.0.0.12:34400/images/ee10e8db825d1c05a6d607a2f4b29da2.png" group-title="US Local",CBS (WPEC) West Palm Beach, FL
+http://10.0.0.12:34400/stream/480a060d3f1deefaee97fa24c433c0fe
+#EXTINF:0 channelID="x-ID.343" tvg-chno="1343" tvg-name="CBS (WTOC) Savannah GA" tvg-id="1343" tvg-logo="http://10.0.0.12:34400/images/a1f94218501262a7c0bb3683994e985e.png" group-title="US Local",CBS (WTOC) Savannah GA
+http://10.0.0.12:34400/stream/51aa26c0d36bb497500f3185e920fd88
+#EXTINF:0 channelID="x-ID.344" tvg-chno="1344" tvg-name="CBS (WTVH) Syracuse NY" tvg-id="1344" tvg-logo="http://10.0.0.12:34400/images/2efb192ce2cfcc706415afaf62f25a40.png" group-title="US Local",CBS (WTVH) Syracuse NY
+http://10.0.0.12:34400/stream/6029bcae4338a13d9e091249937a4b4f
+#EXTINF:0 channelID="x-ID.345" tvg-chno="1345" tvg-name="CBS (WUSA) District of Columbia" tvg-id="1345" tvg-logo="http://10.0.0.12:34400/images/c4b83e0b183008ac696b115b8724902d.png" group-title="US Local",CBS (WUSA) District of Columbia
+http://10.0.0.12:34400/stream/4e1eb7fef118678890788b5073eed86a
+#EXTINF:0 channelID="x-ID.346" tvg-chno="1346" tvg-name="CBS (WYOU) Scranton PA" tvg-id="1346" tvg-logo="http://10.0.0.12:34400/images/4da16c82bc71bfca82897c34e2c30ff9.png" group-title="US Local",CBS (WYOU) Scranton PA
+http://10.0.0.12:34400/stream/35c8ed150392e8067016f188e3634cc1
+#EXTINF:0 channelID="x-ID.347" tvg-chno="1347" tvg-name="CBS Boise ID (KBOI)" tvg-id="1347" tvg-logo="http://10.0.0.12:34400/images/53a5fe7dbbeb3c357f117036b4852a2a.png" group-title="US Local",CBS Boise ID (KBOI)
+http://10.0.0.12:34400/stream/52e513c3f78b59ddca67805185a25a7a
+#EXTINF:0 channelID="x-ID.348" tvg-chno="1348" tvg-name="CBS Cleveland OH (WOIO)" tvg-id="1348" tvg-logo="http://10.0.0.12:34400/images/62e58949a1bac69d79ec0cf98ea99fda.png" group-title="US Local",CBS Cleveland OH (WOIO)
+http://10.0.0.12:34400/stream/08d4618d96f0f62f8680c4ffc0e9be13
+#EXTINF:0 channelID="x-ID.349" tvg-chno="1349" tvg-name="CW (WUPA) Atlanta, GA" tvg-id="1349" tvg-logo="http://10.0.0.12:34400/images/53abc26a179a5c381ab521442c6e54ab.png" group-title="US Local",CW (WUPA) Atlanta, GA
+http://10.0.0.12:34400/stream/62819429ced5a0adf7a1e5c170b95f23
+#EXTINF:0 channelID="x-ID.350" tvg-chno="1350" tvg-name="FOX (Atlanta GA)" tvg-id="1350" tvg-logo="http://10.0.0.12:34400/images/a9693fa1e55f33c43d129e1a1eff3f6d.png" group-title="US Local",FOX (Atlanta GA)
+http://10.0.0.12:34400/stream/f5212a8092c73058842345d19b1e17db
+#EXTINF:0 channelID="x-ID.351" tvg-chno="1351" tvg-name="FOX (Baltimore MD)" tvg-id="1351" tvg-logo="http://10.0.0.12:34400/images/de30490885fb5b34ef34c701257c48a2.png" group-title="US Local",FOX (Baltimore MD)
+http://10.0.0.12:34400/stream/911668892d5b457b4159b8dfffd506e6
+#EXTINF:0 channelID="x-ID.352" tvg-chno="1352" tvg-name="FOX (Chicago IL)" tvg-id="1352" tvg-logo="http://10.0.0.12:34400/images/80da1b126144634002c3e8c487c8cade.png" group-title="US Local",FOX (Chicago IL)
+http://10.0.0.12:34400/stream/1af34681de1f29aca9f3ab611b9dc6db
+#EXTINF:0 channelID="x-ID.353" tvg-chno="1353" tvg-name="FOX (Dallas TX)" tvg-id="1353" tvg-logo="http://10.0.0.12:34400/images/934e9ebcc5d1a2be7893be166b64c250.png" group-title="US Local",FOX (Dallas TX)
+http://10.0.0.12:34400/stream/819232bbf688d0fa2d8244112a1eb324
+#EXTINF:0 channelID="x-ID.354" tvg-chno="1354" tvg-name="FOX (Denver CO)" tvg-id="1354" tvg-logo="http://10.0.0.12:34400/images/e13fb09528b8eeb4b41314b87461c0ae.png" group-title="US Local",FOX (Denver CO)
+http://10.0.0.12:34400/stream/38f9b0d172ee0a3fded0b9cdfc381bb2
+#EXTINF:0 channelID="x-ID.355" tvg-chno="1355" tvg-name="FOX (Detroit MI)" tvg-id="1355" tvg-logo="http://10.0.0.12:34400/images/6fbcad08f99b30d745d9f2dbf50bac05.png" group-title="US Local",FOX (Detroit MI)
+http://10.0.0.12:34400/stream/3648ac5caa411211ec96526815458580
+#EXTINF:0 channelID="x-ID.356" tvg-chno="1356" tvg-name="FOX (Fresno CA)" tvg-id="1356" tvg-logo="http://10.0.0.12:34400/images/a642db118ee638da333bf9daacdac571.png" group-title="US Local",FOX (Fresno CA)
+http://10.0.0.12:34400/stream/9cb0baa3c88a4665aca0c74ffe61563d
+#EXTINF:0 channelID="x-ID.357" tvg-chno="1357" tvg-name="FOX (Honolulu HI)" tvg-id="1357" tvg-logo="http://10.0.0.12:34400/images/2efb67577e43bffd9888ad85d7e73d13.png" group-title="US Local",FOX (Honolulu HI)
+http://10.0.0.12:34400/stream/0c7c23fd402175cb6317a13a24610e17
+#EXTINF:0 channelID="x-ID.358" tvg-chno="1358" tvg-name="FOX (Houston TX)" tvg-id="1358" tvg-logo="http://10.0.0.12:34400/images/f3f9aad9d6d1d71c14236d1c6ce965cc.png" group-title="US Local",FOX (Houston TX)
+http://10.0.0.12:34400/stream/5f878fb356b9c4482e86e52d7ad7de42
+#EXTINF:0 channelID="x-ID.359" tvg-chno="1359" tvg-name="FOX (Indianapolis IN)" tvg-id="1359" tvg-logo="http://10.0.0.12:34400/images/22f8b23103f7482a98e7855d6ea10e81.png" group-title="US Local",FOX (Indianapolis IN)
+http://10.0.0.12:34400/stream/096a7d962a0750a314eae2a48e50c66b
+#EXTINF:0 channelID="x-ID.360" tvg-chno="1360" tvg-name="FOX (Kansas City MO)" tvg-id="1360" tvg-logo="http://10.0.0.12:34400/images/7bc793776004c940f19d14d7261cd710.png" group-title="US Local",FOX (Kansas City MO)
+http://10.0.0.12:34400/stream/0cf1afd9632721e5e33f3d474486333f
+#EXTINF:0 channelID="x-ID.361" tvg-chno="1361" tvg-name="FOX (KCPQ) Tacoma, WA" tvg-id="1361" tvg-logo="http://10.0.0.12:34400/images/c1c09954dec924c1b027952a63e717ca.png" group-title="US Local",FOX (KCPQ) Tacoma, WA
+http://10.0.0.12:34400/stream/933bbe505c71cef1c7d2e2fe4abfa8eb
+#EXTINF:0 channelID="x-ID.362" tvg-chno="1362" tvg-name="FOX (KDSM) Des Moines, IA" tvg-id="1362" tvg-logo="http://10.0.0.12:34400/images/111ebcb7a898b891b9a1bb6d0c203bf5.png" group-title="US Local",FOX (KDSM) Des Moines, IA
+http://10.0.0.12:34400/stream/ca56b7a6cbe0bd17654b0d203d664c7c
+#EXTINF:0 channelID="x-ID.363" tvg-chno="1363" tvg-name="FOX (KFXVLD) McAllen, TX" tvg-id="1363" tvg-logo="http://10.0.0.12:34400/images/6d0c987c272a0d0751c0fd35fa2734b1.png" group-title="US Local",FOX (KFXVLD) McAllen, TX
+http://10.0.0.12:34400/stream/9c5bef4699b46d39701076da4e30dbc9
+#EXTINF:0 channelID="x-ID.364" tvg-chno="1364" tvg-name="FOX (KLJB) Davenport, IA" tvg-id="1364" tvg-logo="http://10.0.0.12:34400/images/f964901ccefbfdb6a33fa59f9bd1f92f.png" group-title="US Local",FOX (KLJB) Davenport, IA
+http://10.0.0.12:34400/stream/2f66ca50962da3affc3ec3e5be3159eb
+#EXTINF:0 channelID="x-ID.365" tvg-chno="1365" tvg-name="FOX (KOKH) Oklahoma City, OK" tvg-id="1365" tvg-logo="http://10.0.0.12:34400/images/9548be374d98379d36294bdc256d7d63.png" group-title="US Local",FOX (KOKH) Oklahoma City, OK
+http://10.0.0.12:34400/stream/0adcb5d4e5404ccbad8a160163fc6163
+#EXTINF:0 channelID="x-ID.366" tvg-chno="1366" tvg-name="FOX (KOKI) Tulsa OK" tvg-id="1366" tvg-logo="http://10.0.0.12:34400/images/a3e67c2f2339e729896df1cd3755d1eb.png" group-title="US Local",FOX (KOKI) Tulsa OK
+http://10.0.0.12:34400/stream/373cf11ff16f2d96024fc336b5336b6b
+#EXTINF:0 channelID="x-ID.367" tvg-chno="1367" tvg-name="FOX (KSCC) Corpus Christi, TX" tvg-id="1367" tvg-logo="http://10.0.0.12:34400/images/ca6b52ac3241951de9658fab0e9f9394.png" group-title="US Local",FOX (KSCC) Corpus Christi, TX
+http://10.0.0.12:34400/stream/39359649bde1af77ff1dec5119a21151
+#EXTINF:0 channelID="x-ID.368" tvg-chno="1368" tvg-name="FOX (KSWB) San Diego CA" tvg-id="1368" tvg-logo="http://10.0.0.12:34400/images/a05439e07edf3272a36e1e3058534b28.png" group-title="US Local",FOX (KSWB) San Diego CA
+http://10.0.0.12:34400/stream/235aefee2a3ede36da4d272e99b9be6c
+#EXTINF:0 channelID="x-ID.369" tvg-chno="1369" tvg-name="FOX (KTTW) Sioux Falls SD" tvg-id="1369" tvg-logo="http://10.0.0.12:34400/images/94e0a99fee9cb1b725fc3b35ce0fa4be.png" group-title="US Local",FOX (KTTW) Sioux Falls SD
+http://10.0.0.12:34400/stream/2ff581a8fc11a6fb6a7736218d3b58f0
+#EXTINF:0 channelID="x-ID.370" tvg-chno="1370" tvg-name="FOX (KVRR) Fargo, ND" tvg-id="1370" tvg-logo="http://10.0.0.12:34400/images/f8f8c224882f0d5a37ad56d331e55dc3.png" group-title="US Local",FOX (KVRR) Fargo, ND
+http://10.0.0.12:34400/stream/e6044dac1410a6e554c54b7a094b7584
+#EXTINF:0 channelID="x-ID.371" tvg-chno="1371" tvg-name="FOX (Los Angeles CA)" tvg-id="1371" tvg-logo="http://10.0.0.12:34400/images/aece5e4c3a6caee5433e1653fc6eca88.png" group-title="US Local",FOX (Los Angeles CA)
+http://10.0.0.12:34400/stream/61deab581d83597f6cfd6cf09d1955be
+#EXTINF:0 channelID="x-ID.372" tvg-chno="1372" tvg-name="FOX (Miami FL)" tvg-id="1372" tvg-logo="http://10.0.0.12:34400/images/385b41d4d88c18231a67e3ab078799cc.png" group-title="US Local",FOX (Miami FL)
+http://10.0.0.12:34400/stream/2e67dce7174b91a60c500eec56dc7bc4
+#EXTINF:0 channelID="x-ID.373" tvg-chno="1373" tvg-name="FOX (Milwaukee WI)" tvg-id="1373" tvg-logo="http://10.0.0.12:34400/images/1e559cffe21b1e45a8764ce98b6d5f87.png" group-title="US Local",FOX (Milwaukee WI)
+http://10.0.0.12:34400/stream/35d29c70b2f16a8212af6d906893b5ee
+#EXTINF:0 channelID="x-ID.374" tvg-chno="1374" tvg-name="FOX (Minneapolis MN)" tvg-id="1374" tvg-logo="http://10.0.0.12:34400/images/b0ea4db90beaa9a3d6f1d5364d3b4934.png" group-title="US Local",FOX (Minneapolis MN)
+http://10.0.0.12:34400/stream/2d9def7e686028fd247626c5a84276e4
+#EXTINF:0 channelID="x-ID.375" tvg-chno="1375" tvg-name="FOX (Nashville TN)" tvg-id="1375" tvg-logo="http://10.0.0.12:34400/images/8480ac7b27c056508686c14a339472f5.png" group-title="US Local",FOX (Nashville TN)
+http://10.0.0.12:34400/stream/a01f21fa79c69a3e0e60d58f8d6028c3
+#EXTINF:0 channelID="x-ID.376" tvg-chno="1376" tvg-name="FOX (Orlando FL)" tvg-id="1376" tvg-logo="http://10.0.0.12:34400/images/74d80060f809b15e3f651228e8cde7e3.png" group-title="US Local",FOX (Orlando FL)
+http://10.0.0.12:34400/stream/1cf544917b47a8d5cb80be85be89ac88
+#EXTINF:0 channelID="x-ID.377" tvg-chno="1377" tvg-name="FOX (Philadelphia PA)" tvg-id="1377" tvg-logo="http://10.0.0.12:34400/images/bd6d907d2720bff6d2a3c6075a32f9ad.png" group-title="US Local",FOX (Philadelphia PA)
+http://10.0.0.12:34400/stream/74167ab3ebd38dd4670043aae1c61cfa
+#EXTINF:0 channelID="x-ID.378" tvg-chno="1378" tvg-name="FOX (Phoenix AZ)" tvg-id="1378" tvg-logo="http://10.0.0.12:34400/images/19ba0d135195ed20e0b033cbd78b01c1.png" group-title="US Local",FOX (Phoenix AZ)
+http://10.0.0.12:34400/stream/a57ebe54f57d152c648abfe6ff6c1df3
+#EXTINF:0 channelID="x-ID.379" tvg-chno="1379" tvg-name="FOX (Pittsburgh PA)" tvg-id="1379" tvg-logo="http://10.0.0.12:34400/images/cefbd947464a400f62398342dfa69f5c.png" group-title="US Local",FOX (Pittsburgh PA)
+http://10.0.0.12:34400/stream/1a592509336bfe469e2f7eae6f020e66
+#EXTINF:0 channelID="x-ID.380" tvg-chno="1380" tvg-name="FOX (Sacramento CA)" tvg-id="1380" tvg-logo="http://10.0.0.12:34400/images/14ad4ab7e6b1b6cbc800e522d1a49d0b.png" group-title="US Local",FOX (Sacramento CA)
+http://10.0.0.12:34400/stream/10d4e3ff0bc1bb429d54020197581620
+#EXTINF:0 channelID="x-ID.381" tvg-chno="1381" tvg-name="FOX (Salt Lake City UT)" tvg-id="1381" tvg-logo="http://10.0.0.12:34400/images/fe1f3621374fbe36e009db5ca4ff5206.png" group-title="US Local",FOX (Salt Lake City UT)
+http://10.0.0.12:34400/stream/cf5a1e3bdc27378099d59b2883aece3c
+#EXTINF:0 channelID="x-ID.382" tvg-chno="1382" tvg-name="FOX (San Francisco CA)" tvg-id="1382" tvg-logo="http://10.0.0.12:34400/images/d0a4e6d1df2336243e628851d6d58749.png" group-title="US Local",FOX (San Francisco CA)
+http://10.0.0.12:34400/stream/61ca4ca9cdd1a4abe0c254f93970241f
+#EXTINF:0 channelID="x-ID.383" tvg-chno="1383" tvg-name="FOX (Santa Barbara CA)" tvg-id="1383" tvg-logo="http://10.0.0.12:34400/images/658b53be2f0c1b6574cfc6b82670fff2.png" group-title="US Local",FOX (Santa Barbara CA)
+http://10.0.0.12:34400/stream/515b61063decfc3666e1f98b6715c0fc
+#EXTINF:0 channelID="x-ID.384" tvg-chno="1384" tvg-name="FOX (Tampa Bay FL)" tvg-id="1384" tvg-logo="http://10.0.0.12:34400/images/a6afa79b6678327a587785d49099a58d.png" group-title="US Local",FOX (Tampa Bay FL)
+http://10.0.0.12:34400/stream/5e318217ead78612438330de7a58871d
+#EXTINF:0 channelID="x-ID.385" tvg-chno="1385" tvg-name="FOX (WACH) Columbia SC" tvg-id="1385" tvg-logo="http://10.0.0.12:34400/images/8ce285fd0e8d09c6fcee504c4633d5fc.png" group-title="US Local",FOX (WACH) Columbia SC
+http://10.0.0.12:34400/stream/6298c99c4c4cdaf34cad809a1bb316bc
+#EXTINF:0 channelID="x-ID.386" tvg-chno="1386" tvg-name="FOX (WDBD) Jackson MS" tvg-id="1386" tvg-logo="http://10.0.0.12:34400/images/8f50570ef2820eac78e84e9257e83354.png" group-title="US Local",FOX (WDBD) Jackson MS
+http://10.0.0.12:34400/stream/4e4ed12e31e5db40cbb52dcb7b98355f
+#EXTINF:0 channelID="x-ID.387" tvg-chno="1387" tvg-name="FOX (WDKY) Lexington KY" tvg-id="1387" tvg-logo="http://10.0.0.12:34400/images/8494fcf89533d9f8cddb5ab35258f5c0.png" group-title="US Local",FOX (WDKY) Lexington KY
+http://10.0.0.12:34400/stream/0a640ae6886570d0c250ab96bb4cbb11
+#EXTINF:0 channelID="x-ID.388" tvg-chno="1388" tvg-name="FOX (WFLX) West Palm Beach, FL" tvg-id="1388" tvg-logo="http://10.0.0.12:34400/images/36a5e8f288e0f4313e823b722d185f35.png" group-title="US Local",FOX (WFLX) West Palm Beach, FL
+http://10.0.0.12:34400/stream/0d3f53e57718ba85bff04ff50fff1e02
+#EXTINF:0 channelID="x-ID.389" tvg-chno="1389" tvg-name="FOX (WFXT) Boston MA" tvg-id="1389" tvg-logo="http://10.0.0.12:34400/images/cf03be19213ffca5bba2f615642553ba.png" group-title="US Local",FOX (WFXT) Boston MA
+http://10.0.0.12:34400/stream/0addafd83d3a9340fb2a8051d314e6ad
+#EXTINF:0 channelID="x-ID.390" tvg-chno="1390" tvg-name="FOX (WGHP) Greensboro NC" tvg-id="1390" tvg-logo="http://10.0.0.12:34400/images/7e25898955dc0b55f0b76f53a6e265e1.png" group-title="US Local",FOX (WGHP) Greensboro NC
+http://10.0.0.12:34400/stream/01c1a884b864e2e77823a5e1a70796d4
+#EXTINF:0 channelID="x-ID.391" tvg-chno="1391" tvg-name="FOX (WMSN) Madison, WI" tvg-id="1391" tvg-logo="http://10.0.0.12:34400/images/1de1f868c5e1f0cb758826a1863320f6.png" group-title="US Local",FOX (WMSN) Madison, WI
+http://10.0.0.12:34400/stream/65d16c9d0715ae558abfd1345ae65cd0
+#EXTINF:0 channelID="x-ID.392" tvg-chno="1392" tvg-name="FOX (WNYW) New York NY" tvg-id="1392" tvg-logo="http://10.0.0.12:34400/images/961e9f6861b8564b0c7a044e5d5c903c.png" group-title="US Local",FOX (WNYW) New York NY
+http://10.0.0.12:34400/stream/c4579ebe0ef53afc0d6022b0245c304b
+#EXTINF:0 channelID="x-ID.393" tvg-chno="1393" tvg-name="FOX (WPMT) Harrisburg PA" tvg-id="1393" tvg-logo="http://10.0.0.12:34400/images/d38c51d4f302b63a66b53dbd253c0930.png" group-title="US Local",FOX (WPMT) Harrisburg PA
+http://10.0.0.12:34400/stream/aaa8ad4428a4e56d5ac6114320d9a16e
+#EXTINF:0 channelID="x-ID.394" tvg-chno="1394" tvg-name="FOX (WTAT) Charleston SC" tvg-id="1394" tvg-logo="http://10.0.0.12:34400/images/f5ec6097051b5d68ddd481c1a24fbda2.png" group-title="US Local",FOX (WTAT) Charleston SC
+http://10.0.0.12:34400/stream/74ba9371ecb2b163fdc57444dd5d9a7f
+#EXTINF:0 channelID="x-ID.395" tvg-chno="1395" tvg-name="FOX (WTNZ) Knoxville, TN" tvg-id="1395" tvg-logo="http://10.0.0.12:34400/images/3e4066c5e85c0d9eccf2dfa6d57a3e54.png" group-title="US Local",FOX (WTNZ) Knoxville, TN
+http://10.0.0.12:34400/stream/47d192c0f654938a80f45118b664f05c
+#EXTINF:0 channelID="x-ID.396" tvg-chno="1396" tvg-name="FOX (WTVCDT2) Chattanooga TN" tvg-id="1396" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/fox.wtvcdt2.chattanooga.tn.us.png" group-title="US Local",FOX (WTVCDT2) Chattanooga TN
+http://10.0.0.12:34400/stream/617109e5ae80714ba1fc2db6f1805b35
+#EXTINF:0 channelID="x-ID.397" tvg-chno="1397" tvg-name="FOX 28 (Columbus OH)" tvg-id="1397" tvg-logo="http://10.0.0.12:34400/images/d243cbea4fb76bdb6d95fd9eceafeb43.png" group-title="US Local",FOX 28 (Columbus OH)
+http://10.0.0.12:34400/stream/838c674b9d2eac8f100ca9c5b836d7d4
+#EXTINF:0 channelID="x-ID.398" tvg-chno="1398" tvg-name="FOX 29 (San Antonio)" tvg-id="1398" tvg-logo="http://10.0.0.12:34400/images/eb5aa825948fd9ad5c85a830953f93ff.png" group-title="US Local",FOX 29 (San Antonio)
+http://10.0.0.12:34400/stream/49ae88fb52bc3b5cf9377ec3624b2db9
+#EXTINF:0 channelID="x-ID.399" tvg-chno="1399" tvg-name="FOX 30 (Jacksonville)" tvg-id="1399" tvg-logo="http://10.0.0.12:34400/images/3a9014deac386e6cf292b1b2178461c8.png" group-title="US Local",FOX 30 (Jacksonville)
+http://10.0.0.12:34400/stream/d3b8aa3e638d9f63c70f2cab5d05b01d
+#EXTINF:0 channelID="x-ID.400" tvg-chno="1400" tvg-name="FOX 46 (Charlotte, NC)" tvg-id="1400" tvg-logo="http://10.0.0.12:34400/images/419bd51580f146431eef381b20f1d409.png" group-title="US Local",FOX 46 (Charlotte, NC)
+http://10.0.0.12:34400/stream/08ea3f0c5c02389660bf9af4f55e52c4
+#EXTINF:0 channelID="x-ID.401" tvg-chno="1401" tvg-name="FOX 5 (Wash DC)" tvg-id="1401" tvg-logo="http://10.0.0.12:34400/images/9cad2b5ec0a2d8d1d345969e0a341955.png" group-title="US Local",FOX 5 (Wash DC)
+http://10.0.0.12:34400/stream/92738bbf702dd01323f7cec970b9fd59
+#EXTINF:0 channelID="x-ID.402" tvg-chno="1402" tvg-name="FOX 5 Plus (District of Columbia)" tvg-id="1402" tvg-logo="http://10.0.0.12:34400/images/d8dc59b9ec5a175180dcfa42a8e4c631.png" group-title="US Local",FOX 5 Plus (District of Columbia)
+http://10.0.0.12:34400/stream/95f7e433834b053a8bb37a747a17d371
+#EXTINF:0 channelID="x-ID.403" tvg-chno="1403" tvg-name="FOX 50 (Raleigh, NC)" tvg-id="1403" tvg-logo="http://10.0.0.12:34400/images/7c03f4d59e0edf35eb473e1c7773aec6.png" group-title="US Local",FOX 50 (Raleigh, NC)
+http://10.0.0.12:34400/stream/c6b6c10b7b1a4dfbe2c179ed51da373f
+#EXTINF:0 channelID="x-ID.404" tvg-chno="1404" tvg-name="FOX 61 (Hartford CT)" tvg-id="1404" tvg-logo="http://10.0.0.12:34400/images/714cbc3bf6127904972dc75f2f07f680.png" group-title="US Local",FOX 61 (Hartford CT)
+http://10.0.0.12:34400/stream/a1539d1f1b363e4aafe6733ee2ad0db3
+#EXTINF:0 channelID="x-ID.405" tvg-chno="1405" tvg-name="FOX 8 (Cleveland)" tvg-id="1405" tvg-logo="http://10.0.0.12:34400/images/22bf9fb19985174d1320cb77cf61b95c.png" group-title="US Local",FOX 8 (Cleveland)
+http://10.0.0.12:34400/stream/9a7d3e3b7f29637e511462ca8d2f5373
+#EXTINF:0 channelID="x-ID.406" tvg-chno="1406" tvg-name="FOX 8 (New Orleans, LA)" tvg-id="1406" tvg-logo="http://10.0.0.12:34400/images/e55d00e4b23ca43caa275a2b821275a7.png" group-title="US Local",FOX 8 (New Orleans, LA)
+http://10.0.0.12:34400/stream/b4fa609dd323ba97088b9482eaf5b111
+#EXTINF:0 channelID="x-ID.407" tvg-chno="1407" tvg-name="FOX Boise ID (KNIN)" tvg-id="1407" tvg-logo="http://10.0.0.12:34400/images/0de0b1b2cbdc9ddcdb0eb94ab7884807.png" group-title="US Local",FOX Boise ID (KNIN)
+http://10.0.0.12:34400/stream/e106ca46367827cfe13114013c4e0d92
+#EXTINF:0 channelID="x-ID.408" tvg-chno="1408" tvg-name="FOX Minneapolis MN (WFTC)" tvg-id="1408" tvg-logo="http://10.0.0.12:34400/images/083ad0282b74b7ba4c33f76c0a483978.png" group-title="US Local",FOX Minneapolis MN (WFTC)
+http://10.0.0.12:34400/stream/5603493ef11caffb5387b6abee19ff20
+#EXTINF:0 channelID="x-ID.409" tvg-chno="1409" tvg-name="MNT (WMYT) Charlotte, NC" tvg-id="1409" tvg-logo="http://10.0.0.12:34400/images/0dffedb1edf7437713d6e5fe5c845f4c.png" group-title="US Local",MNT (WMYT) Charlotte, NC
+http://10.0.0.12:34400/stream/18234d3335240b50b5ef787c8e1e125d
+#EXTINF:0 channelID="x-ID.410" tvg-chno="1410" tvg-name="NBC (Atlanta GA)" tvg-id="1410" tvg-logo="http://10.0.0.12:34400/images/43f598c4351f5d8db95b045afcfebdb4.png" group-title="US Local",NBC (Atlanta GA)
+http://10.0.0.12:34400/stream/0f63aa378c5603bd57d9b36c05f701b2
+#EXTINF:0 channelID="x-ID.411" tvg-chno="1411" tvg-name="NBC (Baltimore MD)" tvg-id="1411" tvg-logo="http://10.0.0.12:34400/images/c4333a4965667c46d9617f61937f441f.png" group-title="US Local",NBC (Baltimore MD)
+http://10.0.0.12:34400/stream/fdd1fd6756775b495c54f004822bbdf7
+#EXTINF:0 channelID="x-ID.412" tvg-chno="1412" tvg-name="NBC (Chicago IL)" tvg-id="1412" tvg-logo="http://10.0.0.12:34400/images/1b4fe1663622e7b3a811aec0dda5637e.png" group-title="US Local",NBC (Chicago IL)
+http://10.0.0.12:34400/stream/4c92c2aebb7769fa6a3c39167065325d
+#EXTINF:0 channelID="x-ID.413" tvg-chno="1413" tvg-name="NBC (Denver CO)" tvg-id="1413" tvg-logo="http://10.0.0.12:34400/images/fa11d6f6234e703045ccad73d8469124.png" group-title="US Local",NBC (Denver CO)
+http://10.0.0.12:34400/stream/5af6bf2a50a6a5267a3baa20533724bb
+#EXTINF:0 channelID="x-ID.414" tvg-chno="1414" tvg-name="NBC (Detroit MI)" tvg-id="1414" tvg-logo="http://10.0.0.12:34400/images/b8d34984c1a0657cade35ed81335bb89.png" group-title="US Local",NBC (Detroit MI)
+http://10.0.0.12:34400/stream/17ef8bd1b86c99bf249e016868523652
+#EXTINF:0 channelID="x-ID.415" tvg-chno="1415" tvg-name="NBC (Fort Worth TX)" tvg-id="1415" tvg-logo="http://10.0.0.12:34400/images/fd0128a30a28b9386c020745292b4bba.png" group-title="US Local",NBC (Fort Worth TX)
+http://10.0.0.12:34400/stream/668df5fd8da05f73bd1e3c5c23d9be15
+#EXTINF:0 channelID="x-ID.416" tvg-chno="1416" tvg-name="NBC (Fresno CA SD)" tvg-id="1416" tvg-logo="http://10.0.0.12:34400/images/d423ad4d02cf880e7e38036f01246e8a.png" group-title="US Local",NBC (Fresno CA SD)
+http://10.0.0.12:34400/stream/fbda864102177c2eb24133087c3a92bf
+#EXTINF:0 channelID="x-ID.417" tvg-chno="1417" tvg-name="NBC (Honolulu HI)" tvg-id="1417" tvg-logo="http://10.0.0.12:34400/images/46e03abb5afb6bbbbc6da1141293c11f.png" group-title="US Local",NBC (Honolulu HI)
+http://10.0.0.12:34400/stream/1172f944ffd47b369f48b8f16ddb9557
+#EXTINF:0 channelID="x-ID.418" tvg-chno="1418" tvg-name="NBC (Houston TX)" tvg-id="1418" tvg-logo="http://10.0.0.12:34400/images/d5c63447e55eb7f751ab3a8717863712.png" group-title="US Local",NBC (Houston TX)
+http://10.0.0.12:34400/stream/dfe8590fb01d9203e4f0ed4312b822e3
+#EXTINF:0 channelID="x-ID.419" tvg-chno="1419" tvg-name="NBC (Kansas City MO)" tvg-id="1419" tvg-logo="http://10.0.0.12:34400/images/86f4587175fd8c5defcf4ab6381d9d72.png" group-title="US Local",NBC (Kansas City MO)
+http://10.0.0.12:34400/stream/ee34cf3ed0e1e5abcf3e33beaf3b7eae
+#EXTINF:0 channelID="x-ID.420" tvg-chno="1420" tvg-name="NBC (KGET) Bakersfield, CA" tvg-id="1420" tvg-logo="http://10.0.0.12:34400/images/da2271988a02aeb3b35c211ee14b771f.png" group-title="US Local",NBC (KGET) Bakersfield, CA
+http://10.0.0.12:34400/stream/ee3480f252928dd82f8de3fa028ee06c
+#EXTINF:0 channelID="x-ID.421" tvg-chno="1421" tvg-name="NBC (KING) Seattle, WA" tvg-id="1421" tvg-logo="http://10.0.0.12:34400/images/448ee62a9e173ded5cc37b10824c9045.png" group-title="US Local",NBC (KING) Seattle, WA
+http://10.0.0.12:34400/stream/714ac4d5ad6645522ea8ae82887bbdea
+#EXTINF:0 channelID="x-ID.422" tvg-chno="1422" tvg-name="NBC (KNSD) San Diego, CA" tvg-id="1422" tvg-logo="http://10.0.0.12:34400/images/cf746e07c6479e3ddd3a9347eb20cdf6.png" group-title="US Local",NBC (KNSD) San Diego, CA
+http://10.0.0.12:34400/stream/3623e6c5ce74a8581634e2babdb43e02
+#EXTINF:0 channelID="x-ID.423" tvg-chno="1423" tvg-name="NBC (KRIS) Corpus Christi, TX" tvg-id="1423" tvg-logo="http://10.0.0.12:34400/images/147fbf4bf70fa3cf6b639513294dc6e1.png" group-title="US Local",NBC (KRIS) Corpus Christi, TX
+http://10.0.0.12:34400/stream/cc5dcef94e5498af1a0643bab4991fc1
+#EXTINF:0 channelID="x-ID.424" tvg-chno="1424" tvg-name="NBC (KVEO) Brownsville, TX" tvg-id="1424" tvg-logo="http://10.0.0.12:34400/images/fd5a1b6f74bcff3120dd94e0094f285d.png" group-title="US Local",NBC (KVEO) Brownsville, TX
+http://10.0.0.12:34400/stream/4f9da3343e7ddb2b27832db2b4387626
+#EXTINF:0 channelID="x-ID.425" tvg-chno="1425" tvg-name="NBC (KVLY) Fargo, ND" tvg-id="1425" tvg-logo="http://10.0.0.12:34400/images/945e35ec4ea006ab7084190cdd688fc1.png" group-title="US Local",NBC (KVLY) Fargo, ND
+http://10.0.0.12:34400/stream/9ba4b648041d6003a9d4278570c2bc0f
+#EXTINF:0 channelID="x-ID.426" tvg-chno="1426" tvg-name="NBC (KWWL) Waterloo, IA" tvg-id="1426" tvg-logo="http://10.0.0.12:34400/images/0a0a2a47b5aba2a7438821185687c353.png" group-title="US Local",NBC (KWWL) Waterloo, IA
+http://10.0.0.12:34400/stream/f6332834eb17a3641a7ef1a1ae73fd00
+#EXTINF:0 channelID="x-ID.427" tvg-chno="1427" tvg-name="NBC (KXAN) Austin TX" tvg-id="1427" tvg-logo="http://10.0.0.12:34400/images/293c558c39c598045caf477212d54dae.png" group-title="US Local",NBC (KXAN) Austin TX
+http://10.0.0.12:34400/stream/94326650415ca54163e42e2e55c31100
+#EXTINF:0 channelID="x-ID.428" tvg-chno="1428" tvg-name="NBC (Los Angeles CA)" tvg-id="1428" tvg-logo="http://10.0.0.12:34400/images/56e9b36b05f1de72285d394f5a8750db.png" group-title="US Local",NBC (Los Angeles CA)
+http://10.0.0.12:34400/stream/2c01fceb26f23437135458747f2127d2
+#EXTINF:0 channelID="x-ID.429" tvg-chno="1429" tvg-name="NBC (Miami FL)" tvg-id="1429" tvg-logo="http://10.0.0.12:34400/images/9eed68d9cb9b45adc3434ce7bbdf39b6.png" group-title="US Local",NBC (Miami FL)
+http://10.0.0.12:34400/stream/4da001ae1e4a2f261a3907f69bbe9ef6
+#EXTINF:0 channelID="x-ID.430" tvg-chno="1430" tvg-name="NBC (Milwaukee WI)" tvg-id="1430" tvg-logo="http://10.0.0.12:34400/images/a9f34aefa793a8087d0bfebce95c7e35.png" group-title="US Local",NBC (Milwaukee WI)
+http://10.0.0.12:34400/stream/fe02b8c2e2a73fb5adfc8d24701ba451
+#EXTINF:0 channelID="x-ID.431" tvg-chno="1431" tvg-name="NBC (Minneapolis MN)" tvg-id="1431" tvg-logo="http://10.0.0.12:34400/images/2708583ef1ec6f17f0c9fbb019367d2d.png" group-title="US Local",NBC (Minneapolis MN)
+http://10.0.0.12:34400/stream/44e72da9718bb338bda6dbdff11b4778
+#EXTINF:0 channelID="x-ID.432" tvg-chno="1432" tvg-name="NBC (Nashville TN)" tvg-id="1432" tvg-logo="http://10.0.0.12:34400/images/5f9c9949eda2cecdb596b6dcd00605ff.png" group-title="US Local",NBC (Nashville TN)
+http://10.0.0.12:34400/stream/9c3296247b4894783236f9707871ee64
+#EXTINF:0 channelID="x-ID.433" tvg-chno="1433" tvg-name="NBC (Philadelphia PA)" tvg-id="1433" tvg-logo="http://10.0.0.12:34400/images/7848a2bd908df94b4f08008be4ee5b93.png" group-title="US Local",NBC (Philadelphia PA)
+http://10.0.0.12:34400/stream/df11a4b90a2d5026a796d3ca5f03a3e2
+#EXTINF:0 channelID="x-ID.434" tvg-chno="1434" tvg-name="NBC (Phoenix AZ)" tvg-id="1434" tvg-logo="http://10.0.0.12:34400/images/38b59665755c6b89e16b972f7fc6118d.png" group-title="US Local",NBC (Phoenix AZ)
+http://10.0.0.12:34400/stream/567281b697f9c417b43744f1586703c4
+#EXTINF:0 channelID="x-ID.435" tvg-chno="1435" tvg-name="NBC (Quad Cities IA)" tvg-id="1435" tvg-logo="http://10.0.0.12:34400/images/43e1b11164d11b33ee1cc736e4c37945.png" group-title="US Local",NBC (Quad Cities IA)
+http://10.0.0.12:34400/stream/a47d1b71d6bb94a2d5a12b0e17ef9d46
+#EXTINF:0 channelID="x-ID.436" tvg-chno="1436" tvg-name="NBC (RaleighDurham NC)" tvg-id="1436" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/nbc.wral.raleighdurham.nc.us.png" group-title="US Local",NBC (RaleighDurham NC)
+http://10.0.0.12:34400/stream/4ae43469b52a19433056eb7f232d2220
+#EXTINF:0 channelID="x-ID.437" tvg-chno="1437" tvg-name="NBC (Sacramento CA)" tvg-id="1437" tvg-logo="http://10.0.0.12:34400/images/dddadf190065eb911487c99a943a6a9a.png" group-title="US Local",NBC (Sacramento CA)
+http://10.0.0.12:34400/stream/a8d83d8eec93254aad07bef5daeedab2
+#EXTINF:0 channelID="x-ID.438" tvg-chno="1438" tvg-name="NBC (San Francisco CA)" tvg-id="1438" tvg-logo="http://10.0.0.12:34400/images/53a83e5ddc6eeeead53fb2a81182c476.png" group-title="US Local",NBC (San Francisco CA)
+http://10.0.0.12:34400/stream/63b051a9043f1c5698deda9df2e58aad
+#EXTINF:0 channelID="x-ID.439" tvg-chno="1439" tvg-name="NBC (Santa Barbara CA)" tvg-id="1439" tvg-logo="http://10.0.0.12:34400/images/1e5ac23845aa5e84357bd55d8cb43f7c.png" group-title="US Local",NBC (Santa Barbara CA)
+http://10.0.0.12:34400/stream/a7f1e950b7a618d4d3102ba5228e592e
+#EXTINF:0 channelID="x-ID.440" tvg-chno="1440" tvg-name="NBC (Tampa Bay FL)" tvg-id="1440" tvg-logo="http://10.0.0.12:34400/images/b89573e078e5d6604f424313e9366567.png" group-title="US Local",NBC (Tampa Bay FL)
+http://10.0.0.12:34400/stream/f9e52b6564631000ab6162e10489c93c
+#EXTINF:0 channelID="x-ID.441" tvg-chno="1441" tvg-name="NBC (WAFF) Hunstville AL" tvg-id="1441" tvg-logo="http://10.0.0.12:34400/images/1737334bd3539ab21825fe7a77398d24.png" group-title="US Local",NBC (WAFF) Hunstville AL
+http://10.0.0.12:34400/stream/4b0a4cab00a95615d31f979f3c7c5b82
+#EXTINF:0 channelID="x-ID.442" tvg-chno="1442" tvg-name="NBC (WBBH) Fort Myers, FL" tvg-id="1442" tvg-logo="http://10.0.0.12:34400/images/69f0fbee169694c5e4953fb5b03013a8.png" group-title="US Local",NBC (WBBH) Fort Myers, FL
+http://10.0.0.12:34400/stream/8c98fa1f91bc5d1e5f9857ad851b1fff
+#EXTINF:0 channelID="x-ID.443" tvg-chno="1443" tvg-name="NBC (WBRE) WilkesBarre PA" tvg-id="1443" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/nbc.wbre.wilkesbarre.pa.us.png" group-title="US Local",NBC (WBRE) WilkesBarre PA
+http://10.0.0.12:34400/stream/b5765c6e18099e5583ac07940fe743e0
+#EXTINF:0 channelID="x-ID.444" tvg-chno="1444" tvg-name="NBC (WBTSLD) Boston MA" tvg-id="1444" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/nbc.wbtsld.boston.ma.us.png" group-title="US Local",NBC (WBTSLD) Boston MA
+http://10.0.0.12:34400/stream/25215e997bdd0f99a69129669429bf76
+#EXTINF:0 channelID="x-ID.445" tvg-chno="1445" tvg-name="NBC (WCMH) Columbus OH" tvg-id="1445" tvg-logo="http://10.0.0.12:34400/images/c227a1f4acff06c806976ed162a8ec43.png" group-title="US Local",NBC (WCMH) Columbus OH
+http://10.0.0.12:34400/stream/92fee6cb1be3d53305873238b5acef77
+#EXTINF:0 channelID="x-ID.446" tvg-chno="1446" tvg-name="NBC (WCNC) Charlotte NC" tvg-id="1446" tvg-logo="http://10.0.0.12:34400/images/df090a5b43578ad1de0d69249021ccf9.png" group-title="US Local",NBC (WCNC) Charlotte NC
+http://10.0.0.12:34400/stream/9a1cc1513ca8119a2a73efde8195b289
+#EXTINF:0 channelID="x-ID.447" tvg-chno="1447" tvg-name="NBC (WGAL) Lancaster PA" tvg-id="1447" tvg-logo="http://10.0.0.12:34400/images/4a554afe7d47efa91719641478bb277d.png" group-title="US Local",NBC (WGAL) Lancaster PA
+http://10.0.0.12:34400/stream/5833a4778a8f556980371a4aa88e4007
+#EXTINF:0 channelID="x-ID.448" tvg-chno="1448" tvg-name="NBC (Winter Park FL)" tvg-id="1448" tvg-logo="http://10.0.0.12:34400/images/60c2822cfd0eb631d5c5ee39ff0c5852.png" group-title="US Local",NBC (Winter Park FL)
+http://10.0.0.12:34400/stream/550cee4bdc339d54a16f4fa2023c1466
+#EXTINF:0 channelID="x-ID.449" tvg-chno="1449" tvg-name="NBC (WLBT) Jackson MS" tvg-id="1449" tvg-logo="http://10.0.0.12:34400/images/2a41b122fb152233ae665764a963d89f.png" group-title="US Local",NBC (WLBT) Jackson MS
+http://10.0.0.12:34400/stream/521b5fe9248930ffe4b6eaf601d52e3e
+#EXTINF:0 channelID="x-ID.450" tvg-chno="1450" tvg-name="NBC (WLEX) Lexington KY" tvg-id="1450" tvg-logo="http://10.0.0.12:34400/images/fa243011b003d8ea52177cc3cafe1fad.png" group-title="US Local",NBC (WLEX) Lexington KY
+http://10.0.0.12:34400/stream/be1535e382a3b6c4875be0ce38f336ae
+#EXTINF:0 channelID="x-ID.451" tvg-chno="1451" tvg-name="NBC (WMTV) Madison, WI" tvg-id="1451" tvg-logo="http://10.0.0.12:34400/images/92c87e9a23f37f34313001923a17b4f2.png" group-title="US Local",NBC (WMTV) Madison, WI
+http://10.0.0.12:34400/stream/b60ba1965de9715b21744956f96e157d
+#EXTINF:0 channelID="x-ID.452" tvg-chno="1452" tvg-name="NBC (WNBC) New York NY" tvg-id="1452" tvg-logo="http://10.0.0.12:34400/images/80c1c1d55ab2b3c5dd3c4d060e67e067.png" group-title="US Local",NBC (WNBC) New York NY
+http://10.0.0.12:34400/stream/1974a5658020ced47dfadfb48fd56a1b
+#EXTINF:0 channelID="x-ID.453" tvg-chno="1453" tvg-name="NBC (WOAI) San Antonio, TX" tvg-id="1453" tvg-logo="http://10.0.0.12:34400/images/de27f7ec89a3901548438eb6dea0f572.png" group-title="US Local",NBC (WOAI) San Antonio, TX
+http://10.0.0.12:34400/stream/ee8ad5a980aa30c4c5afc11734df6b8c
+#EXTINF:0 channelID="x-ID.454" tvg-chno="1454" tvg-name="NBC (WPTV) West Palm Beach, FL" tvg-id="1454" tvg-logo="http://10.0.0.12:34400/images/ca5702a20c2242b363f63d753a28a45b.png" group-title="US Local",NBC (WPTV) West Palm Beach, FL
+http://10.0.0.12:34400/stream/e45e6955fe2294b3b4d1c657c2c55daf
+#EXTINF:0 channelID="x-ID.455" tvg-chno="1455" tvg-name="NBC (WRC) District of Columbia" tvg-id="1455" tvg-logo="http://10.0.0.12:34400/images/11c3d00c4a1efda707c669fff1bd5395.png" group-title="US Local",NBC (WRC) District of Columbia
+http://10.0.0.12:34400/stream/0a20e912647590186176343a339146da
+#EXTINF:0 channelID="x-ID.456" tvg-chno="1456" tvg-name="NBC (WSAV) Savannah GA" tvg-id="1456" tvg-logo="http://10.0.0.12:34400/images/2f228827b53f316268f2033872c8c4fe.png" group-title="US Local",NBC (WSAV) Savannah GA
+http://10.0.0.12:34400/stream/ac327831b50e4e449ee1d512d220924a
+#EXTINF:0 channelID="x-ID.457" tvg-chno="1457" tvg-name="NBC (WTLV) Jacksonville FL" tvg-id="1457" tvg-logo="http://10.0.0.12:34400/images/093801f10c4d936484e5b04b1d814390.png" group-title="US Local",NBC (WTLV) Jacksonville FL
+http://10.0.0.12:34400/stream/d791a53a9e2afbe1fa87cb9f7baf1021
+#EXTINF:0 channelID="x-ID.458" tvg-chno="1458" tvg-name="NBC (WVIT) W. Hartford CT" tvg-id="1458" tvg-logo="http://10.0.0.12:34400/images/515a48f33c197409dc5f184935ad4071.png" group-title="US Local",NBC (WVIT) W. Hartford CT
+http://10.0.0.12:34400/stream/0d6c235f10da3a63bf7c9d68b6f2094d
+#EXTINF:0 channelID="x-ID.459" tvg-chno="1459" tvg-name="NBC (WXII) WinstonSalem NC" tvg-id="1459" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/nbc.wxii.winstonsalem.nc.us.png" group-title="US Local",NBC (WXII) WinstonSalem NC
+http://10.0.0.12:34400/stream/859d31b9bd0b871d8e283bc3efaee55f
+#EXTINF:0 channelID="x-ID.460" tvg-chno="1460" tvg-name="NBC (WYFF) Greenville SC" tvg-id="1460" tvg-logo="http://10.0.0.12:34400/images/a49ae85cbe431ad5058ff7c4a84fe732.png" group-title="US Local",NBC (WYFF) Greenville SC
+http://10.0.0.12:34400/stream/d64ef046e23b029676bcf63caabbb968
+#EXTINF:0 channelID="x-ID.461" tvg-chno="1461" tvg-name="NBC Boise ID (KTVB)" tvg-id="1461" tvg-logo="http://10.0.0.12:34400/images/19d8e031f5ea8fc126c02dea5ed6a960.png" group-title="US Local",NBC Boise ID (KTVB)
+http://10.0.0.12:34400/stream/f28e88e0212cc5fc8798193da1355d3c
+#EXTINF:0 channelID="x-ID.462" tvg-chno="1462" tvg-name="NBC Cleveland OH (WKYC)" tvg-id="1462" tvg-logo="http://10.0.0.12:34400/images/5b3462185dab85a12f4e3d0ea781f485.png" group-title="US Local",NBC Cleveland OH (WKYC)
+http://10.0.0.12:34400/stream/7d633e9520233bd9d0c7ec306b542456
+#EXTINF:0 channelID="x-ID.463" tvg-chno="1463" tvg-name="NBC Indianapolis IN (WTHR)" tvg-id="1463" tvg-logo="http://10.0.0.12:34400/images/cc553a7285969e8f6bb94a2bacb34fd7.png" group-title="US Local",NBC Indianapolis IN (WTHR)
+http://10.0.0.12:34400/stream/90626fdf4306683d36cc4bca737745ad
+#EXTINF:0 channelID="x-ID.464" tvg-chno="1464" tvg-name="NBC Montgomery AL (WSFA)" tvg-id="1464" tvg-logo="http://10.0.0.12:34400/images/cf3271b1f4c47aa9c28d598cc9c666d4.png" group-title="US Local",NBC Montgomery AL (WSFA)
+http://10.0.0.12:34400/stream/cbcce99e570b152e18cbb9c0af73cf73
+#EXTINF:0 channelID="x-ID.465" tvg-chno="1465" tvg-name="NBC New Orleans LA (WDSU)" tvg-id="1465" tvg-logo="http://10.0.0.12:34400/images/9e9547283b9a60635c5e7aa72cd860de.png" group-title="US Local",NBC New Orleans LA (WDSU)
+http://10.0.0.12:34400/stream/0ad5a2c08433ef666657f8445aeecd80
+#EXTINF:0 channelID="x-ID.466" tvg-chno="1466" tvg-name="NBC Pittsburgh PA (WPXI)" tvg-id="1466" tvg-logo="http://10.0.0.12:34400/images/6b76997e657f9b2ccdf950c0efd4c67f.png" group-title="US Local",NBC Pittsburgh PA (WPXI)
+http://10.0.0.12:34400/stream/2506ab71f8f82b854d861249ca62e12a
+#EXTINF:0 channelID="x-ID.467" tvg-chno="1467" tvg-name="WLNY TV10/55, Riverhead, NY" tvg-id="1467" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/wlny.tv1055.riverhead.ny.us.png" group-title="US Local",WLNY TV10/55, Riverhead, NY
+http://10.0.0.12:34400/stream/e30487ed8af4e126320f6cb3da0fe25e
+#EXTINF:0 channelID="x-ID.468" tvg-chno="1468" tvg-name="Animal Planet (East) US" tvg-id="1468" tvg-logo="http://10.0.0.12:34400/images/0302bf7a337f3c4e5e52f4a0d1872ca5.png" group-title="Documentary",Animal Planet (East) US
+http://10.0.0.12:34400/stream/af17e77ed7bd5007e1abc652be3ffbe6
+#EXTINF:0 channelID="x-ID.469" tvg-chno="1469" tvg-name="Cooking Channel CA" tvg-id="1469" tvg-logo="http://10.0.0.12:34400/images/c32ad5dc4b4b3fbb0f502451c4c5b476.png" group-title="Documentary",Cooking Channel CA
+http://10.0.0.12:34400/stream/9f5996afdba0aeb99981828488249e7a
+#EXTINF:0 channelID="x-ID.470" tvg-chno="1470" tvg-name="Discovery Channel (East) US" tvg-id="1470" tvg-logo="http://10.0.0.12:34400/images/7bc1f7340b56de660ade7308fd5d8cb7.png" group-title="Documentary",Discovery Channel (East) US
+http://10.0.0.12:34400/stream/56b385b2963366511058403cab17cbcd
+#EXTINF:0 channelID="x-ID.471" tvg-chno="1471" tvg-name="Discovery Channel CA" tvg-id="1471" tvg-logo="http://10.0.0.12:34400/images/8ada0db791e673a483cb93e71daab168.png" group-title="Documentary",Discovery Channel CA
+http://10.0.0.12:34400/stream/8e698da6467dc361b54807ba50972e93
+#EXTINF:0 channelID="x-ID.472" tvg-chno="1472" tvg-name="Discovery Family US" tvg-id="1472" tvg-logo="http://10.0.0.12:34400/images/3edf9c77b64c460b136c87b3e14d3d41.png" group-title="Documentary",Discovery Family US
+http://10.0.0.12:34400/stream/f5ab9bbf0861a3890e4a2f8163eca81d
+#EXTINF:0 channelID="x-ID.473" tvg-chno="1473" tvg-name="Discovery Science CA" tvg-id="1473" tvg-logo="http://10.0.0.12:34400/images/1070ba6a970aadc6fc632cbbdd83f91c.png" group-title="Documentary",Discovery Science CA
+http://10.0.0.12:34400/stream/af4c8115bddac470ed759ce4025d49f4
+#EXTINF:0 channelID="x-ID.474" tvg-chno="1474" tvg-name="DIY Network CA" tvg-id="1474" tvg-logo="http://10.0.0.12:34400/images/c8cb0a9542a66dcea23bb40079a45c72.png" group-title="Documentary",DIY Network CA
+http://10.0.0.12:34400/stream/a8d0f1e28e24dddd5d35995a4fbc59b2
+#EXTINF:0 channelID="x-ID.475" tvg-chno="1475" tvg-name="Do It Yourself Network (East) US" tvg-id="1475" tvg-logo="http://10.0.0.12:34400/images/15116065f291b8529121c7db5c81fe66.png" group-title="Documentary",Do It Yourself Network (East) US
+http://10.0.0.12:34400/stream/c177b1b72f136e2948bed18e4a3ffa9b
+#EXTINF:0 channelID="x-ID.476" tvg-chno="1476" tvg-name="Food Network (East)" tvg-id="1476" tvg-logo="http://10.0.0.12:34400/images/a7aeff7b12535cf5d7fb8bfe748d63c1.png" group-title="Documentary",Food Network (East)
+http://10.0.0.12:34400/stream/3c3dbca2c2c9516d931782d959184fe8
+#EXTINF:0 channelID="x-ID.477" tvg-chno="1477" tvg-name="H2 CA" tvg-id="1477" tvg-logo="http://10.0.0.12:34400/images/74c59a5026636f6d4f322759f864126a.png" group-title="Documentary",H2 CA
+http://10.0.0.12:34400/stream/1cb99a79bd4a9cafbc53e4a20a939b58
+#EXTINF:0 channelID="x-ID.478" tvg-chno="1478" tvg-name="History CA" tvg-id="1478" tvg-logo="http://10.0.0.12:34400/images/904b42410f6ececbacb450cc470f6e33.png" group-title="Documentary",History CA
+http://10.0.0.12:34400/stream/3752703cc5a9086c4846471e7c300a1a
+#EXTINF:0 channelID="x-ID.479" tvg-chno="1479" tvg-name="History Channel US" tvg-id="1479" tvg-logo="http://10.0.0.12:34400/images/97d04215b77aa71cc765d35a25ce6c52.png" group-title="Documentary",History Channel US
+http://10.0.0.12:34400/stream/6c8b7107a53e7c73acc2b26ae40a7458
+#EXTINF:0 channelID="x-ID.480" tvg-chno="1480" tvg-name="Investigation Discovery CA" tvg-id="1480" tvg-logo="http://10.0.0.12:34400/images/9da87da9e25735015e296105eaef6367.png" group-title="Documentary",Investigation Discovery CA
+http://10.0.0.12:34400/stream/80e5c2de1818e20efd9631070a25bb6a
+#EXTINF:0 channelID="x-ID.481" tvg-chno="1481" tvg-name="Investigation Discovery US" tvg-id="1481" tvg-logo="http://10.0.0.12:34400/images/6aa5a7ef5378c3af79ef8cbd86ab3c76.png" group-title="Documentary",Investigation Discovery US
+http://10.0.0.12:34400/stream/6b2845bb3b55aa51e1adfc1a060a124c
+#EXTINF:0 channelID="x-ID.482" tvg-chno="1482" tvg-name="MotorTrend US" tvg-id="1482" tvg-logo="http://10.0.0.12:34400/images/f2d61520de89b6146c061475a8bc1942.png" group-title="Documentary",MotorTrend US
+http://10.0.0.12:34400/stream/a52da9e65fce21493bce38072e0b0d93
+#EXTINF:0 channelID="x-ID.483" tvg-chno="1483" tvg-name="Nat Geo (East) US" tvg-id="1483" tvg-logo="http://10.0.0.12:34400/images/96ddc5296cbc3848c7205ca5dec6be00.png" group-title="Documentary",Nat Geo (East) US
+http://10.0.0.12:34400/stream/697adf1ed27a20ea33446d04a28782ab
+#EXTINF:0 channelID="x-ID.484" tvg-chno="1484" tvg-name="Nat Geo Wild CA" tvg-id="1484" tvg-logo="http://10.0.0.12:34400/images/ae77c818137f346e7d827baa13f443bb.png" group-title="Documentary",Nat Geo Wild CA
+http://10.0.0.12:34400/stream/082daa7d056e9ea732528f4b32f7be39
+#EXTINF:0 channelID="x-ID.485" tvg-chno="1485" tvg-name="Nat Geo Wild US" tvg-id="1485" tvg-logo="http://10.0.0.12:34400/images/7186f209d2b037e58994f27339530152.png" group-title="Documentary",Nat Geo Wild US
+http://10.0.0.12:34400/stream/56ea2c8e779a154dbfefb6a3aed7b430
+#EXTINF:0 channelID="x-ID.486" tvg-chno="1486" tvg-name="National Geographic CA" tvg-id="1486" tvg-logo="http://10.0.0.12:34400/images/e4407abcb7b0b5e06ec05a0ac4742b3f.png" group-title="Documentary",National Geographic CA
+http://10.0.0.12:34400/stream/8962bfebfa022d5de171075a23558ec6
+#EXTINF:0 channelID="x-ID.487" tvg-chno="1487" tvg-name="Science US" tvg-id="1487" tvg-logo="http://10.0.0.12:34400/images/d822a1d9afceb3fff242cb15c26d4604.png" group-title="Documentary",Science US
+http://10.0.0.12:34400/stream/54a27466f5f8f42c4a7c9be71f4113aa
+#EXTINF:0 channelID="x-ID.488" tvg-chno="1488" tvg-name="SundanceTV (East) US" tvg-id="1488" tvg-logo="http://10.0.0.12:34400/images/617afc325de4312a71f608b819b6b23f.png" group-title="Documentary",SundanceTV (East) US
+http://10.0.0.12:34400/stream/e6804efdbd7243dc4cc6e7593e10046b
+#EXTINF:0 channelID="x-ID.489" tvg-chno="1489" tvg-name="Travel Channel US" tvg-id="1489" tvg-logo="http://10.0.0.12:34400/images/b1c42deda175c4f27299af1b8c0ef67f.png" group-title="Documentary",Travel Channel US
+http://10.0.0.12:34400/stream/ef58b683cdf4149ccb689452f6698fed
+#EXTINF:0 channelID="x-ID.490" tvg-chno="1490" tvg-name="Tv Land US" tvg-id="1490" tvg-logo="http://10.0.0.12:34400/images/979689db9cb073e004a3cc0d74caa9cb.png" group-title="Documentary",Tv Land US
+http://10.0.0.12:34400/stream/57005e5bc7ccef382845aebc282364f4
+#EXTINF:0 channelID="x-ID.491" tvg-chno="1491" tvg-name="BBC World North America US" tvg-id="1491" tvg-logo="http://10.0.0.12:34400/images/3ac0b2fcfc755917ebd39870501d5904.png" group-title="News",BBC World North America US
+http://10.0.0.12:34400/stream/1134f8e534c2ca11831f06855c6c3ec9
+#EXTINF:0 channelID="x-ID.492" tvg-chno="1492" tvg-name="Bloomberg US" tvg-id="1492" tvg-logo="http://10.0.0.12:34400/images/d33aed6692446e4be0ef25cecf962ae3.png" group-title="News",Bloomberg US
+http://10.0.0.12:34400/stream/0a9da10d9a4334da7806cac97874d8e6
+#EXTINF:0 channelID="x-ID.493" tvg-chno="1493" tvg-name="CNBC US" tvg-id="1493" tvg-logo="http://10.0.0.12:34400/images/ce21b7d05817b17b43fdb6e88893be81.png" group-title="News",CNBC US
+http://10.0.0.12:34400/stream/29f2a5b6f8f706c502c41e83948430fe
+#EXTINF:0 channelID="x-ID.494" tvg-chno="1494" tvg-name="CNBC World US" tvg-id="1494" tvg-logo="http://10.0.0.12:34400/images/9417fe3db3c96ff11111e2430b69f8b4.png" group-title="News",CNBC World US
+http://10.0.0.12:34400/stream/4bd0a1d424f0eba683672193a30d5b8d
+#EXTINF:0 channelID="x-ID.495" tvg-chno="1495" tvg-name="CNN CA" tvg-id="1495" tvg-logo="http://10.0.0.12:34400/images/7c56786c97c7a3886f0562c741137f93.png" group-title="News",CNN CA
+http://10.0.0.12:34400/stream/d872b4cea724afa10831d01d230b5525
+#EXTINF:0 channelID="x-ID.496" tvg-chno="1496" tvg-name="CNN International North America" tvg-id="1496" tvg-logo="http://10.0.0.12:34400/images/6e4f4d2312629ed55c4248fadafdbe9e.png" group-title="News",CNN International North America
+http://10.0.0.12:34400/stream/fe88680f8a43fa8f1e637ac002d7c8a2
+#EXTINF:0 channelID="x-ID.497" tvg-chno="1497" tvg-name="CNN US" tvg-id="1497" tvg-logo="http://10.0.0.12:34400/images/ac7b12243c8f747df171fdeb103ce565.png" group-title="News",CNN US
+http://10.0.0.12:34400/stream/ca46dc8c1c6c08b08283d61c26100713
+#EXTINF:0 channelID="x-ID.498" tvg-chno="1498" tvg-name="FOX News US" tvg-id="1498" tvg-logo="http://10.0.0.12:34400/images/4ae36173375adc497e09fe985e49b557.png" group-title="News",FOX News US
+http://10.0.0.12:34400/stream/0ecb43baf7cb2c994aa1e62bfc060e3b
+#EXTINF:0 channelID="x-ID.499" tvg-chno="1499" tvg-name="MSNBC US" tvg-id="1499" tvg-logo="http://10.0.0.12:34400/images/e068c3547486c934bbb5a854c349d18f.png" group-title="News",MSNBC US
+http://10.0.0.12:34400/stream/ef9bd9499260b8de56230e560e7ce5cf
+#EXTINF:0 channelID="x-ID.500" tvg-chno="1500" tvg-name="The Weather Channel US" tvg-id="1500" tvg-logo="http://10.0.0.12:34400/images/0203af51522f4ef6db0b29f612ea5080.png" group-title="News",The Weather Channel US
+http://10.0.0.12:34400/stream/7edbd87492705b06ff9c0a59b363d689
+#EXTINF:0 channelID="x-ID.501" tvg-chno="1501" tvg-name="Weather Network CA" tvg-id="1501" tvg-logo="http://10.0.0.12:34400/images/bd2e66164b30aa8be1fb83501b9f41fe.png" group-title="News",Weather Network CA
+http://10.0.0.12:34400/stream/26b9801b41bf1261832a0a058e81c8be
+#EXTINF:0 channelID="x-ID.503" tvg-chno="1503" tvg-name="AT&T Sportsnet Southwest" tvg-id="1503" tvg-logo="http://10.0.0.12:34400/images/a6800d7a0e413a121a3494ce15497738.png" group-title="Sports",AT&T Sportsnet Southwest
+http://10.0.0.12:34400/stream/9a78eae668e5828d5cc6abbb40d38d94
+#EXTINF:0 channelID="x-ID.567" tvg-chno="1567" tvg-name="NBC Sports Washington US" tvg-id="1567" tvg-logo="http://10.0.0.12:34400/images/d2115d5c6a3dd261a915c09be4c0984c.png" group-title="Sports",NBC Sports Washington US
+http://10.0.0.12:34400/stream/fd6253565f07099c11ab96c6ed33fb9a
+#EXTINF:0 channelID="x-ID.571" tvg-chno="1571" tvg-name="Outside" tvg-id="1571" tvg-logo="http://10.0.0.12:34400/images/1a94c7522582df611d5a5710b2790d64.png" group-title="Sports",Outside
+http://10.0.0.12:34400/stream/8890ee7d774aa9dc99628b3a7bd2cf78
+#EXTINF:0 channelID="x-ID.741" tvg-chno="1741" tvg-name="A&E (East) US" tvg-id="1741" tvg-logo="http://10.0.0.12:34400/images/3c4aaa8f4c3ada0a3d5a34e01f46e0d6.png" group-title="Entertainment",A&E (East) US
+http://10.0.0.12:34400/stream/73480effb00816d8e4c5686844808186
+#EXTINF:0 channelID="x-ID.742" tvg-chno="1742" tvg-name="Adult Swim (east) US" tvg-id="1742" tvg-logo="http://10.0.0.12:34400/images/5b62ed53208fac6d72421db507f4cf9b.png" group-title="Entertainment",Adult Swim (east) US
+http://10.0.0.12:34400/stream/19d18d0fd59a532e010efd9efa6ccf53
+#EXTINF:0 channelID="x-ID.743" tvg-chno="1743" tvg-name="AMC (East) US" tvg-id="1743" tvg-logo="http://10.0.0.12:34400/images/5222dd4b5eb993f3cf17a279dec2737c.png" group-title="Entertainment",AMC (East) US
+http://10.0.0.12:34400/stream/4cacc70b58e5073a846f099a6c38de40
+#EXTINF:0 channelID="x-ID.744" tvg-chno="1744" tvg-name="Bravo (East)" tvg-id="1744" tvg-logo="http://10.0.0.12:34400/images/5fd1506c49d816c299a7374615a63cf1.png" group-title="Entertainment",Bravo (East)
+http://10.0.0.12:34400/stream/8b29ae2a78072efb76ab10ae4d873dd3
+#EXTINF:0 channelID="x-ID.745" tvg-chno="1745" tvg-name="Cinemax (East) US" tvg-id="1745" tvg-logo="http://10.0.0.12:34400/images/91fb85d66e979b2ae6a5f0f1ac44b2fa.png" group-title="Entertainment",Cinemax (East) US
+http://10.0.0.12:34400/stream/a1900e87523d3aaaf1fa025833519039
+#EXTINF:0 channelID="x-ID.746" tvg-chno="1746" tvg-name="Comet TV" tvg-id="1746" tvg-logo="http://10.0.0.12:34400/images/066b010302f1257d5ff62f356e2cc725.png" group-title="Entertainment",Comet TV
+http://10.0.0.12:34400/stream/c5aedebb7d80232b189899ac53d483e3
+#EXTINF:0 channelID="x-ID.747" tvg-chno="1747" tvg-name="Crime & Investigation CA" tvg-id="1747" tvg-logo="http://10.0.0.12:34400/images/c6b23f3311160d7458283ffcfda29e71.png" group-title="Entertainment",Crime & Investigation CA
+http://10.0.0.12:34400/stream/0c9d4ac833f442112c2db4812a3494f3
+#EXTINF:0 channelID="x-ID.748" tvg-chno="1748" tvg-name="E! CA" tvg-id="1748" tvg-logo="http://10.0.0.12:34400/images/3afc8a5f4b6084300749271a5bad3a1d.png" group-title="Entertainment",E! CA
+http://10.0.0.12:34400/stream/daaebb6ef385ee54a28e4ef18e1eefb6
+#EXTINF:0 channelID="x-ID.749" tvg-chno="1749" tvg-name="E! Entertainment (Eest)" tvg-id="1749" tvg-logo="http://10.0.0.12:34400/images/3d1bc7056434fa09a1197be1b63808be.png" group-title="Entertainment",E! Entertainment (Eest)
+http://10.0.0.12:34400/stream/c47eec70336f0ea0df35e05731668f0b
+#EXTINF:0 channelID="x-ID.750" tvg-chno="1750" tvg-name="FX Movie Channel" tvg-id="1750" tvg-logo="http://10.0.0.12:34400/images/071cd4ea7b51f97952bad8fa6735a425.png" group-title="Entertainment",FX Movie Channel
+http://10.0.0.12:34400/stream/9094d53bb456a760241c1b507201c1d5
+#EXTINF:0 channelID="x-ID.751" tvg-chno="1751" tvg-name="FX Networks (East) US" tvg-id="1751" tvg-logo="http://10.0.0.12:34400/images/4a9ff2270e464722e73318b9d40574c3.png" group-title="Entertainment",FX Networks (East) US
+http://10.0.0.12:34400/stream/e8aa5605de0579edcbf8160441081526
+#EXTINF:0 channelID="x-ID.752" tvg-chno="1752" tvg-name="Hallmark Channel (East) US" tvg-id="1752" tvg-logo="http://10.0.0.12:34400/images/682fbd37e7f2299926a4fa0a6648e692.png" group-title="Entertainment",Hallmark Channel (East) US
+http://10.0.0.12:34400/stream/51605341aa9e5c12980b17b2aca40972
+#EXTINF:0 channelID="x-ID.753" tvg-chno="1753" tvg-name="Hallmark Drama US" tvg-id="1753" tvg-logo="http://10.0.0.12:34400/images/e189f8d953bbed329048c9cc99ff5e1c.png" group-title="Entertainment",Hallmark Drama US
+http://10.0.0.12:34400/stream/274b9ca17da7d6f5119575e0c103fd6c
+#EXTINF:0 channelID="x-ID.754" tvg-chno="1754" tvg-name="Hallmark Movies Mysteries US" tvg-id="1754" tvg-logo="http://10.0.0.12:34400/images/c53b5cdf891569f46e947c6646973e0f.png" group-title="Entertainment",Hallmark Movies Mysteries US
+http://10.0.0.12:34400/stream/eaa3e9ff066919c48379de4ce7b4ec6f
+#EXTINF:0 channelID="x-ID.755" tvg-chno="1755" tvg-name="HBO (East) US" tvg-id="1755" tvg-logo="http://10.0.0.12:34400/images/07c9470e1e4c62b70a9348c267e0eb9f.png" group-title="Entertainment",HBO (East) US
+http://10.0.0.12:34400/stream/b7a4eccb524d68eff95a9a39c2d83cd7
+#EXTINF:0 channelID="x-ID.757" tvg-chno="1757" tvg-name="HBO 1 CA" tvg-id="1757" tvg-logo="http://10.0.0.12:34400/images/baabeb9922785ed11f45567eabc051d6.png" group-title="Entertainment",HBO 1 CA
+http://10.0.0.12:34400/stream/f23ba7f639e9983f4da17c91b5f3bf81
+#EXTINF:0 channelID="x-ID.758" tvg-chno="1758" tvg-name="HBO 2 (East) CA" tvg-id="1758" tvg-logo="http://10.0.0.12:34400/images/b540f885df1b93d8e44e9b90b7a0f953.png" group-title="Entertainment",HBO 2 (East) CA
+http://10.0.0.12:34400/stream/b08b5164d119ae4d25eea9ae0db1e3ca
+#EXTINF:0 channelID="x-ID.759" tvg-chno="1759" tvg-name="HBO 2 (East) US" tvg-id="1759" tvg-logo="http://10.0.0.12:34400/images/a5ef8e26d621e05342a5d6190fe456cf.png" group-title="Entertainment",HBO 2 (East) US
+http://10.0.0.12:34400/stream/de890475bf297e12e23c89f4244aff46
+#EXTINF:0 channelID="x-ID.760" tvg-chno="1760" tvg-name="HBO Family (East) US" tvg-id="1760" tvg-logo="http://10.0.0.12:34400/images/8837efff3f72e6e1c5a5676f0bb166ca.png" group-title="Entertainment",HBO Family (East) US
+http://10.0.0.12:34400/stream/7148221ab7372384536853371986b908
+#EXTINF:0 channelID="x-ID.761" tvg-chno="1761" tvg-name="HGTV (East) US" tvg-id="1761" tvg-logo="http://10.0.0.12:34400/images/6800cee580bfbf2cff69de8ea3b981e2.png" group-title="Entertainment",HGTV (East) US
+http://10.0.0.12:34400/stream/49960d0dd6e7a190264f368a3656a1de
+#EXTINF:0 channelID="x-ID.762" tvg-chno="1762" tvg-name="IFC" tvg-id="1762" tvg-logo="http://10.0.0.12:34400/images/24a70465a3f4e10d2cbb7d65f66e5776.png" group-title="Entertainment",IFC
+http://10.0.0.12:34400/stream/1e25ab516c16ee19a89ab190e7ecbd39
+#EXTINF:0 channelID="x-ID.763" tvg-chno="1763" tvg-name="MGM US" tvg-id="1763" tvg-logo="http://10.0.0.12:34400/images/4b9cd754fd72f8736dc71cdfde647b60.png" group-title="Entertainment",MGM US
+http://10.0.0.12:34400/stream/cc324d5fb4e8b17a7daf1bcd7690c888
+#EXTINF:0 channelID="x-ID.764" tvg-chno="1764" tvg-name="Newsy" tvg-id="1764" tvg-logo="http://10.0.0.12:34400/images/9450cafce8995cb8bc1b33473d7d227c.png" group-title="Entertainment",Newsy
+http://10.0.0.12:34400/stream/3e675820e765ecb6fc3ca798cb4d952c
+#EXTINF:0 channelID="x-ID.765" tvg-chno="1765" tvg-name="OWN (East) US" tvg-id="1765" tvg-logo="http://10.0.0.12:34400/images/6e6539825d71eee7d7b9030eb244da4f.png" group-title="Entertainment",OWN (East) US
+http://10.0.0.12:34400/stream/20a373bad333297fbd314448d0ea2a4e
+#EXTINF:0 channelID="x-ID.766" tvg-chno="1766" tvg-name="Paramount Network (East) US" tvg-id="1766" tvg-logo="http://10.0.0.12:34400/images/35b33941421ec4cd87018a34ca338c86.png" group-title="Entertainment",Paramount Network (East) US
+http://10.0.0.12:34400/stream/913fbad8307fcb77d9533dc3d1eae9ed
+#EXTINF:0 channelID="x-ID.767" tvg-chno="1767" tvg-name="Revolt" tvg-id="1767" tvg-logo="http://10.0.0.12:34400/images/a1b4c36775f2d9f35c02179b4ae3dfe6.png" group-title="Entertainment",Revolt
+http://10.0.0.12:34400/stream/a1e5045f2bf93b057d59d0b86a0b706d
+#EXTINF:0 channelID="x-ID.768" tvg-chno="1768" tvg-name="Showtime (East) US" tvg-id="1768" tvg-logo="http://10.0.0.12:34400/images/b19230b132886e37d47ecfad16b16b53.png" group-title="Entertainment",Showtime (East) US
+http://10.0.0.12:34400/stream/768b4f0a57c5b0b87aea4da16d293a37
+#EXTINF:0 channelID="x-ID.770" tvg-chno="1770" tvg-name="Showtime 2 (East) US" tvg-id="1770" tvg-logo="http://10.0.0.12:34400/images/0c2e9444a8b894ac3b473c207c3fe041.png" group-title="Entertainment",Showtime 2 (East) US
+http://10.0.0.12:34400/stream/7e0a429ebe68a6c4cca133619af84300
+#EXTINF:0 channelID="x-ID.771" tvg-chno="1771" tvg-name="Showtime Beyond US" tvg-id="1771" tvg-logo="http://10.0.0.12:34400/images/67aa64a1afb4d534946bb15dbbb180f0.png" group-title="Entertainment",Showtime Beyond US
+http://10.0.0.12:34400/stream/41b89b564cf65150841818c432408de5
+#EXTINF:0 channelID="x-ID.772" tvg-chno="1772" tvg-name="Showtime Extreme (East) US" tvg-id="1772" tvg-logo="http://10.0.0.12:34400/images/0fd045cf850eb5496ce6910b30e9e62b.png" group-title="Entertainment",Showtime Extreme (East) US
+http://10.0.0.12:34400/stream/dbafb00b3ac551b5b02a3cc9e4760e08
+#EXTINF:0 channelID="x-ID.773" tvg-chno="1773" tvg-name="Showtime Family Zone (East) US" tvg-id="1773" tvg-logo="http://10.0.0.12:34400/images/b3efe6cd6e689c3b08e52b37eb347f6d.png" group-title="Entertainment",Showtime Family Zone (East) US
+http://10.0.0.12:34400/stream/5526bf01848640b0588f0c3d76a5746e
+#EXTINF:0 channelID="x-ID.774" tvg-chno="1774" tvg-name="Showtime Next US (East) US" tvg-id="1774" tvg-logo="http://10.0.0.12:34400/images/44b90f7e2073c960be466682affa769f.png" group-title="Entertainment",Showtime Next US (East) US
+http://10.0.0.12:34400/stream/9ae4108f3d651b52a2a761c10c4bc716
+#EXTINF:0 channelID="x-ID.775" tvg-chno="1775" tvg-name="Showtime Showcase (East) US" tvg-id="1775" tvg-logo="http://10.0.0.12:34400/images/e25249d7322bc879345ab2836300f21a.png" group-title="Entertainment",Showtime Showcase (East) US
+http://10.0.0.12:34400/stream/a6dc775c090fff59de5946bbb4f96191
+#EXTINF:0 channelID="x-ID.776" tvg-chno="1776" tvg-name="Showtime Woman US" tvg-id="1776" tvg-logo="http://10.0.0.12:34400/images/220b56fbb444b7df00fcf74d9bec41da.png" group-title="Entertainment",Showtime Woman US
+http://10.0.0.12:34400/stream/004ff452faf2429747c350d37aa1abab
+#EXTINF:0 channelID="x-ID.777" tvg-chno="1777" tvg-name="Sky Cinema Disney" tvg-id="1777" tvg-logo="http://10.0.0.12:34400/images/7cca1e91e1500c48f73e856c741d30ae.png" group-title="Entertainment",Sky Cinema Disney
+http://10.0.0.12:34400/stream/d862d70589b6023c288a0ba1bcd98d47
+#EXTINF:0 channelID="x-ID.778" tvg-chno="1778" tvg-name="Starz (East) US" tvg-id="1778" tvg-logo="http://10.0.0.12:34400/images/b1d8a39fa8a61f6f13ffbac85632cbd2.png" group-title="Entertainment",Starz (East) US
+http://10.0.0.12:34400/stream/74dec2de867afc8cc7db915f8047acf0
+#EXTINF:0 channelID="x-ID.779" tvg-chno="1779" tvg-name="Starz Cinema (East) US" tvg-id="1779" tvg-logo="http://10.0.0.12:34400/images/1ca6bf5f46002e57c1379e8145e2b005.png" group-title="Entertainment",Starz Cinema (East) US
+http://10.0.0.12:34400/stream/9210577b09e3d07d14401a75457ecf15
+#EXTINF:0 channelID="x-ID.780" tvg-chno="1780" tvg-name="Starz Comedy (East) US" tvg-id="1780" tvg-logo="http://10.0.0.12:34400/images/a6825542a6b3a7e8d7cca187a1329a25.png" group-title="Entertainment",Starz Comedy (East) US
+http://10.0.0.12:34400/stream/d468e949322118adcb57ea46187b5979
+#EXTINF:0 channelID="x-ID.781" tvg-chno="1781" tvg-name="Starz Edge (East) US" tvg-id="1781" tvg-logo="http://10.0.0.12:34400/images/98ea8a9ce1a7e0ef1d30c0c63e00137c.png" group-title="Entertainment",Starz Edge (East) US
+http://10.0.0.12:34400/stream/2d674d8ede6306e834279a8a301cfded
+#EXTINF:0 channelID="x-ID.782" tvg-chno="1782" tvg-name="Starz Encore (East) US" tvg-id="1782" tvg-logo="http://10.0.0.12:34400/images/2a39311ef83e810e07e6e26361fdb91d.png" group-title="Entertainment",Starz Encore (East) US
+http://10.0.0.12:34400/stream/47005f7d64fc82cd99273bb6d4a40970
+#EXTINF:0 channelID="x-ID.783" tvg-chno="1783" tvg-name="Starz Encore Action (East) US" tvg-id="1783" tvg-logo="http://10.0.0.12:34400/images/0a5431fd4f01a69b5d7cf0147eec68ec.png" group-title="Entertainment",Starz Encore Action (East) US
+http://10.0.0.12:34400/stream/8bad8a7a0b75a9cfa1146ea67598539f
+#EXTINF:0 channelID="x-ID.784" tvg-chno="1784" tvg-name="Starz Encore Black (East) US" tvg-id="1784" tvg-logo="http://10.0.0.12:34400/images/160d7ac681260ff3751d10561965ec9c.png" group-title="Entertainment",Starz Encore Black (East) US
+http://10.0.0.12:34400/stream/682e9a848623e8fdbf80845a6ff3dbea
+#EXTINF:0 channelID="x-ID.785" tvg-chno="1785" tvg-name="Starz Encore Classics (East) US" tvg-id="1785" tvg-logo="http://10.0.0.12:34400/images/ec40189fbdf63bfe0765ece9d5205ed1.png" group-title="Entertainment",Starz Encore Classics (East) US
+http://10.0.0.12:34400/stream/6f633c3549aa3384f8d916f8b1194417
+#EXTINF:0 channelID="x-ID.786" tvg-chno="1786" tvg-name="Starz Encore Family (East) US" tvg-id="1786" tvg-logo="http://10.0.0.12:34400/images/336395d0da0a5c2ffd1bee5d50003aca.png" group-title="Entertainment",Starz Encore Family (East) US
+http://10.0.0.12:34400/stream/ed9791d22adc69e730b8a053e2ef7312
+#EXTINF:0 channelID="x-ID.787" tvg-chno="1787" tvg-name="Starz In Black (East) US" tvg-id="1787" tvg-logo="http://10.0.0.12:34400/images/dc292ab379874c7c0b8feb54b9869f94.png" group-title="Entertainment",Starz In Black (East) US
+http://10.0.0.12:34400/stream/23bc196906fb0dfd068f79e1765d629b
+#EXTINF:0 channelID="x-ID.788" tvg-chno="1788" tvg-name="Starz Kids Family (East) US" tvg-id="1788" tvg-logo="http://10.0.0.12:34400/images/5b2feb4dbace703e1c07f771e4a9f15c.png" group-title="Entertainment",Starz Kids Family (East) US
+http://10.0.0.12:34400/stream/0ea37a7043c17d86154e824555916912
+#EXTINF:0 channelID="x-ID.789" tvg-chno="1789" tvg-name="Starz Suspense (East) US" tvg-id="1789" tvg-logo="http://10.0.0.12:34400/images/c027ad7b95a265f3e76bbf926a7b169b.png" group-title="Entertainment",Starz Suspense (East) US
+http://10.0.0.12:34400/stream/482c2d36f8d5699b1fb445788902fecb
+#EXTINF:0 channelID="x-ID.791" tvg-chno="1791" tvg-name="Syfy (East) US" tvg-id="1791" tvg-logo="http://10.0.0.12:34400/images/c326ab26b1ddadd8719b6893f4173ff8.png" group-title="Entertainment",Syfy (East) US
+http://10.0.0.12:34400/stream/f1e1977a3e940bb7873e6496abd7d0fa
+#EXTINF:0 channelID="x-ID.792" tvg-chno="1792" tvg-name="truTV US" tvg-id="1792" tvg-logo="http://10.0.0.12:34400/images/a8fe611cfc47c735e670660a7f82f3be.png" group-title="Entertainment",truTV US
+http://10.0.0.12:34400/stream/662bace50ef2ed6a6f1546bf59f9164d
+#EXTINF:0 channelID="x-ID.793" tvg-chno="1793" tvg-name="Turner Classic Movies US" tvg-id="1793" tvg-logo="http://10.0.0.12:34400/images/5ad5cfc6659bdcb3185f89a9ea5a8f4c.png" group-title="Entertainment",Turner Classic Movies US
+http://10.0.0.12:34400/stream/f907c63b1f9fc84599d54f2f793d0291
+#EXTINF:0 channelID="x-ID.794" tvg-chno="1794" tvg-name="5 USA" tvg-id="1794" tvg-logo="http://10.0.0.12:34400/images/3055342b19b9c6b9ef785df5996ae1e8.png" group-title="UK",5 USA
+http://10.0.0.12:34400/stream/bafcd1a34b5dc98fbe659cd30c669c2e
+#EXTINF:0 channelID="x-ID.800" tvg-chno="1800" tvg-name="Sky Cinema Disney" tvg-id="1800" tvg-logo="http://10.0.0.12:34400/images/7cca1e91e1500c48f73e856c741d30ae.png" group-title="UK",Sky Cinema Disney
+http://10.0.0.12:34400/stream/d862d70589b6023c288a0ba1bcd98d47
+#EXTINF:0 channelID="x-ID.895" tvg-chno="1895" tvg-name="Boomerang" tvg-id="1895" tvg-logo="http://10.0.0.12:34400/images/72b8b005d0e8aecdd92426090d1ef43b.png" group-title="Kids",Boomerang
+http://10.0.0.12:34400/stream/dbb339fc5feb0f756198bb4ef0e56ef4
+#EXTINF:0 channelID="x-ID.903" tvg-chno="1903" tvg-name="Disney Junior CA" tvg-id="1903" tvg-logo="http://10.0.0.12:34400/images/b70aa227476c1cc57b48e7f312ec98f6.png" group-title="Kids",Disney Junior CA
+http://10.0.0.12:34400/stream/68d43aceb56308973531e71bca84ff19
+#EXTINF:0 channelID="x-ID.904" tvg-chno="1904" tvg-name="Disney UK" tvg-id="1904" tvg-logo="http://10.0.0.12:34400/images/6e7503f8cc324f551700f5ddabc9c1e8.png" group-title="Kids",Disney UK
+http://10.0.0.12:34400/stream/d73e8420885ef33ec3841bfdeb06d446
+#EXTINF:0 channelID="x-ID.913" tvg-chno="1913" tvg-name="Treehouse CA" tvg-id="1913" tvg-logo="http://10.0.0.12:34400/images/8e69134100161c4b4b6921a5664a539e.png" group-title="Kids",Treehouse CA
+http://10.0.0.12:34400/stream/b593e75db426043d94ecaaeb27c21541
+#EXTINF:0 channelID="x-ID.914" tvg-chno="1914" tvg-name="Universal Kids US" tvg-id="1914" tvg-logo="http://10.0.0.12:34400/images/51b5415983c2d1dc5e8d6c5440dede25.png" group-title="Kids",Universal Kids US
+http://10.0.0.12:34400/stream/461a882f1f064d260fda04d62c54fd7f
